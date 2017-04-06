@@ -9,7 +9,7 @@ This blog will be written mostly in *Markdown* and *AsciiDoc*, although I will p
 To bake the plain-text files into *html*:
 
 ```
-jbake -b
+jbake -b . docs
 
 ```
 

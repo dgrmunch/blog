@@ -1,11 +1,11 @@
 <%include "header.gsp"%>
 
 	<%include "menu.gsp"%>
-	
+
 	<div class="page-header">
-		<h1>JustAnOtherDevBlog - Archive</h1>
+		<h1>Archive</h1>
 	</div>
-	
+
 	<!--<ul>-->
         <%def last_month=null;%>
 		<% published_posts.each { post ->%>
@@ -24,5 +24,5 @@
             <%last_month = post.date.format("MMMM yyyy")%>
 		<%}%>
 	</ul>
-	
+
 <%include "footer.gsp"%>

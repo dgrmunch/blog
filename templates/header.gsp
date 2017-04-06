@@ -10,27 +10,26 @@
             pagetitle = "${tag}"
 
         } else if (content.type == "archive") {
-            pagetitle = "Archives"
+            pagetitle = "Archive"
         }
     %>
-    <title>JustAnOtherDevBlog<%if (pagetitle) {%> - ${pagetitle}<%}%></title>
+    <title>xmunch.com <%if (pagetitle) {%> - ${pagetitle}<%}%></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="<%
         if (pagetitle) {
-            out << "JustAnOtherDevBlog : ${pagetitle}"
+            out << "xmunch.com : ${pagetitle}"
         } else {
-            out << "JustAnOtherDevBlog : un nouveau blog de dev dont le but est de partager mes trouvailles. Mes sujets de prédilection : Java, Android, Git."
+            out << "xmunch.com"
         }
     %>">
     <meta property="og:title" content="<%
         if (pagetitle) {
-            out << "JustAnOtherDevBlog - ${pagetitle}"
+            out << "xmunch.com - ${pagetitle}"
         } else {
-            out << "JustAnOtherDevBlog"
+            out << "xmunch.com"
         }
     %>" />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="${config.site_host}/img/JustAnOtherDevBlog.png" />
     <meta property="og:url" content="<%
         if (content.type == "archive") {
             out << """${config.site_host}/archive.html"""
@@ -42,15 +41,14 @@
     %>" />
     <meta property="og:description" content="<%
         if (pagetitle) {
-            out << "JustAnOtherDevBlog : ${pagetitle}"
+            out << "xmunch.com : ${pagetitle}"
         } else {
-            out << "JustAnOtherDevBlog : un nouveau blog de dev dont le but est de partager mes trouvailles. Mes sujets de prédilection : Java, Android, Git."
+            out << "xmunch.com"
         }
     %>" />
-    <meta property="og:locale" content="fr_FR" />
-    <meta property="og:site_name" content="JustAnOtherDevBlog" />
+    <meta property="og:locale" content="es_ES" />
+    <meta property="og:site_name" content="xmunch.com" />
 
-    <!-- Le styles -->
     <link href="<%if (content.rootpath){%>${content.rootpath}<%}else{if (content.type == "tag"){%>../<%}}%>css/yeti/bootstrap.min.css" rel="stylesheet">
     <link href="<%if (content.rootpath){%>${content.rootpath}<%}else{if (content.type == "tag"){%>../<%}}%>css/base.css" rel="stylesheet">
     <link href="<%if (content.rootpath){%>${content.rootpath}<%}else{if (content.type == "tag"){%>../<%}}%>css/asciidoctor.css" rel="stylesheet">

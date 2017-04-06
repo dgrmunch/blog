@@ -3,8 +3,13 @@
             <div class="sidebar-module sidebar-module-inset">
                 <h4>Diego González</h4>
                 <p>Research & Development</p>
+                <a href="/about.html">+ About me (English)</a>
+                <a href="/sobremi.html">+ Sobre mi (Español)</a>
+            </div>
+            <div class="sidebar-module sidebar-module-inset">
+                Perfiles online:
+
                 <ul>
-								  	<li><a href="about.html">About me / Sobre mi</a></li>
                     <li><a href="https://twitter.com/dgrmunch">Twitter</a></li>
 										<li><a href="https://www.linkedin.com/in/xmunch/en">Linkedin</a></li>
 										<li><a href="https://github.com/dgrmunch">Github</a></li>
@@ -13,10 +18,12 @@
                 </ul>
             </div>
 
-            <div class="sidebar-module">
-							Other projects / Otros proyectos
-							<a href="http://www.sciartlab.com">SciArt Lab</a>
-							<a href="http://xmunch.com/blog">Rhizome Ethnographies</a>
+            <div class="sidebar-module sidebar-module-inset">
+							Other sites / Otros sitios
+              <ul>
+                  <li><a href="http://www.sciartlab.com">SciArt Lab</a></li>
+							    <li><a href="http://xmunch.com/blog">Rhizome Ethnographies</a></li>
+              </ul>
 					  </div>
 
             <div class="sidebar-module">

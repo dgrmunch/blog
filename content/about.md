@@ -6,25 +6,23 @@ status=published
 **Diego Gonzalez-Rodriguez**
 Founder of SciArt Lab | Visiting Scholar at UNCG | Software Engineer at Enxendra Technologies
 
-## Sobre el autor (Español)
+## About me (English)
 
-Mi nombre es Diego González Rodríguez en el mundo hispano-hablante, *Diego Gonzalez* o *Diego Gonzalez-Rodriguez* en el ámbito anglosajón y **xmunch** en el ciberespacio.
+I consider myself a multidisciplinary researcher, a developer, a visual ethnographer and a nomad.
 
-Vivo en North Carolina (USA), desarrollando los proyectos del [SciArt Lab](http://www.sciartlab.com) como *Visiting Scholar* en el *LIS Department* de la *University of North Carolina at Greensboro (UNCG)* mientras trabajo remotamente como *Ingeniero del Software* para **Enxendra Technologies**.
+I live in Greensboro (NC), leading the SciArt Lab while I work remotely as Software Engineer for Enxendra Technologies, developing SaaS cryptographic solutions with digital signatures.
 
-Me considero un investigador multidisciplinar, un ingeniero del software, un etnógrafo visual y un nómada. Por lo que puede decirse que he ido desarrollando mi carrera profesional en una doble o triple vía. Desde el punto de vista académico soy doctor por el Departamento de Documentación de la Universidad Carlos III de Madrid (2015). Tengo un Master en Inteligencia Artificial por la Universidad Politécnica de Madrid (2011) y un postgrado como Experto en Cooperación para el Desarrollo por la Universidad de Castilla-La Mancha (2011). Soy también Ingeniero en Informática de Sistemas por esta misma universidad (2009) y he realizado estancias de investigación en Canadá y Estados Unidos, concretamente en la *University of Toronto*  (2015) y dos veces en la *University of North Carolina at Greensboro*  (2012, 2016).
+I have a wide background as a researcher. I’ve been Research Fellow at the P2P Lab, a spin-off of Tallin University of Technology and the P2P Foundation. I have collaborated with research groups such as the Global Brain Institute of the Free University of Brussels, the Critical Making Lab at the University of Toronto and the University of North Carolina at Greensboro in diverse topics such as Artificial Intelligence, Complex Adaptive Systems, P2P dynamics and the Social Implications of Technology. Currently I also collaborate as researcher with University of Valencia.
 
-Tengo un perfil dinámico aunque me siento particularmente cómodo dentro del ámbito de la I+D, concretamente en temas relacionados con el desarrollo de software y las nuevas tecnologías. He sido *Research Fellow* del *P2P Lab*, una *spin-off* de la *Tallin University of Technology* y la *P2P Foundation*. He trabajado para la Universidad Rey Juan Carlos, la Universidad Politécnica de Madrid y diversas compañías tecnológicas. También he colaborado con grupos de investigación como el  *Global Brain Institute* de la *Free University of Brussels*, el *Critical Making Lab at the University of Toronto* o la *UNCG* en distintas disciplinas como Inteligencia Artificial, Sistema Complejos, Dinámicas P2P, simulación de sociedades artificiales y temas relacionados con las implicaciones sociales de las redes distribuidas. En la actualidad también colaboro como investigador para la Universidad de Valencia.
+I am the founder and coordinator of Bitmind, a commons-oriented startup to explore the potential of DAOs/OVNs and the evolution of social complexity in agent-based models and production communities. Bitmind had an international impact in the context of Applied Research & Open Source development around OVNs/DAOs. Since 2017 it will be a project of the P2P Foundation.
 
-He sido el fundador y el cordinador de Bitmind, una *startup*  nacidad para explorar el potencial de las DAOs/OVNs y la evolución de fenómenos sociales complejos en modelos basados en agentes y comunidades productivas. Bitmind tuvo un impacto internacional en el contexto de la investigación en torno a la aplicación de la tecnología blockchain a OVNs/DAOs. Desde de 2017 Bitmind es un proyecto en manos de la P2P Foundation.
+Additionally, I am a hobbyist photographer and a digital artist. I have other side projects and conduct some self-directed research initiatives.
 
-También soy co-fundador del SciArt Lab, un laboratorio digital de I+D para la exploración abierta de la ciencia, el arte y la tecnología. Considero que una aproximación multidisciplinar es crucial para *hackear* temas aparentemente distintos como la composición musical por ordenador, la visualización de datos, el arte generativo, los sistemas complejos adaptativos, la inteligencia artificial y la etnografía visual.
+I am also co-founder of the SciArt Lab, a digital R&D laboratory for the open exploration of Science, Art and Technology. We consider that a multidisciplinary approach is crucial to hack seemingly unrelated topics such as artificial intelligence, generative art, complex adaptive systems or digital photography.
 
-Mis inquietudes no son sólo académicas y profesionales, sino que la fotografía, la música, la literatura, la tecnología, viajar y conocer nuevas culturas son algunas de mis principales pasiones, por lo que este blog es una especie de *cajón de sastre* para publicar sin auto-censuras ni restricciones temáticas.
+For years I have been exploring the evolution of social complexity in agent-based models. Currently I am also applying qualitative approaches such as visual ethnography to study diversity of identity/identities in real social agents. I am also starting to study the intersection of artificial agent-based models with constructed languages and the application of *genetic algorithms* to music composition.
 
-Se puede decir que me considero un nodo libre de vocación humanista. He colaborado con distintas organizaciones, realizando labores de voluntariado y cooperación para el desarrollo en África, Latinoamérica, Europa y Estados Unidos.
-
-Puedes leer más en los siguientes links:
+You can read more about me in these links:
 
 * Linkedin: https://www.linkedin.com/in/xmunch/en
 * SciArt Lab: http://www.sciartlab.com
@@ -35,4 +33,4 @@ Puedes leer más en los siguientes links:
 * Flickr: https://www.flickr.com/photos/xmunch
 * Instagram: https://www.instagram.com/xmunch
 
-<a href="http://www.xmunch.com/pgp">También puedes guardar mi clave pública PGP.</a>
+<a href="http://www.xmunch.com/pgp">You can also save my PGP public key.</a>

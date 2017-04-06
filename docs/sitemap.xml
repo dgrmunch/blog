@@ -10,13 +10,6 @@
     </url>
 
     <url>
-        <loc>http://xmunch.com/me/tags/spanish.html</loc>
-        
-
-        <lastmod>2017-01-01</lastmod>
-    </url>
-
-    <url>
         <loc>http://xmunch.com/me/tags/español.html</loc>
         
 
@@ -24,7 +17,21 @@
     </url>
 
     <url>
-        <loc>http://xmunch.com/me/tags/blog.html</loc>
+        <loc>http://xmunch.com/me/tags/decentralization.html</loc>
+        
+
+        <lastmod>2017-01-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://xmunch.com/me/tags/ipfs.html</loc>
+        
+
+        <lastmod>2017-01-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://xmunch.com/me/tags/p2p.html</loc>
         
 
         <lastmod>2017-01-01</lastmod>

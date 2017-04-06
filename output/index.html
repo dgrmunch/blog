@@ -1,23 +1,31 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
   <head>
-    <meta charset="utf-8"/>
-    <title>JBake</title>
+    <meta charset="utf-8">
+    
+    <title>xmunch.com </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <meta name="keywords" content="">
-    <meta name="generator" content="JBake">
+    <meta name="description" content="xmunch.com">
+    <meta property="og:title" content="xmunch.com" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://xmunch.com/me" />
+    <meta property="og:description" content="xmunch.com" />
+    <meta property="og:locale" content="es_ES" />
+    <meta property="og:site_name" content="xmunch.com" />
 
-    <!-- Le styles -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/asciidoctor.css" rel="stylesheet">
+    <link href="css/yeti/bootstrap.min.css" rel="stylesheet">
     <link href="css/base.css" rel="stylesheet">
-    <link href="css/prettify.css" rel="stylesheet">
+    <link href="css/asciidoctor.css" rel="stylesheet">
+    <link href="css/xmunch.css" rel="stylesheet">
+    <!-- link href="/css/bootstrap-theme.min.css" rel="stylesheet" -->
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.1.0/css/font-awesome.min.css">
+    <link href='http://alexgorbatchev.com/pub/sh/3.0.83/styles/shCore.css' rel='stylesheet' type='text/css'/>
+    <link href='http://alexgorbatchev.com/pub/sh/3.0.83/styles/shThemeDefault.css' rel='stylesheet' type='text/css'/>
 
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
-      <script src="js/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
 
     <!-- Fav and touch icons -->
@@ -27,49 +35,136 @@
     <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">-->
     <link rel="shortcut icon" href="favicon.ico">
   </head>
-  <body onload="prettyPrint()">
+  <body>
     <div id="wrap">
-	
-	<!-- Fixed navbar -->
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="">JBake</a>
+
+
+	      <!-- Fixed navbar -->
+      <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="index.html">xmunch.com</a>
+          </div>
+          <div class="collapse navbar-collapse" id="navbar-menu">
+            <ul class="nav navbar-nav">
+              <li><a href="archive.html">Posts</a></li>
+              <li><a href="feed.xml">RSS</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
         </div>
-        <div class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="feed.xml">Subscribe</a></li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <li><a href="#">Action</a></li>
-                <li><a href="#">Another action</a></li>
-                <li><a href="#">Something else here</a></li>
-                <li class="divider"></li>
-                <li class="dropdown-header">Nav header</li>
-                <li><a href="#">Separated link</a></li>
-                <li><a href="#">One more separated link</a></li>
-              </ul>
-            </li>
-          </ul>
-        </div><!--/.nav-collapse -->
       </div>
-    </div>
-    <div class="container">
+      <div class="container">
+
+
 	<div class="page-header">
-		<h1>Blog</h1>
+        <div class="row">
+          <div class="col-xs-12 col-md-8"><h1>xmunch.com</h1></div>
+        </div>
 	</div>
-  			<a href="blog/2013/fourth-post.html"><h1>Fourth Post</h1></a>
-  			<p>17 octubre 2013</p>
-  			<p><div class="paragraph">
+
+    <div class="row">
+
+        <div class="col-sm-8">
+
+            
+                
+                    <div  itemscope itemtype="http://schema.org/Blog">
+                        <div itemprop="author" itemscope itemtype="http://schema.org/Person">
+                            <meta itemprop="name" content="Yan Bonnel"/>
+                        </div>
+                        <meta itemprop="inLanguage" content="fr-FR"/>
+                        <a itemprop="url" href="blog/2013/second-post.html">
+                            <h1 itemprop="name">Descentralizando la blogosfera</h1>
+                        </a>
+                        <p>
+                            <time itemprop="datePublished"
+                                  datetime="2017-01-01">
+                                01 enero 2017
+                            </time>
+                        </p>
+
+                        <p>Tags :
+                            <meta itemprop="keywords" content="blog,spanish,español"/>
+                            <a href="tags/blog.html">blog</a>, <a href="tags/spanish.html">spanish</a>, <a href="tags/español.html">español</a>
+                        </p>
+
+                        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://xmunch.com/me/blog/2013/second-post.html" data-text="Descentralizando la blogosfera" data-via="dgrmunch" data-lang="fr">[Share in Twitter]</a>
+                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                        <div class="g-plusone" data-size="medium" data-href="http://xmunch.com/me/blog/2013/second-post.html"></div>
+
+                        <div class="blogpost" itemprop="blogPost">
+                            <p><p><img src="../../img/network.jpg" title="Red distribuida y heterogénea" /></p>
+<p>Ha pasado poco más de un año desde defendí mi tesis doctoral: <strong>La descentralización estructural y la heterogeneidad funcional en la producción colectiva de conocimiento: una justificación teórica y computacional del paradigma P2P</strong>.</p>
+<p>Recibir el título de doctor tras exponer ante un tribunal los principios de un conjunto de fenómenos denominados <em>peer-to-peer (P2P)</em>, representó para mí la culminación académica de un proyecto casi ideológico que se venía gestando desde mi adolescencia.</p>
+<p>Aquel ritual laico cargado de academicismo y pompa, de solemnidad y de alegría, fue el punto y final a una investigación casi rizomática. Y aunque afronté la ceremonia final con zapatillas y vaqueros, por eso de llevar la contraria, doctorarme supuso para mi un importante logro personal. Había conseguido superar ese reto intelectual que me había prometido a mi mismo años atrás pero, al margen de aspectos meramente personales, recibir el visto bueno de un tribunal académico de prestigio implicaba algo más importante. Aquel hecho se traducía de forma directa en la validación por parte del sistema de uno de esos marcos teóricos que encuentran más simpatías en el <em>underground hacker</em> que en las aulas, más vinculados a la contracultura y los experimentos <em>cripto-anarquistas</em> que a las estructuras rígidas que suele imponer la academia.</p>
+<p>Podría definir mi tesis doctoral, por tanto, como oxímoron. Pero lo cierto es que tras un interesante periodo de trabajo conseguí que aquel conjunto de principios que venía defendiendo desde mis primeros años frente a un computador -cuando me empapaba de contracultura y textos prohibidos- acabase cristalizando en un monográfico de carácter académico. Y fue así como, de la mano de la Inteligencia Artificial, los Algoritmos Genéticos y los Modelos Multi-Agente, pude defender computacionalmente la <em>descentralización estructural</em> y la <em>heterogeneidad funcional</em>, acuñando el concepto de <strong>sociedad P2P</strong>:</p>
+<blockquote>
+  <p>Las sociedades P2P serían la consecuencia del incremento gradual tanto de la heterogeneidad como la descentralización de las redes de información. La clave no estaría tanto en el avance de la tecnología sino también en el cambio de enfoque: de lo centralizado a lo distribuido, de lo homogéneo a lo heterogéneo. La noción de sociedad P2P haría especial énfasis no sólo en la información, sino en las redes que permiten su difusión, su procesamiento distribuido y su apropiación por parte de los agentes sociales.</p>
+</blockquote>
+<p>Para mi, poco amigo de la disciplina y los estándares rígidos, publicar un monográfico acompañado de experimentos y resultados justificados, así como un conjunto de publicaciones científicas validadas por la comunidad, era parte del precio a pagar. Pero en realidad las exigencias de la carrera científica, junto a mi evolución paralela trabajando como <em>Ingeniero del Software</em> en el mundo empresarial, me estaban alejando de aquello que había estado haciendo desde los quince años: publicar libremente en mi propio <em>blog</em>.</p>
+<p>Mi crisis como <em>blogger</em> había empezado en realidad años antes, cuando tras regresar de un proyecto de Cooperación Internacional en Senegal empecé a tener serias dudas sobre el narcisismo y la prepotencia intelectual que se escondían detrás de mis blogs. Así que decidí dejar de defender una visión del mundo y limitarme a aprender de las visiones de otros. Esa suerte de catarsis <em>ego-cida</em>, sumada a un exceso de auto-exigencias a la hora de publicar, me llevaron a limitar mi producción literaria a artículos de investigación en revistas internacionales o capítulos de libros. Empecé a publicar únicamente en inglés, limitándome a artículos con un carácter meramente académico, y a sacrificar al <em>blogger</em> pasional para dejar paso al científico comedido.</p>
+<p>El caso es que desterré mis reflexiones personales a los cuadernos y las notas de cajón, cerré mis blogs y centré mis esfuerzos en construir un curriculum que me permitiera desarrollarme profesionalmente y canalizar mis inquietudes desde lo académico y lo productivo.</p>
+<p>Tuve la suerte de vivir muchas vidas y trabajar en distintos sectores, para distintas empresas, clientes, organizaciones y universidades. Viajé e inicié colaboraciones con profesionales de varias partes del globo, conociendo muchas perspectivas, muchos contextos y cosmovisiones, y entendiendo la naturaleza heterogénea de la postmodernidad, así como la naturaleza descentralizada de las interacciones.</p>
+<p>Los cambios de entorno, perfil y tipo de interlocutor me transformaron en un sujeto con mayor capacidad para cambiar de registro, lo que se traduce en que me hice un poco más viejo y las ideas empezaron a florecer más en el córtex que en las entrañas. Esta suma de acontecimientos hicieron que mi vida como <em>blogger</em> se esfumara hasta el día de hoy, cuando se imponen los propósitos para el nuevo año.</p>
+<p>Tiempo ha pasado desde que tuve el privilegio de compartir servidor con Enrique Meneses. Desde que conocí a Marta Úngaro a través de un artículo que publiqué sobre <em>La Noche de Los Lápices</em>. Tiempo ha pasado desde que desarrollé portales contra-informativos y participé en los espacios conversacionales de los sucesores del movimiento <em>ciberpunk</em> español.</p>
+<p>Pero lo cierto es que para mí las redes siempre fueron un instrumento de emancipación. Mi padre me enseñó a programar en <em>Basic</em> con siete u ocho años, y a partir de ahí mi curiosidad por la computación se disparó. Internet se me ofrecía como una puerta a otros mundos, a un <em>ciberespacio</em> que sólo los <em>hackers</em> conocíamos y que me transformó en un adicto a la información. Empecé la segunda década de mi vida definiéndome como <em>webmaster</em> y participando, entre <em>gifs</em> animados, <em>iframes</em> y fondos ilegibles, en aquella creación de contenidos a la que todos estábamos invitados.</p>
+<p>Las redes distribuidas ofrecían una biblioteca de <em>hipertexto</em> que se expandía sin límites físicos ni controles gubernamentales en una especie de realidad paralela. La anarquía cognitiva se desplegaba sobre sí misma al otro lado del cable telefónico, como si se tratara de una utopía pirata construida sobre silicio. Algunos sucumbimos ante el romanticismo de John Perry Barlow y su <strong>Declaración de Independencia del Ciberespacio</strong>:</p>
+<blockquote>
+  <p>Gobiernos del Mundo Industrial, vosotros, cansados gigantes de carne y acero, vengo del Ciberespacio, el nuevo hogar de la Mente. En nombre del futuro, os pido en el pasado que nos dejéis en paz. No sois bienvenidos entre nosotros. No ejercéis ninguna soberanía sobre el lugar donde nos reunimos […] El Ciberespacio está formado por transacciones, relaciones, y pensamiento en sí mismo, que se extiende como una quieta ola en la telaraña de nuestras comunicaciones. Nuestro mundo está a la vez en todas partes y en ninguna parte, pero no está donde viven los cuerpos. Estamos creando un mundo en el que todos pueden entrar, sin privilegios o prejuicios debidos a la raza, el poder económico, la fuerza militar, o el lugar de nacimiento. Estamos creando un mundo donde cualquiera, en cualquier sitio, puede expresar sus creencias, sin importar lo singulares que sean, sin miedo a ser coaccionado al silencio o el conformismo. Vuestros conceptos legales sobre propiedad, expresión, identidad, movimiento y contexto no se aplican a nosotros. Se basan en la materia. Aquí no hay materia.</p>
+</blockquote>
+<p>Y así fue como aquella versión adolescente de mi mismo abrazó la promesa del <em>ciberespacio</em> y se sumó a la defensa de aquel nuevo relato emancipador.</p>
+<p>Las redes distribuidas, aquellas que había ideado Paul Baran en 1964 y que habían constituido la topología de Internet, se convirtieron en un referente estructural para mi desarrollo ideológico y profesional. Primero llegaron los <em>fanzines</em> en texto plano, las conversaciones en <em>IRC</em>, la listas de correo y los distintos espacios conversacionales tras un terminal verdinegro.</p>
+<p>David de Ugarte y <em>La Sociedad de las Indias Electrónicas</em> me abrirían poco después las puertas de la <em>blogosfera</em>, el primer medio de comunicación distribuido. Por aquel entonces, cuando todavía iba al instituto y era un adolescente interesado en la justicia social y el software libre, tener mi propio blog se convirtió en un hecho relevante. Con el dominio <em>xmunch.com</em> -regalo de cumpleaños de mi tio- y la ayuda de la gente de <em>La Matriz</em>, me lancé a exponer mi punto de vista en aquel mar heterogéneo donde todos podíamos tener voz.</p>
+<p>Uno de los puntos fuertes de la <em>blogosfera</em> era su carácter no-centralizado -esto es, distribuido-. Algo que, al menos en lo filosófico, no difería demasiado de la infraestructura técnica sobre la que se había edificado Internet. En la red de redes prometida por Baran y sacralizada por Barlow, la <em>descentralización estructural</em> era un punto clave para garantizar su carácter resiliente, su resistencia a ataques externos o a la amenaza de un control central.</p>
+<p>En un ecosistema conversacional distribuido cualquiera puede montar un nodo libre e independiente en su propio servidor y hacerlo accesible para el resto de la red, algo que de una u otra forma se ha visto amenazado por la aparición de aplicaciones web como <em>Twitter</em>, <em>Facebook</em>, o <em>Google+</em>. Los denominados <em>social media</em> han re-centralizado la conversación es espacios controlados por grandes compañías, no sólo banalizando el discurso, sino haciéndonos renunciar a la soberanía de las redes distribuidas mientras entregamos nuestros datos, así como la propiedad de nuestras interacciones, a grandes nodos o <em>hubs</em>.</p>
+<p>No todo son desventajas, y sin duda el nuevo escenario, donde <em>los gigantes de acero</em> han invadido el ciberespacio, ha traído consigo la aparición de nuevos mercados, de grandes innovaciones tecnológicas y de nuevos fenómenos socio-políticos sin precedentes. No obstante, este proceso de re-centralización, donde asistimos a alianzas entre grandes corporaciones y agencias de vigilancia como la <em>NSA</em>, amenaza las redes distribuidas y su poder emancipador desde múltiples enfoques, algo que posiblemente exponga en mayor detalle en algún futuro artículo -más información <a href="http://hdl.handle.net/10016/22239">aquí</a>-.</p>
+<p>Este nuevo espacio surge como una vuelta, por mi parte, a exponer mis opiniones en ese medio digital en el que solía expresarme con plena libertad hasta hace unos años. Pero esta vez voy a hacerlo además desde la autonomía de una plataforma distribuida, desde una suerte de <em>nueva blogosfera</em>, una aún más descentralizada que la anterior y construida sobre un protocolo aún más revolucionario que el <em>HTTP</em>. Su nombre es <a href="http://ipfs.io/">IPFS</a> y es una de las puertas de acceso a la <em>Sociedad P2P</em>, a esa nueva <em>distributed web</em> donde el contenido se persiste en un medio no-centralizado por diseño, donde los servidores centrales no eliminan tu <em>web</em> ni tu <em>blog</em>, donde los <em>links</em> nunca apuntan a una página no existente. Un nuevo ciberespacio que evolucionará en poco tiempo y acabará resultando tan sencillo y accesible como la web actual.</p>
+<p>Existe algo romántico en retomar los espacios auto-gestionados, los pequeños blogs personales, los nodos libres. Y he aquí la razón principal de este nuevo espacio. Esto no implica que vaya a dejar de publicar en revistas de investigación, de utilizar otro tipo de plataformas o de convivir con el modelo re-centralizador dominante. Pero lo cierto es que volveré a tener mi <em>isla pirata</em>, un espacio en el que pueda liberarme de los límites formales y metodológicos del mundo académico, de los <em>hubs</em> y de la autocensura.</p>
+<p>Y lo bueno es que esta vez lo haré como un investigador independiente y heterodoxo, un sujeto que sigue investigando aspectos relacionados con la <em>descentralización estructural</em> y la <em>heterogeneidad funcional</em> de los sistemas sociales, pero ampliando el ámbito de estudio más allá de la informática, la teoría de la información, las ciencias cognitivas, los sistemas complejos o la teoría evolutiva, y abrazando también disciplinas como la antropología o la etnografía visual.</p>
+<p>Una investigación multidisciplinar que estoy canalizando como <em>Visiting Researcher</em> en la <em>University of North Carolina</em> mientras desarrollo varios proyectos propios en el <a href="http://www.sciartlab.com">SciArt Lab</a> e implemento soluciones digitales en <em>Enxendra Technologies</em>, una empresa desde la que ofrecemos servicios de voto electrónico, factura electrónica y firma electrónica en este mundo regido por la criptografía que es el horizonte digital. Un mundo donde la identidad viene definida por certificados electrónicos y donde la privacidad y la autenticidad sólo pueden garantizarse mediante mecanismos criptográficos.</p>
+<p>Este espacio será por tanto un lugar donde compartiré impresiones y reflexiones que podrán ser tanto personales como académicas o profesionales, sin restricciones de forma ni de fondo. Un ejercicio en mi lengua madre que ya inicié de algún modo en inglés cuando lancé el pasado año el proyecto <a href="http://xmunch.com/rhizome/">Rhizome Ethnographies</a>.</p>
+<p>Tras un año viviendo por segunda vez en Estados Unidos, vuelvo a la <em>blogosfera</em> con una visión distinta del mundo a la que tenía cuando publiqué mi tesis doctoral. Mi investigación predoctoral pretendía demostrar teórica y computacionalmente la validez del <em>paradigma P2P</em> y defender su gradual imposición como parte del proceso evolutivo de los sistemas de procesamiento de información. Mis proyectos actuales, sin embargo, abordan aspectos relacionados con este tronco común pero enfocándose en distintos intereses y desde enfoques muy distintos, más humanistas y más cercanos no sólo a la computación sino también a las ciencias sociales.</p>
+<p>Pero en cualquier caso, este espacio nace como un nodo libre que se servirá de nuevas infraestructuras técnicas más acordes al modelo que defiende. Así que como gesto simbólico fundacional, a modo de declaración de intenciones, esta bitácora nace en <em>IPFS</em>. Pues la libertad no puede existir en ningún sistema caracterizado por la centralización y la homogeneidad.</p>
+<p><strong>Acceso permanente a esta versión del documento:</strong><br/> <em>/ipfs/QmYkR4FNA1JxnF55o4pJLnnPgDLABzGLjbjveFpCevT1tj/#!articles/bitacora.md</em></p></p>
+                        </div>
+
+                    </div>
+                
+
+            
+                
+                    <div  itemscope itemtype="http://schema.org/Blog">
+                        <div itemprop="author" itemscope itemtype="http://schema.org/Person">
+                            <meta itemprop="name" content="Yan Bonnel"/>
+                        </div>
+                        <meta itemprop="inLanguage" content="fr-FR"/>
+                        <a itemprop="url" href="blog/2013/fourth-post.html">
+                            <h1 itemprop="name">Fourth Post</h1>
+                        </a>
+                        <p>
+                            <time itemprop="datePublished"
+                                  datetime="2013-10-17">
+                                17 octubre 2013
+                            </time>
+                        </p>
+
+                        <p>Tags :
+                            <meta itemprop="keywords" content="blog,asciidoc"/>
+                            <a href="tags/blog.html">blog</a>, <a href="tags/asciidoc.html">asciidoc</a>
+                        </p>
+
+                        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://xmunch.com/me/blog/2013/fourth-post.html" data-text="Fourth Post" data-via="dgrmunch" data-lang="fr">[Share in Twitter]</a>
+                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                        <div class="g-plusone" data-size="medium" data-href="http://xmunch.com/me/blog/2013/fourth-post.html"></div>
+
+                        <div class="blogpost" itemprop="blogPost">
+                            <p><div class="paragraph">
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.</p>
 </div>
 <div class="ulist">
@@ -91,9 +186,39 @@ id auctor arcu enim eu augue. Donec ultrices turpis in mi imperdiet ac venenatis
 consequat imperdiet nunc quis bibendum. Nulla semper, erat quis ornare tristique, lectus massa posuere
 libero, ut vehicula lectus nunc ut lorem. Aliquam erat volutpat.</p>
 </div></p>
-  			<a href="blog/2013/third-post.html"><h1>Third Post</h1></a>
-  			<p>26 septiembre 2013</p>
-  			<p><div class="paragraph">
+                        </div>
+
+                    </div>
+                
+
+            
+                
+                    <div  itemscope itemtype="http://schema.org/Blog">
+                        <div itemprop="author" itemscope itemtype="http://schema.org/Person">
+                            <meta itemprop="name" content="Yan Bonnel"/>
+                        </div>
+                        <meta itemprop="inLanguage" content="fr-FR"/>
+                        <a itemprop="url" href="blog/2013/third-post.html">
+                            <h1 itemprop="name">Third Post</h1>
+                        </a>
+                        <p>
+                            <time itemprop="datePublished"
+                                  datetime="2013-09-26">
+                                26 septiembre 2013
+                            </time>
+                        </p>
+
+                        <p>Tags :
+                            <meta itemprop="keywords" content="blog,asciidoc"/>
+                            <a href="tags/blog.html">blog</a>, <a href="tags/asciidoc.html">asciidoc</a>
+                        </p>
+
+                        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://xmunch.com/me/blog/2013/third-post.html" data-text="Third Post" data-via="dgrmunch" data-lang="fr">[Share in Twitter]</a>
+                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                        <div class="g-plusone" data-size="medium" data-href="http://xmunch.com/me/blog/2013/third-post.html"></div>
+
+                        <div class="blogpost" itemprop="blogPost">
+                            <p><div class="paragraph">
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.</p>
 </div>
 <div class="ulist">
@@ -115,66 +240,119 @@ id auctor arcu enim eu augue. Donec ultrices turpis in mi imperdiet ac venenatis
 consequat imperdiet nunc quis bibendum. Nulla semper, erat quis ornare tristique, lectus massa posuere
 libero, ut vehicula lectus nunc ut lorem. Aliquam erat volutpat.</p>
 </div></p>
-  			<a href="blog/2013/second-post.html"><h1>Second Post</h1></a>
-  			<p>25 agosto 2013</p>
-  			<p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.</p>
-<ul>
-  <li><a href="http://example.org">http://example.org</a></li>
-  <li><a href="http://example.org">Example.org</a></li>
-</ul>
-<p>Nam id nisl quam. Donec a lorem sit amet libero pretium vulputate vel ut purus. Suspendisse leo arcu,<br/>mattis et imperdiet luctus, pulvinar vitae mi. Quisque fermentum sollicitudin feugiat. Mauris nec leo<br/>ligula. Vestibulum tristique odio ut risus ultricies a hendrerit quam iaculis. Duis tempor elit sit amet<br/>ligula vehicula et iaculis sem placerat. Fusce dictum, metus at volutpat lacinia, elit massa auctor risus,<br/>id auctor arcu enim eu augue. Donec ultrices turpis in mi imperdiet ac venenatis sapien sodales. In<br/>consequat imperdiet nunc quis bibendum. Nulla semper, erat quis ornare tristique, lectus massa posuere<br/>libero, ut vehicula lectus nunc ut lorem. Aliquam erat volutpat.</p></p>
-  			<a href="blog/2013/first-post.html"><h1>First Post</h1></a>
-  			<p>24 julio 2013</p>
-  			<p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.</p>
+                        </div>
 
-<ul>
-<li><a href="http://example.org">http://example.org</a></li>
-<li><a href="http://example.org">Example.org</a></li>
-</ul>
+                    </div>
+                
 
-<p>Nam id nisl quam. Donec a lorem sit amet libero pretium vulputate vel ut purus. Suspendisse leo arcu, 
-mattis et imperdiet luctus, pulvinar vitae mi. Quisque fermentum sollicitudin feugiat. Mauris nec leo 
-ligula. Vestibulum tristique odio ut risus ultricies a hendrerit quam iaculis. Duis tempor elit sit amet 
-ligula vehicula et iaculis sem placerat. Fusce dictum, metus at volutpat lacinia, elit massa auctor risus, 
-id auctor arcu enim eu augue. Donec ultrices turpis in mi imperdiet ac venenatis sapien sodales.</p> 
+            
+                
+                    <div  itemscope itemtype="http://schema.org/Blog">
+                        <div itemprop="author" itemscope itemtype="http://schema.org/Person">
+                            <meta itemprop="name" content="Yan Bonnel"/>
+                        </div>
+                        <meta itemprop="inLanguage" content="fr-FR"/>
+                        <a itemprop="url" href="blog/2013/first-post.html">
+                            <h1 itemprop="name">First Post</h1>
+                        </a>
+                        <p>
+                            <time itemprop="datePublished"
+                                  datetime="2013-07-24">
+                                24 julio 2013
+                            </time>
+                        </p>
 
-<pre class="prettyprint">
-<code>
-package org.jbake;
+                        <p>Tags :
+                            <meta itemprop="keywords" content="blog"/>
+                            <a href="tags/blog.html">blog</a>
+                        </p>
 
-public class Oven {
-	public static void main(String[] args) {
-		System.out.print("Baking!");
-  }
-}
-</code>
-</pre>
+                        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://xmunch.com/me/blog/2013/first-post.html" data-text="First Post" data-via="dgrmunch" data-lang="fr">[Share in Twitter]</a>
+                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                        <div class="g-plusone" data-size="medium" data-href="http://xmunch.com/me/blog/2013/first-post.html"></div>
 
-<p>In consequat imperdiet nunc quis bibendum. Nulla semper, erat quis ornare tristique, lectus massa posuere 
-libero, ut vehicula lectus nunc ut lorem. Aliquam erat volutpat.</p>
+                        <div class="blogpost" itemprop="blogPost">
+                            <p>
+<h2>Tags:</h2>
+alltags
+${allTags}
+<% alltags.collect{it-> [it.toLowerCase(), it]}.sort{it-> it[0]}.each { lc, tag ->%>
+         <a href="${tag}.html">${lc}</a>
+<%}%>
 </p>
-	
-	<hr />
-	
-	<p>Older posts are available in the <a href="archive.html">archive</a>.</p>
+                        </div>
+
+                    </div>
+                
+
+            
+
+            <hr />
+
+            <p> [Ver blogs más antiguos en el <a href="archive.html">archivo</a>]</p>
+						<p> [See more posts in the <a href="archive.html">archive</a>]</p>
+
+        </div>
+
+				
+        <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+            <div class="avatar-box sidebar-module sidebar-module-inset">
+                <h4>Diego González</h4>
+                <p><b>Research & Development</b></p>
+                <img src="/img/avatar.jpg" class="profile-photo-edit__preview" alt="Edit photo" height="128" width="128">
+                <br><br>
+                <a href="/about.html">About me (English)</a><br>
+                <a href="/sobremi.html">Sobre mi (Español)</a>
+            </div>
+            <div class="sidebar-module sidebar-module-inset">
+              <b>Social Media:</b><br>
+
+                <ul>
+                    <li><a href="https://twitter.com/dgrmunch">Twitter</a></li>
+										<li><a href="https://www.linkedin.com/in/xmunch/en">Linkedin</a></li>
+										<li><a href="https://github.com/dgrmunch">Github</a></li>
+										<li><a href="https://www.instagram.com/xmunch">Instagram</a></li>
+										<li><a href="https://www.flickr.com/photos/xmunch">Flickr</a></li>
+                </ul>
+            </div>
+
+            <div class="sidebar-module sidebar-module-inset">
+							<b>Other sites / Otros sitios</b><br>
+              <ul>
+                  <li><a href="http://www.sciartlab.com">SciArt Lab</a></li>
+							    <li><a href="http://xmunch.com/blog">Rhizome Ethnographies</a></li>
+              </ul>
+					  </div>
+
+            <div class="sidebar-module">
+                <h4>Tags</h4>
+                <ol class="list-unstyled" style="margin-left: 0px">
+                    
+                        <li><a href="tags/blog.html">blog</a> (4)</li>
+                    
+                        <li><a href="tags/asciidoc.html">asciidoc</a> (2)</li>
+                    
+                        <li><a href="tags/español.html">español</a> (1)</li>
+                    
+                        <li><a href="tags/spanish.html">spanish</a> (1)</li>
+                    
+                 </ol>
+            </div>
+        </div>
+
+
+    </div>
 
 		</div>
 		<div id="push"></div>
     </div>
-    
+
     <div id="footer">
       <div class="container">
-        <p class="muted credit">&copy; 2014 | Mixed with <a href="http://getbootstrap.com/">Bootstrap v3.1.1</a> | Baked with <a href="http://jbake.org">JBake v2.5.1</a></p>
+        <p class="text-muted credit">&copy; Diego Gonzalez 2017 | <a href="http://xmunch.com">xmunch.com</a> | Baked with <a href="http://jbake.org">JBake v2.5.1</a></p>
       </div>
     </div>
-    
-    <!-- Le javascript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="js/jquery-1.11.1.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/prettify.js"></script>
-    
+
   </body>
 </html>
+

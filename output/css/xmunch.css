@@ -1,0 +1,30 @@
+.container .credit {
+    margin: 0px !important;
+}
+
+.avatar-box {
+    text-align: center;
+    background-color: black;
+    color: white !important;
+}
+
+.avatar-box a {
+    color: lightblue !important;
+}
+
+.avatar-box a:hover {
+    color: white !important;
+}
+
+.avatar-box img {
+    border: 1px solid white !important;
+}
+
+.sidebar-module-inset{
+  border: 1px solid black;
+}
+
+.blogpost{
+    text-align: justify;
+    text-justify: inter-word;
+}

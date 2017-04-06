@@ -19,3 +19,12 @@
 .avatar-box img {
     border: 1px solid white !important;
 }
+
+.sidebar-module-inset{
+  border: 1px solid black;
+}
+
+.blogpost{
+    text-align: justify;
+    text-justify: inter-word;
+}

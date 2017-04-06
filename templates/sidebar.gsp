@@ -9,7 +9,7 @@
                 <a href="/sobremi.html">Sobre mi (Español)</a>
             </div>
             <div class="sidebar-module sidebar-module-inset">
-                Social Media:
+              <b>Social Media / Redes sociales</b><br>
 
                 <ul>
                     <li><a href="https://twitter.com/dgrmunch">Twitter</a></li>
@@ -21,7 +21,7 @@
             </div>
 
             <div class="sidebar-module sidebar-module-inset">
-							Other sites / Otros sitios
+							<b>Other sites / Otros sitios</b><br>
               <ul>
                   <li><a href="http://www.sciartlab.com">SciArt Lab</a></li>
 							    <li><a href="http://xmunch.com/blog">Rhizome Ethnographies</a></li>

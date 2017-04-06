@@ -1,10 +1,12 @@
 
         <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
-            <div class="sidebar-module sidebar-module-inset">
+            <div class="avatar-box sidebar-module sidebar-module-inset">
                 <h4>Diego González</h4>
                 <p><b>Research & Development</b></p>
-                <a href="/about.html">+ About me (English)</a><br>
-                <a href="/sobremi.html">+ Sobre mi (Español)</a>
+                <img src="/img/avatar.jpg" class="profile-photo-edit__preview" alt="Edit photo" height="128" width="128">
+                <br><br>
+                <a href="/about.html">About me (English)</a><br>
+                <a href="/sobremi.html">Sobre mi (Español)</a>
             </div>
             <div class="sidebar-module sidebar-module-inset">
                 Social Media:

@@ -2,12 +2,12 @@
         <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
             <div class="sidebar-module sidebar-module-inset">
                 <h4>Diego González</h4>
-                <p>Research & Development</p>
-                <a href="/about.html">+ About me (English)</a>
+                <p><b>Research & Development</b></p>
+                <a href="/about.html">+ About me (English)</a><br>
                 <a href="/sobremi.html">+ Sobre mi (Español)</a>
             </div>
             <div class="sidebar-module sidebar-module-inset">
-                Perfiles online:
+                Social Media:
 
                 <ul>
                     <li><a href="https://twitter.com/dgrmunch">Twitter</a></li>

@@ -5,7 +5,7 @@ tags=blog, spanish, español
 status=published
 ~~~~~~
 
-![](../../img/network.jpg "Red distribuida y heterogénea")
+![](${content.rootpath}img/network.jpg "Red distribuida y heterogénea")
 
 Ha pasado poco más de un año desde defendí mi tesis doctoral: **La descentralización estructural y la heterogeneidad funcional en la producción colectiva de conocimiento: una justificación teórica y computacional del paradigma P2P**.
 
@@ -59,7 +59,7 @@ Este espacio será por tanto un lugar donde compartiré impresiones y reflexione
 
 Tras un año viviendo por segunda vez en Estados Unidos, vuelvo a la *blogosfera* con una visión distinta del mundo a la que tenía cuando publiqué mi tesis doctoral. Mi investigación predoctoral pretendía demostrar teórica y computacionalmente la validez del *paradigma P2P* y defender su gradual imposición como parte del proceso evolutivo de los sistemas de procesamiento de información. Mis proyectos actuales, sin embargo, abordan aspectos relacionados con este tronco común pero enfocándose en distintos intereses y desde enfoques muy distintos, más humanistas y más cercanos no sólo a la computación sino también a las ciencias sociales.
 
-Pero en cualquier caso, este espacio nace como un nodo libre que se servirá de nuevas infraestructuras técnicas más acordes al modelo que defiende.  Así que como gesto simbólico fundacional, a modo de declaración de intenciones, esta bitácora nace en *IPFS*. Pues la libertad no puede existir en ningún sistema caracterizado por la centralización y la homogeneidad.
+Pero en cualquier caso, este espacio nace como un nodo libre que se servirá de nuevas infraestructuras técnicas más acordes al modelo que defiende.  Así que como gesto simbólico fundacional, a modo de declaración de intenciones, esta bitácora nace en base a ficheros estáticos que podrán ser replicados en *IPFS*. Pues la libertad no puede existir en ningún sistema caracterizado por la centralización y la homogeneidad.
 
 **Acceso permanente a esta versión del documento:**
  */ipfs/QmYkR4FNA1JxnF55o4pJLnnPgDLABzGLjbjveFpCevT1tj/#!articles/bitacora.md*

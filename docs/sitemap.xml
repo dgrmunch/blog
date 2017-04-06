@@ -10,13 +10,6 @@
     </url>
 
     <url>
-        <loc>http://xmunch.com/me/tags/asciidoc.html</loc>
-        
-
-        <lastmod>2013-10-17</lastmod>
-    </url>
-
-    <url>
         <loc>http://xmunch.com/me/tags/spanish.html</loc>
         
 
@@ -49,23 +42,8 @@
     </url>
 
     <url>
-        <loc>http://xmunch.com/me/blog/2013/second-post.html</loc>
+        <loc>http://xmunch.com/me/blog/2017/descentralizando.html</loc>
         <lastmod>2017-01-01</lastmod>
-    </url>
-
-    <url>
-        <loc>http://xmunch.com/me/blog/2013/fourth-post.html</loc>
-        <lastmod>2013-10-17</lastmod>
-    </url>
-
-    <url>
-        <loc>http://xmunch.com/me/blog/2013/third-post.html</loc>
-        <lastmod>2013-09-26</lastmod>
-    </url>
-
-    <url>
-        <loc>http://xmunch.com/me/blog/2013/first-post.html</loc>
-        <lastmod>2013-07-24</lastmod>
     </url>
 
 </urlset>

@@ -10,7 +10,7 @@
     </url>
 
     <url>
-        <loc>http://xmunch.com/me/tags/español.html</loc>
+        <loc>http://xmunch.com/me/tags/spanish.html</loc>
         
 
         <lastmod>2017-01-01</lastmod>
@@ -28,6 +28,34 @@
         
 
         <lastmod>2017-01-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://xmunch.com/me/tags/english.html</loc>
+        
+
+        <lastmod>2017-03-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://xmunch.com/me/tags/data-visualization.html</loc>
+        
+
+        <lastmod>2017-03-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://xmunch.com/me/tags/multiculturalism.html</loc>
+        
+
+        <lastmod>2017-03-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://xmunch.com/me/tags/ethnography.html</loc>
+        
+
+        <lastmod>2017-03-01</lastmod>
     </url>
 
     <url>
@@ -51,6 +79,11 @@
     <url>
         <loc>http://xmunch.com/me/ipfs.html</loc>
         <lastmod>2017-04-06</lastmod>
+    </url>
+
+    <url>
+        <loc>http://xmunch.com/me/blog/2017/rhizome.html</loc>
+        <lastmod>2017-03-01</lastmod>
     </url>
 
     <url>

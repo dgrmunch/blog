@@ -1,7 +1,7 @@
 title=Descentralizando la blogosfera
 date=2017-01-01
 type=post
-tags=español, ipfs, decentralization, p2p
+tags=spanish, ipfs, decentralization, p2p
 status=published
 ~~~~~~
 

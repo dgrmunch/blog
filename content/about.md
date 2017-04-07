@@ -6,8 +6,6 @@ status=published
 **Diego Gonzalez-Rodriguez**
 Founder of SciArt Lab | Visiting Scholar at UNCG | Software Engineer at Enxendra Technologies
 
-## About me (English)
-
 I consider myself a multidisciplinary researcher, a developer, a visual ethnographer and a nomad.
 
 I live in Greensboro (NC), leading the SciArt Lab while I work remotely as Software Engineer for Enxendra Technologies, developing SaaS cryptographic solutions with digital signatures.

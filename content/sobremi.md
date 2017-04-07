@@ -1,12 +1,10 @@
-title=About
+title=Sobre mi
 type=page
 status=published
 ~~~~~~
 
 **Diego Gonzalez-Rodriguez**
 Founder of SciArt Lab | Visiting Scholar at UNCG | Software Engineer at Enxendra Technologies
-
-## Sobre el autor (Español)
 
 Mi nombre es Diego González Rodríguez en el mundo hispano-hablante, *Diego Gonzalez* o *Diego Gonzalez-Rodriguez* en el ámbito anglosajón y **xmunch** en el ciberespacio.
 

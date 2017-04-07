@@ -5,7 +5,7 @@ tags=english, commons, blockchain, p2p
 status=published
 ~~~~~~
 
-![](../../img/blockchain.jpg)
+![](https://dgrmunch.github.io/blog/img/blockchain.jpg)
 
 ## Blockchain, Commons and P2P
 

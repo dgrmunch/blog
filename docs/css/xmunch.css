@@ -1,3 +1,15 @@
+
+.blogpost{
+    text-align: justify;
+    text-justify: inter-word;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 10px;
+}
+
+.blogpost img{
+    border: 1px solid black !important;
+}
+
 .container .credit {
     margin: 0px !important;
 }
@@ -22,9 +34,4 @@
 
 .sidebar-module-inset{
   border: 1px solid black;
-}
-
-.blogpost{
-    text-align: justify;
-    text-justify: inter-word;
 }

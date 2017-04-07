@@ -13,7 +13,10 @@
     <div class="col-sm-8">
         <% tag_posts.each { post -> %>
             <%if (post.status == "published") {%>
+
                 <a href="../${post.uri}"><h1>${post.title}</h1></a>
+
+								<div class="blogpost">
                 <p>${post.date.format("dd MMMM yyyy")}</p>
 
                 <p>Tags :
@@ -29,6 +32,7 @@
 								<div class="g-plusone" data-size="medium" data-href="http://xmunch.com/me/${post.uri}"></div>
 
                 <p>${post.body}</p>
+							</div>
             <%}%>
 
         <%}%>

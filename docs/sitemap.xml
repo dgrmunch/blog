@@ -2,25 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>http://xmunch.com/me/index.html</loc>
-        <lastmod>2017-04-07</lastmod>
+        <lastmod>2017-04-08</lastmod>
     </url>
     <url>
         <loc>http://xmunch.com/me/archive.html</loc>
-        <lastmod>2017-04-07</lastmod>
+        <lastmod>2017-04-08</lastmod>
     </url>
 
     <url>
         <loc>http://xmunch.com/me/tags/spanish.html</loc>
         
 
-        <lastmod>2017-01-01</lastmod>
+        <lastmod>2017-02-12</lastmod>
+    </url>
+
+    <url>
+        <loc>http://xmunch.com/me/tags/diversity.html</loc>
+        
+
+        <lastmod>2017-02-12</lastmod>
     </url>
 
     <url>
         <loc>http://xmunch.com/me/tags/decentralization.html</loc>
         
 
-        <lastmod>2017-01-01</lastmod>
+        <lastmod>2017-02-12</lastmod>
     </url>
 
     <url>
@@ -56,6 +63,13 @@
         
 
         <lastmod>2017-03-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://xmunch.com/me/tags/postmodern.html</loc>
+        
+
+        <lastmod>2017-02-12</lastmod>
     </url>
 
     <url>
@@ -98,6 +112,11 @@
     <url>
         <loc>http://xmunch.com/me/blog/2017/rhizome.html</loc>
         <lastmod>2017-03-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://xmunch.com/me/blog/2017/la-llamada.html</loc>
+        <lastmod>2017-02-12</lastmod>
     </url>
 
     <url>

@@ -13,7 +13,7 @@ Michel Bauwens defines the term **P2P** as the *relational dynamic of distribute
 
 *Distributed networks* are different from *centralized networks*, those with a centralized topology on one node. They are also different from the *decentralized or federated networks*, those with several central nodes connected to each other. In other words, distributed networks would be those whose nodes could be connected without intermediates, exchanging information freely without central control.
 
-Considering this, we can tell that the concept behind the acronym *P2P* is strongly related with the topology of our communication infrastructures. But it also implies a change in our practices and values, and may lead to change of paradigm with very important implications in a wide variety of fields such as economics, politics, science or education.
+Considering this, we can tell that the concept behind the acronym *P2P* is strongly related with the topology of our communication infrastructures. But it also implies a change in our practices and values, and may lead to a change of paradigm with very important implications in a wide variety of fields such as economics, politics, science or education.
 
 However, when we talk about the *Blockchain* we are talking basically about a distributed ledger of transactions and the protocol which enables different nodes to use the same ledger. In order words, a protocol that allows agents to be part of the same transaction network by **building consensus** with *cryptographic algorithms*.
 

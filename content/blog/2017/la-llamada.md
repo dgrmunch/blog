@@ -63,7 +63,7 @@ Cada cultura, cada individuo, cada pueblo, es una fuente de luz y conocimiento. 
 
 En parte, esto hace que una de mis principales pasiones sea viajar. Viajar de un modo que me permita establecer conversaciones con la gente común y conectar con esos otros *universos cognitivos* que hacen que me sienta parte de una red más grande e interesante que lo que constituye mi propio nodo egoico.
 
-# Una vida plasmada en un mapa
+# Perspectivas, contextos e identidades
 
 Se puede decir que intentando viajar mucho he viajado más bien poco si consideramos el tamaño del globo. Pero tengo la ilusión constante de tener una vida por delante en la que pueda perderme en tantos puntos geográficos de este geoide azul como sea posible.
 

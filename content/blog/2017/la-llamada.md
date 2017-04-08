@@ -81,7 +81,7 @@ Parte de este proyecto enlaza con mi afición a la fotografía, por lo que estoy
 
 De momento, he visitado más de una veintena de estados y numerosas ciudades que reflejan la gran diversidad de esta federación de territorios autónomos y comunidades religiosas, étnicas y lingüísticas.
 
-Uno de los capítulos más fascinantes de esta experiencia ha sido una reciente visita a Puerto Rico. Sin duda, un país fascinante que fue vomitado por un imperio para de ser fagocitado por otro a finales del siglo XIX y que hoy cuenta con el título distintivo de *Estado Libre Asociado*.
+Uno de los capítulos más interesantes de esta experiencia ha sido una reciente visita a Puerto Rico. Sin duda, un país fascinante que fue vomitado por un imperio para de ser fagocitado por otro a finales del siglo XIX y que hoy cuenta con el título distintivo de *Estado Libre Asociado*.
 
 Visitar Puerto Rico ha sido como volver a Latinoamérica sin dejar Estados Unidos. Una sensación maravillosa, como si hubiera podido visitar el punto donde la fusión de estos dos mundos es de algún modo posible, siendo éste al mismo tiempo un representante vivo de la confrontación de dos realidades casi antagónicas.
 

@@ -1,93 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>http://xmunch.com/me/index.html</loc>
-        <lastmod>2017-04-08</lastmod>
+        <loc>http://dgrmunch.github.io/blog/index.html</loc>
+        <lastmod>2017-04-09</lastmod>
     </url>
     <url>
-        <loc>http://xmunch.com/me/archive.html</loc>
-        <lastmod>2017-04-08</lastmod>
+        <loc>http://dgrmunch.github.io/blog/archive.html</loc>
+        <lastmod>2017-04-09</lastmod>
     </url>
 
     <url>
-        <loc>http://xmunch.com/me/tags/spanish.html</loc>
+        <loc>http://dgrmunch.github.io/blog/tags/spanish.html</loc>
         
 
         <lastmod>2017-02-12</lastmod>
     </url>
 
     <url>
-        <loc>http://xmunch.com/me/tags/diversity.html</loc>
+        <loc>http://dgrmunch.github.io/blog/tags/diversity.html</loc>
         
 
         <lastmod>2017-02-12</lastmod>
     </url>
 
     <url>
-        <loc>http://xmunch.com/me/tags/decentralization.html</loc>
+        <loc>http://dgrmunch.github.io/blog/tags/decentralization.html</loc>
         
 
         <lastmod>2017-02-12</lastmod>
     </url>
 
     <url>
-        <loc>http://xmunch.com/me/tags/blockchain.html</loc>
+        <loc>http://dgrmunch.github.io/blog/tags/blockchain.html</loc>
         
 
         <lastmod>2017-02-03</lastmod>
     </url>
 
     <url>
-        <loc>http://xmunch.com/me/tags/ipfs.html</loc>
+        <loc>http://dgrmunch.github.io/blog/tags/ipfs.html</loc>
         
 
         <lastmod>2017-01-01</lastmod>
     </url>
 
     <url>
-        <loc>http://xmunch.com/me/tags/english.html</loc>
+        <loc>http://dgrmunch.github.io/blog/tags/english.html</loc>
         
 
         <lastmod>2017-03-01</lastmod>
     </url>
 
     <url>
-        <loc>http://xmunch.com/me/tags/data-visualization.html</loc>
+        <loc>http://dgrmunch.github.io/blog/tags/data-visualization.html</loc>
         
 
         <lastmod>2017-03-01</lastmod>
     </url>
 
     <url>
-        <loc>http://xmunch.com/me/tags/multiculturalism.html</loc>
+        <loc>http://dgrmunch.github.io/blog/tags/multiculturalism.html</loc>
         
 
         <lastmod>2017-03-01</lastmod>
     </url>
 
     <url>
-        <loc>http://xmunch.com/me/tags/postmodern.html</loc>
+        <loc>http://dgrmunch.github.io/blog/tags/postmodern.html</loc>
         
 
         <lastmod>2017-02-12</lastmod>
     </url>
 
     <url>
-        <loc>http://xmunch.com/me/tags/commons.html</loc>
+        <loc>http://dgrmunch.github.io/blog/tags/commons.html</loc>
         
 
         <lastmod>2017-02-03</lastmod>
     </url>
 
     <url>
-        <loc>http://xmunch.com/me/tags/ethnography.html</loc>
+        <loc>http://dgrmunch.github.io/blog/tags/ethnography.html</loc>
         
 
         <lastmod>2017-03-01</lastmod>
     </url>
 
     <url>
-        <loc>http://xmunch.com/me/tags/p2p.html</loc>
+        <loc>http://dgrmunch.github.io/blog/tags/p2p.html</loc>
         
 
         <lastmod>2017-02-03</lastmod>
@@ -95,37 +95,37 @@
 
 
     <url>
-        <loc>http://xmunch.com/me/about.html</loc>
+        <loc>http://dgrmunch.github.io/blog/about.html</loc>
         <lastmod>2017-04-06</lastmod>
     </url>
 
     <url>
-        <loc>http://xmunch.com/me/sobremi.html</loc>
+        <loc>http://dgrmunch.github.io/blog/sobremi.html</loc>
         <lastmod>2017-04-06</lastmod>
     </url>
 
     <url>
-        <loc>http://xmunch.com/me/ipfs.html</loc>
+        <loc>http://dgrmunch.github.io/blog/ipfs.html</loc>
         <lastmod>2017-04-06</lastmod>
     </url>
 
     <url>
-        <loc>http://xmunch.com/me/blog/2017/rhizome.html</loc>
+        <loc>http://dgrmunch.github.io/blog/blog/2017/rhizome.html</loc>
         <lastmod>2017-03-01</lastmod>
     </url>
 
     <url>
-        <loc>http://xmunch.com/me/blog/2017/la-llamada.html</loc>
+        <loc>http://dgrmunch.github.io/blog/blog/2017/la-llamada.html</loc>
         <lastmod>2017-02-12</lastmod>
     </url>
 
     <url>
-        <loc>http://xmunch.com/me/blog/2017/blockchain.html</loc>
+        <loc>http://dgrmunch.github.io/blog/blog/2017/blockchain.html</loc>
         <lastmod>2017-02-03</lastmod>
     </url>
 
     <url>
-        <loc>http://xmunch.com/me/blog/2017/descentralizando.html</loc>
+        <loc>http://dgrmunch.github.io/blog/blog/2017/descentralizando.html</loc>
         <lastmod>2017-01-01</lastmod>
     </url>
 

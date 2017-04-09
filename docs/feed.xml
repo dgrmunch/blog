@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>xmunch.com</title>
-    <link>http://xmunch.com/me</link>
-    <atom:link href="http://xmunch.com/me/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://dgrmunch.github.io/blog</link>
+    <atom:link href="http://dgrmunch.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>xmunch.com</description>
     <language>en-gb</language>
-      <pubDate>Sat, 8 Apr 2017 13:07:39 -0400</pubDate>
-      <lastBuildDate>Sat, 8 Apr 2017 13:07:39 -0400</lastBuildDate>
+      <pubDate>Sun, 9 Apr 2017 12:55:27 -0400</pubDate>
+      <lastBuildDate>Sun, 9 Apr 2017 12:55:27 -0400</lastBuildDate>
 
       
       <item>
           <title>A new research: Introduction to Rhizome Ethnographies</title>
-          <link>http://xmunch.com/me/blog/2017/rhizome.html</link>
+          <link>http://dgrmunch.github.io/blog/blog/2017/rhizome.html</link>
           <pubDate>Wed, 1 Mar 2017 00:00:00 -0500</pubDate>
-          <guid isPermaLink="false">http://xmunch.com/me/blog/2017/rhizome.html</guid>
+          <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/rhizome.html</guid>
           <description>
               &lt;blockquote&gt;
   &lt;p&gt;This article was originally published in the &lt;a href=&quot;http://www.xmunch.com/rhizome&quot;&gt;Rhizome Ethnographies&lt;/a&gt; site. I have republished it here as an introduction for those who don&apos;t know the project yet.&lt;/p&gt;
@@ -52,9 +52,9 @@
       
       <item>
           <title>Abrazando la condición postmoderna</title>
-          <link>http://xmunch.com/me/blog/2017/la-llamada.html</link>
+          <link>http://dgrmunch.github.io/blog/blog/2017/la-llamada.html</link>
           <pubDate>Sun, 12 Feb 2017 00:00:00 -0500</pubDate>
-          <guid isPermaLink="false">http://xmunch.com/me/blog/2017/la-llamada.html</guid>
+          <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/la-llamada.html</guid>
           <description>
               &lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5796/21703173230_b89fc10ea9_b.jpg&quot; /&gt;&lt;/p&gt;
 &lt;h1&gt;Examen de conciencia: del filo-marxismo a la filosofía postmoderna&lt;/h1&gt;
@@ -107,17 +107,17 @@
 &lt;p&gt;Viajar a la vieja isla y conversar con sus habitantes me hizo compartir cierta alegría al presenciar el indulto de Óscar López. Y es que todo ocurrió un día después de haber estado en Plaza de Colón de San Juan, conociendo la causa de la mano de algunos defensores del independentismo puertorriqueño y participando de forma casual en la manifestación que pedía su excarcelación. El último regalo de Barack Obama.&lt;/p&gt;
 &lt;p&gt;Me alegra haber podido vivir la era Obama y haber podido asistir a una ponencia suya en Greensboro, la misma ciudad donde hace algunos años Chomsky me firmó un libro.&lt;/p&gt;
 &lt;p&gt;También me alegra haber vivido en primera persona la ilusión de una generación aupando a Bernie Sanders, mientras que los oligarcas del Partido Demócrata escondían la cabeza y regalaban el trono a Donald Trump.&lt;/p&gt;
-&lt;p&gt;Hemos vivido un cambio de ciclo, otro de esos momentos que se recogerán como &lt;em&gt;Historia&lt;/em&gt; y que sin duda afectarán a muchas de las &lt;em&gt;historias&lt;/em&gt; de dan sentido al mundo.&lt;/p&gt;
-&lt;p&gt;Hay quien dice que se acercan días oscuros. Pero de nuevo toca escuchar, escuchar la llamada de la etnografía. Despojarse de relatos y escuchar los distintos puntos de vista.&lt;/p&gt;
+&lt;p&gt;Hemos vivido un cambio de ciclo, otro de esos momentos que se recogerán como &lt;em&gt;Historia&lt;/em&gt; y que sin duda afectarán a muchas de las &lt;em&gt;historias&lt;/em&gt; que dan sentido al mundo.&lt;/p&gt;
+&lt;p&gt;Hay quien dice que se acercan días oscuros. Pero de nuevo toca escuchar, escuchar la llamada de la etnografía. Despojarse de relatos y estar abierto a los distintos puntos de vista.&lt;/p&gt;
 &lt;p&gt;Asumir la no-verdad del individuo postmoderno y disfrutar aprendiendo del &lt;em&gt;distinto&lt;/em&gt;, esto es, del &lt;em&gt;igual&lt;/em&gt;.&lt;/p&gt;
           </description>
       </item>
       
       <item>
           <title>Blockchain Technologies and the P2P Paradigm</title>
-          <link>http://xmunch.com/me/blog/2017/blockchain.html</link>
+          <link>http://dgrmunch.github.io/blog/blog/2017/blockchain.html</link>
           <pubDate>Fri, 3 Feb 2017 00:00:00 -0500</pubDate>
-          <guid isPermaLink="false">http://xmunch.com/me/blog/2017/blockchain.html</guid>
+          <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/blockchain.html</guid>
           <description>
               &lt;p&gt;&lt;img src=&quot;https://dgrmunch.github.io/blog/img/blockchain.jpg&quot; /&gt;&lt;/p&gt;
 &lt;h2&gt;Blockchain, Commons and P2P&lt;/h2&gt;
@@ -154,9 +154,9 @@
       
       <item>
           <title>Descentralizando la blogosfera</title>
-          <link>http://xmunch.com/me/blog/2017/descentralizando.html</link>
+          <link>http://dgrmunch.github.io/blog/blog/2017/descentralizando.html</link>
           <pubDate>Sun, 1 Jan 2017 00:00:00 -0500</pubDate>
-          <guid isPermaLink="false">http://xmunch.com/me/blog/2017/descentralizando.html</guid>
+          <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/descentralizando.html</guid>
           <description>
               &lt;p&gt;&lt;img src=&quot;https://dgrmunch.github.io/blog/img/network.jpg&quot; title=&quot;Red distribuida y heterogénea&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Ha pasado poco más de un año desde defendí mi tesis doctoral: &lt;strong&gt;La descentralización estructural y la heterogeneidad funcional en la producción colectiva de conocimiento: una justificación teórica y computacional del paradigma P2P&lt;/strong&gt;.&lt;/p&gt;

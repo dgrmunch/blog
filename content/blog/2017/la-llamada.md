@@ -107,8 +107,8 @@ Me alegra haber podido vivir la era Obama y haber podido asistir a una ponencia 
 
 También me alegra haber vivido en primera persona la ilusión de una generación aupando a Bernie Sanders, mientras que los oligarcas del Partido Demócrata escondían la cabeza y regalaban el trono a Donald Trump.
 
-Hemos vivido un cambio de ciclo, otro de esos momentos que se recogerán como *Historia* y que sin duda afectarán a muchas de las *historias* de dan sentido al mundo.
+Hemos vivido un cambio de ciclo, otro de esos momentos que se recogerán como *Historia* y que sin duda afectarán a muchas de las *historias* que dan sentido al mundo.
 
-Hay quien dice que se acercan días oscuros. Pero de nuevo toca escuchar, escuchar la llamada de la etnografía. Despojarse de relatos y escuchar los distintos puntos de vista.
+Hay quien dice que se acercan días oscuros. Pero de nuevo toca escuchar, escuchar la llamada de la etnografía. Despojarse de relatos y estar abierto a los distintos puntos de vista.
 
 Asumir la no-verdad del individuo postmoderno y disfrutar aprendiendo del *distinto*, esto es, del *igual*.

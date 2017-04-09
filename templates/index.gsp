@@ -38,9 +38,8 @@
                             %>
                         </p>
 
-                        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://xmunch.com/me/${post.uri}" data-text="${post.title}" data-via="dgrmunch" data-lang="fr">[Share in Twitter]</a>
+                        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://dgrmunch.github.io/blog/${post.uri}" data-text="${post.title}" data-via="dgrmunch" data-lang="fr">[Share in Twitter]</a>
                         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-                        <div class="g-plusone" data-size="medium" data-href="http://xmunch.com/me/${post.uri}"></div>
 
                         <div class="blogpost" itemprop="blogPost">
                             <p>${post.body}</p>

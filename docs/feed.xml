@@ -6,8 +6,8 @@
     <atom:link href="http://dgrmunch.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>xmunch.com</description>
     <language>en-gb</language>
-      <pubDate>Sun, 9 Apr 2017 12:58:31 -0400</pubDate>
-      <lastBuildDate>Sun, 9 Apr 2017 12:58:31 -0400</lastBuildDate>
+      <pubDate>Tue, 11 Apr 2017 18:47:45 -0400</pubDate>
+      <lastBuildDate>Tue, 11 Apr 2017 18:47:45 -0400</lastBuildDate>
 
       
       <item>
@@ -16,37 +16,111 @@
           <pubDate>Wed, 1 Mar 2017 00:00:00 -0500</pubDate>
           <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/rhizome.html</guid>
           <description>
-              &lt;blockquote&gt;
-  &lt;p&gt;This article was originally published in the &lt;a href=&quot;http://www.xmunch.com/rhizome&quot;&gt;Rhizome Ethnographies&lt;/a&gt; site. I have republished it here as an introduction for those who don&apos;t know the project yet.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;After several years exploring, from a computational perspective, the evolution of social complexity in heterogeneous and decentralized &lt;em&gt;agent-based models&lt;/em&gt; [1, 2], I have decided to start a new stage of research. With this side project, I would like to study the evolution of identity/identities in real social agents. Specifically exploring heterogeneous societies through the observation of their ethnic, linguistic and cultural contexts, and using visual ethnography to learn about transnational identities and multiculturalism.&lt;/p&gt;
+              &lt;div class=&quot;admonitionblock note&quot;&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td class=&quot;icon&quot;&gt;
+&lt;div class=&quot;title&quot;&gt;Note&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&quot;content&quot;&gt;
+This article was originally published in the &lt;a href=&quot;http://www.xmunch.com/rhizome&quot;&gt;Rhizome Ethnographies&lt;/a&gt; site. I have republished it here as an introduction for those who don&amp;#8217;t know the project yet.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;After several years exploring, from a computational perspective, the evolution of social complexity in heterogeneous and decentralized &lt;em&gt;agent-based models&lt;/em&gt; &lt;a href=&quot;#1&quot;&gt;[1]&lt;/a&gt; &lt;a href=&quot;#2&quot;&gt;[2]&lt;/a&gt;, I have decided to start a new stage of research. With this side project, I would like to study the evolution of identity/identities in real social agents. Specifically exploring heterogeneous societies through the observation of their ethnic, linguistic and cultural contexts, and using visual ethnography to learn about transnational identities and multiculturalism.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;So let’s say that I am moving from the fields of &lt;strong&gt;Computer Science and Information Science&lt;/strong&gt; to a new multidisciplinary approach closer to the domains of &lt;strong&gt;Sociology and Cultural Anthropology&lt;/strong&gt;. From software simulations of &lt;em&gt;artificial agents&lt;/em&gt; to &lt;strong&gt;multicultural communities&lt;/strong&gt; of actual people. From &lt;em&gt;genetic algorithms&lt;/em&gt; to &lt;em&gt;GIS&lt;/em&gt; analysis, data visualization, maps, sociology and unstructured interviews.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://xmunch.com/blog/wp-content/uploads/2016/04/1.png&quot; title=&quot;Rhizome Ethnographies&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;So far, most of my research has been based in quantitative approaches, predominantly &lt;em&gt;in-silico&lt;/em&gt; modeling of bacteria colonies and &lt;em&gt;artificial societies&lt;/em&gt; [3]. I have been studying the evolution of &lt;em&gt;artificial societies&lt;/em&gt; with &lt;strong&gt;Artificial Intelligence&lt;/strong&gt; techniques, with the goal of finding answers to Information Science questions [4]. In fact, most of my former research was oriented, under the umbrella of the &lt;strong&gt;Complex Adaptive Systems&lt;/strong&gt; paradigm (CAS), to understand the role of decentralization and heterogeneity in the emergence of social complexity in innovative scenarios [5, 6]. Regarding the application of my research to Social Sciences, you can tell that most of it was mainly grounded on computational and mathematical models. Fortunately, that lack of actual data can be addressed by radically changing my approach.&lt;/p&gt;
-&lt;p&gt;During my graduate studies, I coined (and re-coined) a couple of terms (such as “P2P Society” or “P2P Paradigm”) trying to understand the social dynamics of a globalized and plural world. A world with fully decentralized communication networks (see &lt;strong&gt;distributed topology&lt;/strong&gt; [6]) and collaborative communities of heterogeneous peers. I also did some side research on distributed technologies such as different &lt;em&gt;blockchain-based&lt;/em&gt; projects to frame the P2P society in that growing ecosystem of emancipatory tools and methods. The &lt;strong&gt;Bitmind&lt;/strong&gt; project [7] was one of those initiatives.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&quot;img-map&quot; class=&quot;imageblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;img src=&quot;https://dgrmunch.github.io/blog/img/map.png&quot; alt=&quot;map&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;So far, most of my research has been based in quantitative approaches, predominantly &lt;em&gt;in-silico&lt;/em&gt; modeling of bacteria colonies and &lt;em&gt;artificial societies&lt;/em&gt; &lt;a href=&quot;#3&quot;&gt;[3]&lt;/a&gt;. I have been studying the evolution of &lt;em&gt;artificial societies&lt;/em&gt; with &lt;strong&gt;Artificial Intelligence&lt;/strong&gt; techniques, with the goal of finding answers to Information Science questions &lt;a href=&quot;#4&quot;&gt;[4]&lt;/a&gt;. In fact, most of my former research was oriented, under the umbrella of the &lt;strong&gt;Complex Adaptive Systems&lt;/strong&gt; paradigm (CAS), to understand the role of decentralization and heterogeneity in the emergence of social complexity in innovative scenarios &lt;a href=&quot;#5&quot;&gt;[5]&lt;/a&gt; &lt;a href=&quot;#6&quot;&gt;[6]&lt;/a&gt;.  Regarding the application of my research to Social Sciences, you can tell that most of it was mainly grounded on computational and mathematical models. Fortunately, that lack of actual data can be addressed by radically changing my approach.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;During my graduate studies, I coined (and re-coined) a couple of terms (such as “P2P Society” or “P2P Paradigm”) trying to understand the social dynamics of a globalized and plural world. A world with fully decentralized communication networks (see &lt;strong&gt;distributed topology&lt;/strong&gt; &lt;a href=&quot;#6&quot;&gt;[6]&lt;/a&gt;) and collaborative communities of heterogeneous peers. I also did some side research on distributed technologies such as different &lt;em&gt;blockchain-based&lt;/em&gt; projects to frame the P2P society in that growing ecosystem of emancipatory tools and methods. The &lt;strong&gt;Bitmind&lt;/strong&gt; project &lt;a href=&quot;#7&quot;&gt;[7]&lt;/a&gt; was one of those initiatives.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;I had the chance to exchange knowledge with several scholars from different fields, trying to do multidisciplinary research. But I was always constrained by the limits of my own field and its methodologies. So even though I will continue publishing and doing research in my own field, I would like to explore in parallel a different experience.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;In my thesis and the published papers, posters and communications, I always try to be faithful and accurate, and to keep my research as much constrained as possible in order to offer reliable results according to the scientific method. However, sometimes I feel that to explore social issues properly I need something else, something more than just a quantitative and hypothetical-deductive approach. So I decided that it was the time for a new kind of experience, an open-ended side project, a new kind of both personal and academic approach to reality. Less closed and constrained, less &lt;em&gt;machine-ish&lt;/em&gt; and more &lt;em&gt;human-ish&lt;/em&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Although I had a great time observing the evolution of different social dynamics with a computationally-based approach, I realized that I wanted to know more about the human being as a social construct. And I wanted to know it from my own subjective point of view, the point of view of another social construct.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Considering the term ‘agent’ as the most convenient to refer to free individuals endowed with reason and autonomy, I can say that this time I am focused in the observation of the agent itself, a common individual within a physical and social environment. And I am doing it with a completely different toolbox. I want to conduct this research with my own ontological and epistemological constraints, but without the ones imposed by an specific academic field. Understand the inner nature of the social agent, and maybe study again the functional and structural evolution of the social object (the social network of agents). But obviously, with a very different approach. This approach shall be less deterministic, objective, quantitative and pretentious, while focusing on the live experience rather than on the expected results. I will accomplish this by going to the arena and getting immersed rather than implementing a synthetic &lt;em&gt;in-silico&lt;/em&gt; arena and observing it through a screen, doing visual ethnography and taking field notes rather than coding simulations and analyzing results. If you are more interested in the other perspective, you can check my peer-reviewed publications and follow my other projects.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;One of the first steps to make this change happen is to avoid a hypothetical-deductive mindset and assume a more inductive approach, without preconceived axioms, without a priori hypotheses or pretentious irrefutable truths. In order to do that I have to go beyond my academic background, unlearn and relearn again, and start the new stage without self-constraints. With a methodology (or a set of methodologies) but without a fixed and self-constraining outline.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Computational social modeling requires a reduced amount of variables in isolation and a considerable lack of sociological, anthropological, historical or psychological background. Ethnographical research, however, requires a very different mindset. It may imply critical thinking, personal immersion and opened eyes in the seeking of facts, qualitative data and other kinds of knowledge.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Furthermore, self-conducted research can also be &lt;strong&gt;phenomenological&lt;/strong&gt;. And in addition to that, it may imply a bunch of other things. It can be a rhizome of field notes, secondary data, memories and media resources. It can be a mesh of interconnected experiences.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1443/26621997606_86dda84ab8_b.jpg&quot; title=&quot;Rhizome Ethnographies&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&quot;img-bus&quot; class=&quot;imageblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;img src=&quot;https://farm2.staticflickr.com/1443/26621997606_86dda84ab8_b.jpg&quot; alt=&quot;26621997606 86dda84ab8 b&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Considering this new stage as a chosen path for knowledge crawling, I would consider it both research, game and art. Besides that, naturally, I would also consider this project a way of self-exploration.&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;What defines the self besides the constraints of national boundaries, ethnicity, race, religion and culture? Are we just a consequence of our context and history? Would it be possible to understand better the complexity of individual and group identities combining photography and film-making as visual ethnography tools with other traditional methods? Could we generalize what we learn from a small sample of people to understand better the notions of ethnicity, race and cultural identity? What can we discover about the object of study with a phenomenological perspective?&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;This research follows an &lt;strong&gt;ethnographical approach&lt;/strong&gt; and eventually may use some traditional methods, such as participant and direct observation [8] or unstructured interviewing, in order to look for possible answers to the above-mentioned questions. However, it is mainly a &lt;strong&gt;visual ethnography&lt;/strong&gt; and it uses photography and film-making as visual languages. It is also a phenomenological research. It is also a live experience without hypotheses and pre-conceived axioms. It is a happy lack of expectation.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;admonitionblock note&quot;&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td class=&quot;icon&quot;&gt;
+&lt;div class=&quot;title&quot;&gt;Note&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&quot;content&quot;&gt;
+What defines the self besides the constraints of national boundaries, ethnicity, race, religion and culture? Are we just a consequence of our context and history? Would it be possible to understand better the complexity of individual and group identities combining photography and film-making as visual ethnography tools with other traditional methods? Could we generalize what we learn from a small sample of people to understand better the notions of ethnicity, race and cultural identity? What can we discover about the object of study with a phenomenological perspective?
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;This research follows an &lt;strong&gt;ethnographical approach&lt;/strong&gt; and eventually may use some traditional methods, such as participant and direct observation &lt;a href=&quot;#8&quot;&gt;[8]&lt;/a&gt; or unstructured interviewing, in order to look for possible answers to the above-mentioned questions. However, it is mainly a &lt;strong&gt;visual ethnography&lt;/strong&gt; and it uses photography and film-making as visual languages. It is also a phenomenological research. It is also a live experience without hypotheses and pre-conceived axioms. It is a happy lack of expectation.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;If you want to know more about the project visit the &lt;a href=&quot;http://www.xmunch.com/rhizome&quot;&gt;Rhizome Ethnographies website.&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;REFERENCES&lt;/h2&gt;
-&lt;p&gt;[1] J. R. Hernandez-Carrion and D. González-Rodriguez, “Modelling Complex Dynamics and Distributed Generation of Knowledge with Bacterial-Based Algorithms,” Scientific Publications / University of Economics in Katowice, vol. Economics and Business Communication Challenges : International Week, pp. 138–148, 2014.&lt;/p&gt;
-&lt;p&gt;[2] Gonzalez-Rodriguez, Diego and Hernandez-Carrion, Jose Rodolfo, “Decentralization and heterogeneity in complex adaptive systems,” Kybernetes, vol. 44, no. 6/7, pp. 1082–1093, Jun. 2015.&lt;/p&gt;
-&lt;p&gt;[3] D. González Rodríguez, “Modelización de Sistemas de Computación Distribuida con Bacterias Sintéticas mediante Autómatas Celulares,” 2014.&lt;/p&gt;
-&lt;p&gt;[4] D. Gonzalez-Rodriguez and J. R. Hernandez-Carrion, “Fundamentos teóricos básicos para la defensa de un paradigma P2P cooperativo desde la perspectiva de la producción de conocimiento,” Revista Iberoamericana de Autogestión y Acción Comunal (RIDAA), vol. 0, no. 66, pp. pp. 55–66, 2015.&lt;/p&gt;
-&lt;p&gt;[5] D. Gonzalez-Rodriguez and J. R. Hernandez-Carrion, “A Bacterial-Based Algorithm to Simulate Complex Adaptive Systems,” in From Animals to Animats 13, A. P. del Pobil, E. Chinellato, E. Martinez-Martin, J. Hallam, E. Cervera, and A. Morales, Eds. Springer International Publishing, 2014, pp. 250–259.&lt;/p&gt;
-&lt;p&gt;[6] D. Gonzalez-Rodriguez and V. Kostakis, “Information literacy and peer-to-peer infrastructures: An autopoietic perspective,” Telematics and Informatics, vol. 32, no. 4, pp. 586–593, Nov. 2015.&lt;/p&gt;
-&lt;p&gt;[7] Gonzalez-Rodriguez, Diego and Shapiro, Ishan, “Scalable cognition through collaborative sense-making: drafting the Open Value Network model,” presented at the Workshop on Synthetic Cognitive Development and Integrated-Distributed Agency (IDA). The Eighth Conference on Artificial General Intelligence, Berlin, 2015.&lt;/p&gt;
-&lt;p&gt;[8] B. B. Kawulich, “Participant Observation as a Data Collection Method,” Forum Qualitative Sozialforschung / Forum: Qualitative Social Research, vol. 6, no. 2, May 2005.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;_references&quot;&gt;REFERENCES&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a id=&quot;1&quot;&gt;&lt;/a&gt;[1] J. R. Hernandez-Carrion and D. González-Rodriguez, “Modelling Complex Dynamics and Distributed Generation of Knowledge with Bacterial-Based Algorithms,” Scientific Publications / University of Economics in Katowice, vol. Economics and Business Communication Challenges : International Week, pp. 138–148, 2014.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a id=&quot;2&quot;&gt;&lt;/a&gt;[2] Gonzalez-Rodriguez, Diego and Hernandez-Carrion, Jose Rodolfo, “Decentralization and heterogeneity in complex adaptive systems,” Kybernetes, vol. 44, no. 6/7, pp. 1082–1093, Jun. 2015.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a id=&quot;3&quot;&gt;&lt;/a&gt;[3] D. González Rodríguez, “Modelización de Sistemas de Computación Distribuida con Bacterias Sintéticas mediante Autómatas Celulares,” 2014.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a id=&quot;4&quot;&gt;&lt;/a&gt;[4] D. Gonzalez-Rodriguez and J. R. Hernandez-Carrion, “Fundamentos teóricos básicos para la defensa de un paradigma P2P cooperativo desde la perspectiva de la producción de conocimiento,” Revista Iberoamericana de Autogestión y Acción Comunal (RIDAA), vol. 0, no. 66, pp. pp. 55–66, 2015.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a id=&quot;5&quot;&gt;&lt;/a&gt;[5] D. Gonzalez-Rodriguez and J. R. Hernandez-Carrion, “A Bacterial-Based Algorithm to Simulate Complex Adaptive Systems,” in From Animals to Animats 13, A. P. del Pobil, E. Chinellato, E. Martinez-Martin, J. Hallam, E. Cervera, and A. Morales, Eds. Springer International Publishing, 2014, pp. 250–259.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a id=&quot;6&quot;&gt;&lt;/a&gt;[6] D. Gonzalez-Rodriguez and V. Kostakis, “Information literacy and peer-to-peer infrastructures: An autopoietic perspective,” Telematics and Informatics, vol. 32, no. 4, pp. 586–593, Nov. 2015.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a id=&quot;7&quot;&gt;&lt;/a&gt;[7] Gonzalez-Rodriguez, Diego and Shapiro, Ishan, “Scalable cognition through collaborative sense-making: drafting the Open Value Network model,” presented at the Workshop on Synthetic Cognitive Development and Integrated-Distributed Agency (IDA). The Eighth Conference on Artificial General Intelligence, Berlin, 2015.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a id=&quot;8&quot;&gt;&lt;/a&gt;[8] B. B. Kawulich, “Participant Observation as a Data Collection Method,” Forum Qualitative Sozialforschung / Forum: Qualitative Social Research, vol. 6, no. 2, May 2005.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
           </description>
       </item>
       

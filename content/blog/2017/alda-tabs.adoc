@@ -149,7 +149,7 @@ guitar: ta21 ta21W ta21Q ta21D ta21H
 guitar: ta21 ta21W ta21Q ta21D ta21H
 ....
 
-__Play with this combinations to see the difference__. For more complex
+__Play with these combinations to see the difference__. For more complex
 timing, check the _advanced tips_ bellow.
 
 [[chord-notation]]
@@ -288,7 +288,7 @@ link:{alda-tabs-repo}/examples/02-pi.alda[" Read alda-tabs code", role="fa fa-fi
 
 '''
 
-=== Example 3: Chords and arpeggios
+=== Example 3: Complex songs
 
 You can also see how beautiful songs with multiple instruments can be
 written with Alda with the *example #03*:

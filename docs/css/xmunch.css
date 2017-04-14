@@ -8,6 +8,15 @@
 
 .blogpost img{
     border: 1px solid black !important;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+audio, video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .container .credit {
@@ -29,9 +38,54 @@
 }
 
 .avatar-box img {
-    border: 1px solid white !important;
+    border: 1px solid black;
+}
+
+.white-img img {
+    border: 0px !important;
 }
 
 .sidebar-module-inset{
   border: 1px solid black;
+}
+
+.music-box{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+  background-color: darkgray;
+  padding: 10px;
+}
+
+.code {
+    font-size: 20px !important;
+    color: #3c92d4  !important;
+    display: block  !important;
+    margin-left: auto  !important;
+    margin-right: auto  !important;
+    text-align: center  !important;
+    border: 2px dashed #8bb9dd  !important;
+    padding: 10px  !important;
+    background-color: #e8f3f4 !important;
+    margin-top: 20px  !important;
+    width: 100% !important;
+}
+
+.note{
+
+    background-color: lightyellow !important;
+    border: 2px dashed black  !important;
+    padding-top: 10px  !important;
+    margin-bottom: 20px  !important;
+}
+
+.admonitionblock > table td.content {
+    font-size: 13px !important;
+}
+
+.exampleblock > .content {
+    border: 2px dashed black !important;
+    margin-bottom: 20px !important;
+    background: #d8ebf2 !important;
+    margin-top: 20px !important;
 }

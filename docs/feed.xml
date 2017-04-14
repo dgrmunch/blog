@@ -6,8 +6,8 @@
     <atom:link href="http://dgrmunch.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>xmunch.com</description>
     <language>en-gb</language>
-      <pubDate>Tue, 11 Apr 2017 18:47:45 -0400</pubDate>
-      <lastBuildDate>Tue, 11 Apr 2017 18:47:45 -0400</lastBuildDate>
+      <pubDate>Thu, 13 Apr 2017 21:03:55 -0400</pubDate>
+      <lastBuildDate>Thu, 13 Apr 2017 21:03:55 -0400</lastBuildDate>
 
       
       <item>
@@ -74,17 +74,12 @@ This article was originally published in the &lt;a href=&quot;http://www.xmunch.
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Considering this new stage as a chosen path for knowledge crawling, I would consider it both research, game and art. Besides that, naturally, I would also consider this project a way of self-exploration.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;admonitionblock note&quot;&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td class=&quot;icon&quot;&gt;
-&lt;div class=&quot;title&quot;&gt;Note&lt;/div&gt;
-&lt;/td&gt;
-&lt;td class=&quot;content&quot;&gt;
-What defines the self besides the constraints of national boundaries, ethnicity, race, religion and culture? Are we just a consequence of our context and history? Would it be possible to understand better the complexity of individual and group identities combining photography and film-making as visual ethnography tools with other traditional methods? Could we generalize what we learn from a small sample of people to understand better the notions of ethnicity, race and cultural identity? What can we discover about the object of study with a phenomenological perspective?
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
+&lt;div class=&quot;quoteblock&quot;&gt;
+&lt;blockquote&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;What defines the self besides the constraints of national boundaries, ethnicity, race, religion and culture? Are we just a consequence of our context and history? Would it be possible to understand better the complexity of individual and group identities combining photography and film-making as visual ethnography tools with other traditional methods? Could we generalize what we learn from a small sample of people to understand better the notions of ethnicity, race and cultural identity? What can we discover about the object of study with a phenomenological perspective?&lt;/p&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;This research follows an &lt;strong&gt;ethnographical approach&lt;/strong&gt; and eventually may use some traditional methods, such as participant and direct observation &lt;a href=&quot;#8&quot;&gt;[8]&lt;/a&gt; or unstructured interviewing, in order to look for possible answers to the above-mentioned questions. However, it is mainly a &lt;strong&gt;visual ethnography&lt;/strong&gt; and it uses photography and film-making as visual languages. It is also a phenomenological research. It is also a live experience without hypotheses and pre-conceived axioms. It is a happy lack of expectation.&lt;/p&gt;
@@ -125,6 +120,494 @@ What defines the self besides the constraints of national boundaries, ethnicity,
       </item>
       
       <item>
+          <title>Alda-tabs: Domain Specific Language for Guitar Players in the Java Virtual Machine</title>
+          <link>http://dgrmunch.github.io/blog/blog/2017/alda-tabs.html</link>
+          <pubDate>Sun, 12 Feb 2017 00:00:00 -0500</pubDate>
+          <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/alda-tabs.html</guid>
+          <description>
+              &lt;div class=&quot;admonitionblock note&quot;&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td class=&quot;icon&quot;&gt;
+&lt;div class=&quot;title&quot;&gt;Note&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&quot;content&quot;&gt;
+This post explains how to easily compose music with &lt;code&gt;alda-tabs&lt;/code&gt;, a &lt;strong&gt;Domain Specific Language for Guitar Players&lt;/strong&gt; which runs in the JVM. I have developed &lt;code&gt;alda-tabs&lt;/code&gt; as an &lt;em&gt;open source&lt;/em&gt; project so you can download it for free in &lt;a href=&quot;https://github.com/dgrmunch/alda-tabs&quot;&gt;GitHub&lt;/a&gt;.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;_what_is_alda_tabs&quot;&gt;What is alda-tabs?&lt;/h3&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;It is a Domain Specific Language for guitar players.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It is a piece of software to help guitar players to
+&quot;execute&quot; their music notes in the &lt;code&gt;JVM&lt;/code&gt;, compose songs and get audio feedback.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It is an extensible tool for music programming mainly
+oriented to guitar players.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It is built on the top of &lt;code&gt;Alda&lt;/code&gt;, a DSL for
+music composition in the JVM, so it is compatible with both &lt;code&gt;Alda&lt;/code&gt; and &lt;code&gt;Clojure&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;_why_is_so_easy_to_code_guitar_songs_with_alda_tabs&quot;&gt;Why is so easy to code guitar songs with alda-tabs?&lt;/h3&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;It does not require programming skills.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It does not require traditional music notation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It is as straightforward as writing simple guitar sketches in a
+notebook.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You only have to copy your tabs from the paper to a text editor and
+execute &lt;code&gt;alda-tabs&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image white-img&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/img/alda-tabs.png&quot; alt=&quot;alda tabs&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;_how_can_i_create_complex_digital_music_with_alda_tabs&quot;&gt;How can I create complex digital music with alda-tabs?&lt;/h3&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;With &lt;code&gt;alda-tabs&lt;/code&gt; you can execute any &lt;em&gt;.alda&lt;/em&gt; file, so you can write
+your songs/programs in both &lt;code&gt;Clojure&lt;/code&gt;, &lt;code&gt;Alda&lt;/code&gt; and &lt;code&gt;alda-tabs&lt;/code&gt; in the same
+block of text.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It talks to the &lt;code&gt;JVM&lt;/code&gt;, so any experimented programmer can do impossible
+things :-)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It is just a layer on the top of &lt;code&gt;Alda&lt;/code&gt;, so if you know music theory,
+then you can write complex songs using music notation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;_how_is_the_alda_tabs_syntax&quot;&gt;How is the alda-tabs syntax?&lt;/h3&gt;
+&lt;div class=&quot;admonitionblock note&quot;&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td class=&quot;icon&quot;&gt;
+&lt;div class=&quot;title&quot;&gt;Note&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&quot;content&quot;&gt;
+Remember that with &lt;strong&gt;alda-tabs&lt;/strong&gt; you can always use the standard
+Alda syntax and Clojure code. You can learn more about both languages
+later to explore the whole potential of &lt;em&gt;alda-tabs&lt;/em&gt;. But don&amp;#8217;t worry,
+you don&amp;#8217;t need to know more yet. Just follow this tutorial and enjoy :)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;What I am gonna show you here is the easy and super simple &lt;em&gt;alda-tabs&lt;/em&gt;
+syntax:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The &lt;strong&gt;tab notation&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The &lt;strong&gt;chord notation&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;In 10 minutes you will be able to write songs in a text editor and
+listen the result in your speakers.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect3&quot;&gt;
+&lt;h4 id=&quot;_tab_notation&quot;&gt;Tab notation&lt;/h4&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Imagine that you want to play all the strings of the guitar, one after
+another:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image white-img&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/img/score1.png&quot; alt=&quot;score1&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;This example is a regular &lt;em&gt;guitar tab&lt;/em&gt; in which all the strings are played sequentially with one hand and in which there are not fingers of the other hand pressing the fret.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;So the fret number would be &lt;code&gt;0&lt;/code&gt; in the six positions of the sequence.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;exampleblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;How would we write this in &lt;code&gt;Alda&lt;/code&gt; syntax?&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;em&gt;Don&amp;#8217;t worry, I will explain how to do it in &lt;code&gt;alda-tabs&lt;/code&gt; syntax bellow (see &lt;a href=&quot;#how-to-do-it-in-alda-tabs&quot;&gt;How to do it in alda-tabs?&lt;/a&gt;) but it is important to read this before to compare &lt;code&gt;alda-tabs&lt;/code&gt; with&lt;/em&gt; &lt;code&gt;Alda&lt;/code&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;In &lt;code&gt;Alda&lt;/code&gt; syntax we would need to know the note equivalents of each position. And in addition:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;We would write the octave and the note, one after another:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;literalblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;guitar: o4 e o3 b o3 g o3 d o2 a o2 e&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Another way would be to write the initial octave increasing/decreasing it
+when needed:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;literalblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;guitar: o4 e/&amp;gt;b/g/d/&amp;lt;&amp;lt;a/e&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect3&quot;&gt;
+&lt;h4 id=&quot;how-to-do-it-in-alda-tabs&quot;&gt;How to do it in alda-tabs?&lt;/h4&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Remember that &lt;em&gt;alda-tabs&lt;/em&gt; is based in the simple concept of a tab.
+Basically, the notes of a guitar can be defined by numeric combinations,
+a number to identify the string (from the first at the bottom to the
+sixth at the top) and a fret.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;To write a note in &lt;em&gt;alda-tabs&lt;/em&gt; you only have to write &lt;code&gt;ta&lt;/code&gt; followed by
+the &lt;code&gt;string number&lt;/code&gt; and the &lt;code&gt;fret number&lt;/code&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;With &lt;code&gt;alda-tabs&lt;/code&gt; we can write the same sequence that we have previously
+expressed in &lt;code&gt;Alda&lt;/code&gt;. But this time we don&amp;#8217;t need to know which note we are
+playing, we only need to write the &lt;em&gt;tab&lt;/em&gt;, the position of our finger
+considering the &lt;em&gt;string&lt;/em&gt; and the &lt;em&gt;fret&lt;/em&gt;:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;literalblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt; guitar: ta10 ta20 ta30 ta40 ta50 ta60&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;In this example, we are asking the JMV to play a guitar with the open strings 1, 2, 3, 4, 5 and 6, one after another. That is, &lt;code&gt;ta10&lt;/code&gt; equals &lt;strong&gt;string 1&lt;/strong&gt; and &lt;strong&gt;fret 0&lt;/strong&gt; and so on.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Take a look now of the fretboard:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image white-img&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/img/notes-fret.png&quot; alt=&quot;notes fret&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;If you want to play the first note &lt;strong&gt;C&lt;/strong&gt;, according to the graphic displayed above, you don&amp;#8217;t need to know the octave, you just will pick the &lt;strong&gt;string 2&lt;/strong&gt; in the &lt;strong&gt;fret 1&lt;/strong&gt;: &lt;code&gt;ta&lt;/code&gt; + &lt;code&gt;2&lt;/code&gt; + &lt;code&gt;1&lt;/code&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;literalblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;guitar: ta21&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;You can also modify the duration of a note adding a character at the
+end. For example:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;literalblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;guitar: ta21 ta21W ta21Q ta21D ta21H&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;What does it mean? If you don&amp;#8217;t specify a duration, this will be &lt;strong&gt;whole
+beat&lt;/strong&gt; (&lt;code&gt;W&lt;/code&gt;). You can also play the note during half beat (&lt;code&gt;H&lt;/code&gt;), double (&lt;code&gt;D&lt;/code&gt;)
+and quarter (&lt;code&gt;Q&lt;/code&gt;). Those note durations will be proportional to the tempo
+of the score. For example, the following two sentences are not the same:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;literalblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;(tempo 100)
+guitar: ta21 ta21W ta21Q ta21D ta21H&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;literalblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;(tempo 300)
+guitar: ta21 ta21W ta21Q ta21D ta21H&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;em&gt;Play with this combinations to see the difference&lt;/em&gt;. For more complex
+timing, check the &lt;em&gt;advanced tips&lt;/em&gt; bellow.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;chord-notation&quot;&gt;Chord notation&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Imagine that rather than a sequence of notes you want to play a chord. A
+basic example would be playing all the open strings at the same time:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image white-img&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/img/score2.png&quot; alt=&quot;score2&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;You can do this in three ways:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;In &lt;code&gt;Alda&lt;/code&gt; syntax, using the character &lt;code&gt;/&lt;/code&gt; to play the notes at the same
+time:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;literalblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;guitar: o4 e/&amp;gt;b/g/d/&amp;lt;&amp;lt;a/e&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;In &lt;code&gt;alta-tabs&lt;/code&gt; syntax, using the &lt;em&gt;tab notation&lt;/em&gt; with different voices:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;literalblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;guitar: V1: ta10 V2: ta20 V3: ta30 V4: ta40 V5: ta50 V6: ta60&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;In &lt;code&gt;alta-tabs&lt;/code&gt; syntax, but using the &lt;strong&gt;chord notation&lt;/strong&gt;:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;literalblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;guitar: (c 0 0 0 0 0 0 W)&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;As you can see, the chord notation is just a &lt;code&gt;Clojure&lt;/code&gt; function &lt;code&gt;c&lt;/code&gt; with
+seven parameters, the fret of each one of the six strings and the
+duration of the chord.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;For example, the D chord would be&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;literalblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;(c 2 3 2 0 x x W)&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image white-img&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/img/re.png&quot; alt=&quot;re&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;You can also use the &lt;em&gt;chord notation&lt;/em&gt; to play single notes. For example,
+the two following sequences are exactly the same:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;literalblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;# alta-tab syntax
+
+ta10 ta20 ta30 ta40 ta50 ta60
+
+# alda-tab chord syntax
+
+(c 0 x x x x x W)
+(c x 0 x x x x W)
+(c x x 0 x x x W)
+(c x x x 0 x x W)
+(c x x x x 0 x W)
+(c x x x x x 0 W)&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;advanced-tips&quot;&gt;Advanced tips&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;You can play tabs with specific durations, in seconds or milliseconds by
+using the function &lt;code&gt;t&lt;/code&gt;. In this case you should write the number of
+the string, followed by a dot and the fret. Add the end, you should
+express in String format (&quot;&quot;) the duration you want.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;literalblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;guitar: (t 1.0 &quot;2s&quot;) (t 2.0 &quot;10ms&quot;) (t 2.2 &quot;100ms&quot;)&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;You can do the same with your chords:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;literalblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;guitar: (c 0 x 1 2 2 x &quot;5s&quot;)&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;how-can-i-install-alta-tabs&quot;&gt;How can I install alta-tabs?&lt;/h3&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Follow the &lt;a href=&quot;https://github.com/alda-lang/alda&quot;&gt;steps to install Alda&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Clone &lt;a href=&quot;https://github.com/dgrmunch/alda-tabs&quot;&gt;this repo&lt;/a&gt; and open the folder &lt;code&gt;alda-tabs&lt;/code&gt; in your terminal.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Run the Alda server with &lt;code&gt;alda up&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Create a simple text file, write your song using the alda-tabs
+syntax and save it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Execute &lt;code&gt;./alda-tabs.sh&lt;/code&gt; followed by the path of the file you want
+to play.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Listen the result.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you want to stop a song you can stop the alda server with
+&lt;code&gt;alda down&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;admonitionblock note&quot;&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td class=&quot;icon&quot;&gt;
+&lt;div class=&quot;title&quot;&gt;Note&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&quot;content&quot;&gt;
+You can also play some scores (provided in the &lt;code&gt;/examples&lt;/code&gt;
+folder) and modify their content to explore different sounds.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;_examples&quot;&gt;Examples&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;admonitionblock note&quot;&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td class=&quot;icon&quot;&gt;
+&lt;div class=&quot;title&quot;&gt;Note&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&quot;content&quot;&gt;
+In this document you can both read the code and listen the output of its execution in &lt;code&gt;alda-tabs&lt;/code&gt;. However, the provided audio file is &lt;strong&gt;non-stereo&lt;/strong&gt;. The original output of &lt;code&gt;alda-tabs&lt;/code&gt;, however, includes &lt;code&gt;panning&lt;/code&gt;. So explore the real result executing the code/song in your own instance of &lt;code&gt;alda-tabs&lt;/code&gt;.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;_example_1_chords_and_arpeggios&quot;&gt;Example 1: Chords and arpeggios&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;You can start exploring the potential of &lt;em&gt;alda-tabs&lt;/em&gt; with chords and arpeggios
+with the &lt;strong&gt;example #01&lt;/strong&gt;:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;literalblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;./alda-tabs.sh examples/01-guitartabs-example.alda&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;audioblock music-box&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;audio src=&quot;https://dgrmunch.github.io/blog/songs/examples/example1.mp3&quot; controls&gt;
+Your browser does not support the audio tag.
+&lt;/audio&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/examples/01-guitartabs-example.alda&quot; class=&quot;fa fa-file code&quot; target=&quot;_blank&quot;&gt; Read alda-tabs code&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;_example_2_the_sound_of_pi&quot;&gt;Example 2: The sound of Pi&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Try to compose &lt;em&gt;mathematical songs&lt;/em&gt; extending &lt;em&gt;Alda&lt;/em&gt; and &lt;em&gt;alda-tabs&lt;/em&gt;
+with &lt;em&gt;Clojure&lt;/em&gt;. See the &lt;strong&gt;example #02&lt;/strong&gt;:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;literalblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;./alda-tabs.sh examples/02-pi.alda&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;audioblock music-box&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;audio src=&quot;https://dgrmunch.github.io/blog/songs/examples/example2.mp3&quot; controls&gt;
+Your browser does not support the audio tag.
+&lt;/audio&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/examples/02-pi.alda&quot; class=&quot;fa fa-file code&quot; target=&quot;_blank&quot;&gt; Read alda-tabs code&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;_example_3_chords_and_arpeggios&quot;&gt;Example 3: Chords and arpeggios&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;You can also see how beautiful songs with multiple instruments can be
+written with Alda with the &lt;strong&gt;example #03&lt;/strong&gt;:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;literalblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;./alda-tabs.sh examples/03-hope-for-future-ext.alda&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;audioblock music-box&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;audio src=&quot;https://dgrmunch.github.io/blog/songs/examples/example3.mp3&quot; controls&gt;
+Your browser does not support the audio tag.
+&lt;/audio&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/examples/03-hope-for-future-ext.alda&quot; class=&quot;fa fa-file code&quot; target=&quot;_blank&quot;&gt; Read alda-tabs code&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+          </description>
+      </item>
+      
+      <item>
           <title>Abrazando la condición postmoderna</title>
           <link>http://dgrmunch.github.io/blog/blog/2017/la-llamada.html</link>
           <pubDate>Sun, 12 Feb 2017 00:00:00 -0500</pubDate>
@@ -152,7 +635,7 @@ What defines the self besides the constraints of national boundaries, ethnicity,
 &lt;p&gt;Los discursos tienen su público y su sentido, tienen su contexto. Al final constituyen estrategias de supervivencia, genomas distribuidos dentro del &lt;em&gt;biofilm&lt;/em&gt; de cada sociedad.&lt;/p&gt;
 &lt;p&gt;Y por ello &lt;em&gt;no son ni universales ni permanentes&lt;/em&gt;, sino que son de usar y tirar. Y muchas veces hay que usarlos antes de poder superarlos.&lt;/p&gt;
 &lt;h1&gt;La llamada de la etnografía&lt;/h1&gt;
-&lt;p&gt;En 2009 colaboré con el &lt;em&gt;Instituto Politécnico Tomás Katari&lt;/em&gt; en Bolivia, trabajando directamente con comunidades indígenas en el altiplano andino, así como con niños trabajadores dentro de lo que se conoce como la &lt;em&gt;población campesina originaria&lt;/em&gt; (mayoritariamente población &lt;em&gt;quechua&lt;/em&gt;). Un contexto donde el &lt;em&gt;indigenismo&lt;/em&gt; y eso que ahora se llama &lt;em&gt;populismo bolivariano&lt;/em&gt; tenía una razón de ser. Y es que allí re-descubrí que aquellos eslóganes que en el viejo continente se nos vendían como obsoletos, mutados con un acento indígena, todavía tenían sentido para muchos seres humanos.&lt;/p&gt;
+&lt;p&gt;En 2009 colaboré con el &lt;em&gt;Instituto Politécnico Tomás Katari&lt;/em&gt; en Bolivia, trabajando directamente con comunidades indígenas en el altiplano andino, así como con niños trabajadores dentro de lo que se conoce como la &lt;em&gt;población campesina originaria&lt;/em&gt; (mayoritariamente población &lt;em&gt;quechua&lt;/em&gt;). Un contexto donde el &lt;em&gt;indigenismo&lt;/em&gt; y eso que ahora se llama &lt;em&gt;populismo bolivariano&lt;/em&gt; tenían una razón de ser. Y es que allí re-descubrí que aquellos eslóganes que en el viejo continente se nos vendían como obsoletos, mutados con un acento indígena, todavía tenían sentido para muchos seres humanos.&lt;/p&gt;
 &lt;p&gt;En Bolivia comprendí que no había Verdad ni Historia. Sino verdades e historias, contextos y bancos de soluciones posibles. Y aprendí a escuchar a los hombres que habitaban otros mundos tan distintos al mio, seres humanos iguales a mi en dignidad y derechos, pero con sesgos y filtros culturales radicalmente distintos a los míos, lo que hacía posible una cosmovisión distinta, un universo cognitivo que nunca podría experimentar si no era a través de la escucha. Cuando nos reuníamos con los líderes de las comunidades indígenas o los campesinos de Ocurí, cuando compartíamos la &lt;em&gt;papa&lt;/em&gt;, la &lt;em&gt;quinoa&lt;/em&gt; y las ceremonias de adoración a la &lt;em&gt;Pachamama&lt;/em&gt; en lo alto de Los Andes. Cuando observábamos como mujeres que no hablaban ni una sola palabra de español aprendían sus derechos constitucionales en &lt;em&gt;quechua&lt;/em&gt;, cuando masticábamos coca disfrutando de su música, su danza y hospitalidad. Allí comprendimos que un espacio ideológico y un discurso incomprensible para nuestra mentalidad europea era posible, y que la defensa de aquel &lt;em&gt;socialismo plurinacional&lt;/em&gt; parecía la mejor solución de consenso para uno de los países más pobres de América Latina, con una desigualdad terrible y una crisis identitaria difícil de resolver con los mecanismos habituales.&lt;/p&gt;
 &lt;p&gt;Escucharles me fascinó. Sentí la llamada de la etnografía.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5761/21286401684_801277f5fd_b.jpg&quot; /&gt;&lt;/p&gt;

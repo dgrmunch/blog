@@ -1,0 +1,4 @@
+
+:rhizome: http://www.xmunch.com/rhizome
+:images: https://dgrmunch.github.io/blog/img
+:songs: https://dgrmunch.github.io/blog/songs

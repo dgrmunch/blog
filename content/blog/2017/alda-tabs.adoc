@@ -1,7 +1,7 @@
 title=Alda-tabs: Domain Specific Language for Guitar Players in the Java Virtual Machine
-date=2017-02-12
+date=2017-04-13
 type=post
-tags=english, open-source, music, code, jvm, sciart
+tags=english, open-source, music, code, jvm, sciart, guitar, alda-tabs, software
 status=published
 ~~~~~~
 

@@ -13,7 +13,7 @@
         <loc>http://dgrmunch.github.io/blog/tags/jvm.html</loc>
         
 
-        <lastmod>2017-02-12</lastmod>
+        <lastmod>2017-04-13</lastmod>
     </url>
 
     <url>
@@ -27,7 +27,14 @@
         <loc>http://dgrmunch.github.io/blog/tags/code.html</loc>
         
 
-        <lastmod>2017-02-12</lastmod>
+        <lastmod>2017-04-13</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/tags/software.html</loc>
+        
+
+        <lastmod>2017-04-13</lastmod>
     </url>
 
     <url>
@@ -41,14 +48,14 @@
         <loc>http://dgrmunch.github.io/blog/tags/open-source.html</loc>
         
 
-        <lastmod>2017-02-12</lastmod>
+        <lastmod>2017-04-13</lastmod>
     </url>
 
     <url>
         <loc>http://dgrmunch.github.io/blog/tags/sciart.html</loc>
         
 
-        <lastmod>2017-02-12</lastmod>
+        <lastmod>2017-04-13</lastmod>
     </url>
 
     <url>
@@ -73,10 +80,24 @@
     </url>
 
     <url>
+        <loc>http://dgrmunch.github.io/blog/tags/guitar.html</loc>
+        
+
+        <lastmod>2017-04-13</lastmod>
+    </url>
+
+    <url>
         <loc>http://dgrmunch.github.io/blog/tags/p2p.html</loc>
         
 
         <lastmod>2017-02-03</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/tags/alda-tabs.html</loc>
+        
+
+        <lastmod>2017-04-13</lastmod>
     </url>
 
     <url>
@@ -90,7 +111,7 @@
         <loc>http://dgrmunch.github.io/blog/tags/music.html</loc>
         
 
-        <lastmod>2017-02-12</lastmod>
+        <lastmod>2017-04-13</lastmod>
     </url>
 
     <url>
@@ -111,7 +132,7 @@
         <loc>http://dgrmunch.github.io/blog/tags/english.html</loc>
         
 
-        <lastmod>2017-03-01</lastmod>
+        <lastmod>2017-04-13</lastmod>
     </url>
 
     <url>
@@ -145,13 +166,13 @@
     </url>
 
     <url>
-        <loc>http://dgrmunch.github.io/blog/blog/2017/rhizome.html</loc>
-        <lastmod>2017-03-01</lastmod>
+        <loc>http://dgrmunch.github.io/blog/blog/2017/alda-tabs.html</loc>
+        <lastmod>2017-04-13</lastmod>
     </url>
 
     <url>
-        <loc>http://dgrmunch.github.io/blog/blog/2017/alda-tabs.html</loc>
-        <lastmod>2017-02-12</lastmod>
+        <loc>http://dgrmunch.github.io/blog/blog/2017/rhizome.html</loc>
+        <lastmod>2017-03-01</lastmod>
     </url>
 
     <url>

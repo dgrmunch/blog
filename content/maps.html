@@ -3,90 +3,13 @@ type=page
 status=published
 ~~~~~~
 
-<!DOCTYPE html>
-<html>
-<head>
- <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
- <script type="text/javascript" src="js/svg-pan-zoom.min.js"></script>
-</head>
-<body>
-
  <style>
 
- html, body {
-   margin:0;
-   padding:0;
-   overflow:hidden
- }
+  iframe{
+    border: 2px dashed gray;
+    width: 100%;
+    min-height: 500px;
+  }
 
- #mapsvg{
-   position:fixed;
-   top:0;
-   bottom:0;
-   left:0;
-   right:0;
-   width: 90%;
-   height: 90%;
-   background-color: lightblue;
-
- }
-
- #topbar{
-   position: fixed;
-   background-color: black;
-   width: 100%;
-   height: 20px;
-   color: white;
-   text-align: right;
-   z-index: 100;
- }
-
- #pan-zoom{
-   display:none;
-   position: fixed;
-   top: 0;
-   left: 0;
-   z-index: 200;
-   margin: 10px;
-   border: 1px solid white;
-   width: 20px;
-   height: 20px;
-   text-align: center;
-   background-color: lightseagreen;
- }
-
- </style>
-
-<div id="pan-zoom" class="svg-pan-zoom_viewport">+</div>
-<embed type="image/svg+xml" src="maps/usaTerritories.svg" id="mapsvg"/>
-
- <script>
- document.getElementById('mapsvg').addEventListener('load', function(){
-   // Will get called after embed element was loaded
-   svgPanZoom('#mapsvg', {
-  viewportSelector: '#pan-zoom'
-, panEnabled: true
-, controlIconsEnabled: false
-, zoomEnabled: true
-, dblClickZoomEnabled: true
-, mouseWheelZoomEnabled: true
-, preventMouseEventsDefault: true
-, zoomScaleSensitivity: 0.2
-, minZoom: 1
-, maxZoom: 10
-, fit: true
-, contain: true
-, center: true
-, refreshRate: 'auto'
-, beforeZoom: function(){}
-, onZoom: function(){}
-, beforePan: function(){}
-, onPan: function(){}
-, onUpdatedCTM: function(){}
-});
- })
- </script>
-
-
-</body>
-</html>
+</style>
+<iframe src=usa-map.html></iframe>

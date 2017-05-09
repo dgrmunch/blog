@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>http://dgrmunch.github.io/blog/index.html</loc>
-        <lastmod>2017-04-17</lastmod>
+        <lastmod>2017-05-09</lastmod>
     </url>
     <url>
         <loc>http://dgrmunch.github.io/blog/archive.html</loc>
-        <lastmod>2017-04-17</lastmod>
+        <lastmod>2017-05-09</lastmod>
     </url>
 
     <url>
@@ -151,8 +151,13 @@
 
 
     <url>
+        <loc>http://dgrmunch.github.io/blog/sobremi.html</loc>
+        <lastmod>2017-05-02</lastmod>
+    </url>
+
+    <url>
         <loc>http://dgrmunch.github.io/blog/usa-map.html</loc>
-        <lastmod>2017-04-17</lastmod>
+        <lastmod>2017-04-23</lastmod>
     </url>
 
     <url>
@@ -162,11 +167,6 @@
 
     <url>
         <loc>http://dgrmunch.github.io/blog/about.html</loc>
-        <lastmod>2017-04-06</lastmod>
-    </url>
-
-    <url>
-        <loc>http://dgrmunch.github.io/blog/sobremi.html</loc>
         <lastmod>2017-04-06</lastmod>
     </url>
 

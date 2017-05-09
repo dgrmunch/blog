@@ -65,6 +65,30 @@ status=published
 , onUpdatedCTM: function(){}
 });
  })
+
+ function getRandomColor() {
+    return 'rgb(' + (100 + Math.floor(Math.random() * 256)) + ',' + (100 + Math.floor(Math.random() * 256)) + ',' + (100 + Math.floor(Math.random() * 256)) + ')';
+ }
+
+ function setVisited(item){
+   var element = document.getElementById(item);
+   element.style.fill = getRandomColor();
+   element.classList.add("visited");
+
+   element.onmouseover = function(){
+
+     var title = element.getAttribute("title");
+     document.getElementById("stateName").textContent = title;
+
+   };
+
+   element.onmouseleave = function(){
+     document.getElementById("stateName").textContent = "[ Visited states ]";
+
+       };
+
+
+ }
  </script>
 
 

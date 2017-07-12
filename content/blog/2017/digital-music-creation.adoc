@@ -1,0 +1,120 @@
+title=Digital creation for hackers & makers: prototyping musical tools from the SciArt Lab.
+date=2017-06-01
+type=post
+tags=programming, midi, music, code, coding, sciart, guitar, alda-tabs, english, open-source, software, ableton
+status=published
+~~~~~~
+
+include::../../headers/constants.adoc[]
+:alda-tabs-repo: https://raw.githubusercontent.com/dgrmunch/alda-tabs/master
+:alda-tabs-repo-url: https://github.com/dgrmunch/alda-tabs
+:alda-tabs: https://dgrmunch.github.io/blog/blog/2017/alda-tabs.html
+:cellularAutomataVideoChannel: https://www.youtube.com/playlist?list=PL7xg0jqeMOn8xBEn4tn5kuOjmHitTMZyZ
+
+:toc:
+:toc-placement!:
+
+NOTE: One of the main goals of the {sciartlab}[SciArt Lab] is the open exploration of innovative ideas from a *maker/hacker perspective*, finding innovation through prototyping rather than relying on mere theoretical approaches. In that sense, we try to combine *disruptive technologies* and *scientific knowledge* with unconventional developments and real implementations/prototypes of our ideas. If you want to know more about the research of the *SciArt Lab* check {sciartlab}[our website].
+
+[Tip]
+====
+
+*What is this article about?*
+
+This article is an introduction to some of the projects which have been developed by the {sciartlab}[SciArt Lab] around topics related with *digital musical creation*.
+
+In this post I will summarize part of my _hands-on_ experience based on the intersection of _DIY_ electronics, `MIDI` controllers, and the development of new tools (coded in `Java`, `Groovy`, `Processing`, `Javascript`) in combination with existing software such as _Ableton Live_.
+
+This is an on-going exploration, so  {twitter}[follow us on Twitter] and keep updated in the near future.
+
+====
+
+toc::[]
+
+=== Music and digital creation
+
+I can summarize the current projects of the _SciArt Lab_ as a set of fun experiments.
+
+Basically, we are _hacking music_ with both *sound synthesis*, `MIDI` *experiments*, *DIY electronics* and *algorithmic composition*, combining experimental music with brand new technologies. Discovering how coding and music can be combined by prototyping domain-specific languages, enabling self-composed songs with genetic algorithms or re-discovering `MIDI` controllers to create audio art.
+
+
+==== A. Genetic algorithms, mathematical compositions and generative music
+
+We are exploring the potential of applying _Artificial Intelligence_ techniques and software development to create programs which are able to write and play their own music.
+
+Take a look of our first experiments, {cellularAutomataVideoChannel}[watching our videos] of __cellular automata__ with emergent properties for music composition.
+
+Each _cellular automaton_ is able to compose its own music based on simple rules, evolving while it plays synthetic instruments in _Ableton Live_ or external devices through `MIDI` events.
+
+++++
+<iframe width="100%" height="450" scrolling="no" src="https://www.youtube.com/embed/videoseries?list=PL7xg0jqeMOn8xBEn4tn5kuOjmHitTMZyZ" frameborder="0" allowfullscreen></iframe>
+++++
+
+==== B. Domain Specific Languages
+
+_Alda-tabs_ is the first _Domain Specific Language for Guitar Players in the Java Virtual Machine_. This piece of software can help guitar players to “execute” their music notes in the JVM, write songs and get audio feedback with basic tab syntax.
+You can read more about this in {alda-tabs}[this article].
+
+Take a look of the potential of _Alda-tabs_ with chords and arpeggios listening this example (code also provided):
+
+....
+
+./alda-tabs.sh examples/01-guitartabs-example.alda
+
+....
+
+audio::{songs}/examples/example1.mp3[role=music-box]
+
+:linkattrs:
+link:{alda-tabs-repo}/examples/01-guitartabs-example.alda[" Read alda-tabs code", role="fa fa-file code", window="_blank"]
+
+'''
+
+==== C. Digital instruments and physical interfaces
+
+A couple of years ago, when I was working as Visiting Researcher at the _Critical Making Lab_ (_University of Toronto_), I discovered how a humanistic-based approach to _DIY electronics_, _coding_ and _making_ could change forever my conception on research.
+That experience helped me to see the importance of hands-on learning and the role that _tangible objects_ could have for theoretical or intellectual explorations.
+
+Currently I am working on a prototype of a physical `MIDI` interface to control digital instruments directly from a guitar fret.
+This same concept will be explored with different objects and materials (conductive or not) in the following months.
+
+The idea is to go beyond the keyboard as the standard digital music interface and build physical `MIDI` controllers with wood, cardboard, fabric, etc.
+More details about this project will be published soon.
+
+In the meantime, I have been also testing some libraries of `Javascript` for sound synthesis, and playing around with `p5.js` to develop the foundations of `SoundBox`, an experimental digital environment for synthetic music creation. Basically, the idea with this tool is to transform a human voice or an instrument (through a microphone) in a `MIDI`
+ interface. Right now, it basically detects the _fundamental frequency_ of the microphone's sound signal, allowing the user to transform a continuous signal in a set of discrete notes. It also parses that information and reproduces the played sequence in _Sin Oscillator_.
+
+It is a very straightforward prototype with troubles with some harmonics, but it has been a good experiment to learn about how these issues work. Let's see, but maybe `SoundBox` is the starting point for something more sophisticated.
+
+image:https://raw.githubusercontent.com/SciArtLab/soundbox/master/img/img2.png[]
+
+==== D. Music Visualization
+
+One of the research interests of the _SciArt Lab_ is information visualization in unusual ways. I always was fascinated about _synesthesia_ and lately I have been testing visual approaches to music. The idea with some of the prototypes I have been working in is to map `MIDI` inputs both with physical visualizations (i.a. LEDs) and computational ones.
+
+In this second category, I have been testing the possibility of creating my own 2D graphics with `Processing` and `SVG` and animate them while controling their movements and shapes directly from external `MIDI` inputs.
+This is one example of one program/animation that I have implemented recently:
+
+++++
+<iframe width="100%" height="450"  src="https://www.youtube.com/embed/W3ou3hSYBB8" frameborder="0" allowfullscreen></iframe>
+++++
+
+In the previous example, an animation is created dynamically in `Processing` while the behavior of an animated cartoon responds to the inputs received from an external _DIY electronics_ device. Both the graphics and the sound are produced by the orders received through `MIDI` inputs.
+
+
+==== E. Postsynaptic Symphonies
+
+I have always liked music. I started writing songs with a keyboard as a kid and continued with a guitar when I was a teenager. Nowadays, I enjoy playing several kinds of instruments. Besides the keyboard, my acoustic guitar and my wife's classical guitar, I have two harmonicas, some flutes, an ocarina, an ukulele and a guitalele.
+
+Recently, as part of the open-ended exploration of the _SciArt Lab_, I have been writing also some digital music. I call them _postynaptic symphonies_ because I found interesting the cognitive experience of listening that sort of unpredictable songs.
+
+I have published some `postynaptic symphonies` in _SoundCloud_:
+
+++++
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/322369717&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+++++
+
+
+====
+More information about the evolution of my _music-related projects_ will be coming soon :)
+====

@@ -53,13 +53,13 @@
       <div class="navbar navbar-default navbar-fixed-top" role="navigation">
         <div class="container-fluid">
           <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+            <button type="button" class="navbar-toggle" onclick="if(document.getElementById('navbar-menu').classList.contains('collapse')) document.getElementById('navbar-menu').classList.remove('collapse'); else document.getElementById('navbar-menu').classList.add('collapse')">
               <span class="sr-only">Toggle navigation</span>
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.html">xmunch.com/me</a>
+            <span class="navbar-brand"><img src="http://www.sciartlab.com/wp-content/uploads/sciarlab-inverted.png" alt="SciArt Lab"></span>
           </div>
           <div class="collapse navbar-collapse" id="navbar-menu">
             <ul class="nav navbar-nav">
@@ -83,6 +83,173 @@
     <div class="row">
 
         <div class="col-sm-8">
+
+            
+                
+                    <div  itemscope itemtype="http://schema.org/Blog">
+                        <div itemprop="author" itemscope itemtype="http://schema.org/Person">
+                            <meta itemprop="name" content="Yan Bonnel"/>
+                        </div>
+                        <meta itemprop="inLanguage" content="fr-FR"/>
+                        <a itemprop="url" href="blog/2017/digital-music-creation.html">
+                            <h1 itemprop="name">Digital creation for hackers & makers: prototyping musical tools from the SciArt Lab.</h1>
+                        </a>
+                        <p>
+                            <time itemprop="datePublished"
+                                  datetime="2017-06-01">
+                                01 junio 2017
+                            </time>
+                        </p>
+
+                        <p>Tags :
+                            <meta itemprop="keywords" content="programming,midi,music,code,coding,sciart,guitar,alda-tabs,english,open-source,software,ableton"/>
+                            <a href="tags/programming.html">programming</a>, <a href="tags/midi.html">midi</a>, <a href="tags/music.html">music</a>, <a href="tags/code.html">code</a>, <a href="tags/coding.html">coding</a>, <a href="tags/sciart.html">sciart</a>, <a href="tags/guitar.html">guitar</a>, <a href="tags/alda-tabs.html">alda-tabs</a>, <a href="tags/english.html">english</a>, <a href="tags/open-source.html">open-source</a>, <a href="tags/software.html">software</a>, <a href="tags/ableton.html">ableton</a>
+                        </p>
+
+                        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://dgrmunch.github.io/blog/blog/2017/digital-music-creation.html" data-text="Digital creation for hackers & makers: prototyping musical tools from the SciArt Lab." data-via="dgrmunch" data-lang="fr">[Share in Twitter]</a>
+                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+                        <div class="blogpost" itemprop="blogPost">
+                            <p><div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<div class="title">Note</div>
+</td>
+<td class="content">
+One of the main goals of the <a href="http://sciartlab.com">SciArt Lab</a> is the open exploration of innovative ideas from a <strong>maker/hacker perspective</strong>, finding innovation through prototyping rather than relying on mere theoretical approaches. In that sense, we try to combine <strong>disruptive technologies</strong> and <strong>scientific knowledge</strong> with unconventional developments and real implementations/prototypes of our ideas. If you want to know more about the research of the <strong>SciArt Lab</strong> check <a href="http://sciartlab.com">our website</a>.
+</td>
+</tr>
+</table>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="paragraph">
+<p><strong>What is this article about?</strong></p>
+</div>
+<div class="paragraph">
+<p>This article is an introduction to some of the projects which have been developed by the <a href="http://sciartlab.com">SciArt Lab</a> around topics related with <strong>digital musical creation</strong>.</p>
+</div>
+<div class="paragraph">
+<p>In this post I will summarize part of my <em>hands-on</em> experience based on the intersection of <em>DIY</em> electronics, <code>MIDI</code> controllers, and the development of new tools (coded in <code>Java</code>, <code>Groovy</code>, <code>Processing</code>, <code>Javascript</code>) in combination with existing software such as <em>Ableton Live</em>.</p>
+</div>
+<div class="paragraph">
+<p>This is an on-going exploration, so  <a href="http://twitter.com/sciartlab">follow us on Twitter</a> and keep updated in the near future.</p>
+</div>
+</div>
+</div>
+<!-- toc disabled -->
+<div class="sect2">
+<h3 id="_music_and_digital_creation">Music and digital creation</h3>
+<div class="paragraph">
+<p>I can summarize the current projects of the <em>SciArt Lab</em> as a set of fun experiments.</p>
+</div>
+<div class="paragraph">
+<p>Basically, we are <em>hacking music</em> with both <strong>sound synthesis</strong>, <code>MIDI</code> <strong>experiments</strong>, <strong>DIY electronics</strong> and <strong>algorithmic composition</strong>, combining experimental music with brand new technologies. Discovering how coding and music can be combined by prototyping domain-specific languages, enabling self-composed songs with genetic algorithms or re-discovering <code>MIDI</code> controllers to create audio art.</p>
+</div>
+<div class="sect3">
+<h4 id="_a_genetic_algorithms_mathematical_compositions_and_generative_music">A. Genetic algorithms, mathematical compositions and generative music</h4>
+<div class="paragraph">
+<p>We are exploring the potential of applying <em>Artificial Intelligence</em> techniques and software development to create programs which are able to write and play their own music.</p>
+</div>
+<div class="paragraph">
+<p>Take a look of our first experiments, <a href="https://www.youtube.com/playlist?list=PL7xg0jqeMOn8xBEn4tn5kuOjmHitTMZyZ">watching our videos</a> of <em>cellular automata</em> with emergent properties for music composition.</p>
+</div>
+<div class="paragraph">
+<p>Each <em>cellular automaton</em> is able to compose its own music based on simple rules, evolving while it plays synthetic instruments in <em>Ableton Live</em> or external devices through <code>MIDI</code> events.</p>
+</div>
+<iframe width="100%" height="450" scrolling="no" src="https://www.youtube.com/embed/videoseries?list=PL7xg0jqeMOn8xBEn4tn5kuOjmHitTMZyZ" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="sect3">
+<h4 id="_b_domain_specific_languages">B. Domain Specific Languages</h4>
+<div class="paragraph">
+<p><em>Alda-tabs</em> is the first <em>Domain Specific Language for Guitar Players in the Java Virtual Machine</em>. This piece of software can help guitar players to “execute” their music notes in the JVM, write songs and get audio feedback with basic tab syntax.
+You can read more about this in <a href="https://dgrmunch.github.io/blog/blog/2017/alda-tabs.html">this article</a>.</p>
+</div>
+<div class="paragraph">
+<p>Take a look of the potential of <em>Alda-tabs</em> with chords and arpeggios listening this example (code also provided):</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>./alda-tabs.sh examples/01-guitartabs-example.alda</pre>
+</div>
+</div>
+<div class="audioblock music-box">
+<div class="content">
+<audio src="https://dgrmunch.github.io/blog/songs/examples/example1.mp3" controls>
+Your browser does not support the audio tag.
+</audio>
+</div>
+</div>
+<div class="paragraph">
+<p><a href="https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/examples/01-guitartabs-example.alda" class="fa fa-file code" target="_blank"> Read alda-tabs code</a></p>
+</div>
+<hr>
+</div>
+<div class="sect3">
+<h4 id="_c_digital_instruments_and_physical_interfaces">C. Digital instruments and physical interfaces</h4>
+<div class="paragraph">
+<p>A couple of years ago, when I was working as Visiting Researcher at the <em>Critical Making Lab</em> (<em>University of Toronto</em>), I discovered how a humanistic-based approach to <em>DIY electronics</em>, <em>coding</em> and <em>making</em> could change forever my conception on research.
+That experience helped me to see the importance of hands-on learning and the role that <em>tangible objects</em> could have for theoretical or intellectual explorations.</p>
+</div>
+<div class="paragraph">
+<p>Currently I am working on a prototype of a physical <code>MIDI</code> interface to control digital instruments directly from a guitar fret.
+This same concept will be explored with different objects and materials (conductive or not) in the following months.</p>
+</div>
+<div class="paragraph">
+<p>The idea is to go beyond the keyboard as the standard digital music interface and build physical <code>MIDI</code> controllers with wood, cardboard, fabric, etc.
+More details about this project will be published soon.</p>
+</div>
+<div class="paragraph">
+<p>In the meantime, I have been also testing some libraries of <code>Javascript</code> for sound synthesis, and playing around with <code>p5.js</code> to develop the foundations of <code>SoundBox</code>, an experimental digital environment for synthetic music creation. Basically, the idea with this tool is to transform a human voice or an instrument (through a microphone) in a <code>MIDI</code>
+ interface. Right now, it basically detects the <em>fundamental frequency</em> of the microphone&#8217;s sound signal, allowing the user to transform a continuous signal in a set of discrete notes. It also parses that information and reproduces the played sequence in <em>Sin Oscillator</em>.</p>
+</div>
+<div class="paragraph">
+<p>It is a very straightforward prototype with troubles with some harmonics, but it has been a good experiment to learn about how these issues work. Let&#8217;s see, but maybe <code>SoundBox</code> is the starting point for something more sophisticated.</p>
+</div>
+<div class="paragraph">
+<p><span class="image"><img src="https://raw.githubusercontent.com/SciArtLab/soundbox/master/img/img2.png" alt="img2"></span></p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_d_music_visualization">D. Music Visualization</h4>
+<div class="paragraph">
+<p>One of the research interests of the <em>SciArt Lab</em> is information visualization in unusual ways. I always was fascinated about <em>synesthesia</em> and lately I have been testing visual approaches to music. The idea with some of the prototypes I have been working in is to map <code>MIDI</code> inputs both with physical visualizations (i.a. LEDs) and computational ones.</p>
+</div>
+<div class="paragraph">
+<p>In this second category, I have been testing the possibility of creating my own 2D graphics with <code>Processing</code> and <code>SVG</code> and animate them while controling their movements and shapes directly from external <code>MIDI</code> inputs.
+This is one example of one program/animation that I have implemented recently:</p>
+</div>
+<iframe width="100%" height="450"  src="https://www.youtube.com/embed/W3ou3hSYBB8" frameborder="0" allowfullscreen></iframe>
+<div class="paragraph">
+<p>In the previous example, an animation is created dynamically in <code>Processing</code> while the behavior of an animated cartoon responds to the inputs received from an external <em>DIY electronics</em> device. Both the graphics and the sound are produced by the orders received through <code>MIDI</code> inputs.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_e_postsynaptic_symphonies">E. Postsynaptic Symphonies</h4>
+<div class="paragraph">
+<p>I have always liked music. I started writing songs with a keyboard as a kid and continued with a guitar when I was a teenager. Nowadays, I enjoy playing several kinds of instruments. Besides the keyboard, my acoustic guitar and my wife&#8217;s classical guitar, I have two harmonicas, some flutes, an ocarina, an ukulele and a guitalele.</p>
+</div>
+<div class="paragraph">
+<p>Recently, as part of the open-ended exploration of the <em>SciArt Lab</em>, I have been writing also some digital music. I call them <em>postynaptic symphonies</em> because I found interesting the cognitive experience of listening that sort of unpredictable songs.</p>
+</div>
+<div class="paragraph">
+<p>I have published some <code>postynaptic symphonies</code> in <em>SoundCloud</em>:</p>
+</div>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/322369717&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<div class="exampleblock">
+<div class="content">
+<div class="paragraph">
+<p>More information about the evolution of my <em>music-related projects</em> will be coming soon :)</p>
+</div>
+</div>
+</div>
+</div>
+</div></p>
+                        </div>
+
+                    </div>
+                
 
             
                 
@@ -872,70 +1039,6 @@ This article was originally published in the <a href="http://www.xmunch.com/rhiz
                 
 
             
-                
-                    <div  itemscope itemtype="http://schema.org/Blog">
-                        <div itemprop="author" itemscope itemtype="http://schema.org/Person">
-                            <meta itemprop="name" content="Yan Bonnel"/>
-                        </div>
-                        <meta itemprop="inLanguage" content="fr-FR"/>
-                        <a itemprop="url" href="blog/2017/descentralizando.html">
-                            <h1 itemprop="name">Descentralizando la blogosfera</h1>
-                        </a>
-                        <p>
-                            <time itemprop="datePublished"
-                                  datetime="2017-01-01">
-                                01 enero 2017
-                            </time>
-                        </p>
-
-                        <p>Tags :
-                            <meta itemprop="keywords" content="spanish,ipfs,decentralization,p2p"/>
-                            <a href="tags/spanish.html">spanish</a>, <a href="tags/ipfs.html">ipfs</a>, <a href="tags/decentralization.html">decentralization</a>, <a href="tags/p2p.html">p2p</a>
-                        </p>
-
-                        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://dgrmunch.github.io/blog/blog/2017/descentralizando.html" data-text="Descentralizando la blogosfera" data-via="dgrmunch" data-lang="fr">[Share in Twitter]</a>
-                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
-                        <div class="blogpost" itemprop="blogPost">
-                            <p><p><img src="https://dgrmunch.github.io/blog/img/network.jpg" title="Red distribuida y heterogénea" /></p>
-<p>Ha pasado poco más de un año desde defendí mi tesis doctoral: <strong>La descentralización estructural y la heterogeneidad funcional en la producción colectiva de conocimiento: una justificación teórica y computacional del paradigma P2P</strong>.</p>
-<p>Recibir el título de doctor tras exponer ante un tribunal los principios de un conjunto de fenómenos denominados <em>peer-to-peer (P2P)</em>, representó para mí la culminación académica de un proyecto casi ideológico que se venía gestando desde mi adolescencia.</p>
-<p>Aquel ritual laico cargado de academicismo y pompa, de solemnidad y de alegría, fue el punto y final a una investigación casi rizomática. Y aunque afronté la ceremonia final con zapatillas y vaqueros, por eso de llevar la contraria, doctorarme supuso para mi un importante logro personal. Había conseguido superar ese reto intelectual que me había prometido a mi mismo años atrás pero, al margen de aspectos meramente personales, recibir el visto bueno de un tribunal académico de prestigio implicaba algo más importante. Aquel hecho se traducía de forma directa en la validación por parte del sistema de uno de esos marcos teóricos que encuentran más simpatías en el <em>underground hacker</em> que en las aulas, más vinculados a la contracultura y los experimentos <em>cripto-anarquistas</em> que a las estructuras rígidas que suele imponer la academia.</p>
-<p>Podría definir mi tesis doctoral, por tanto, como un oxímoron. Pero lo cierto es que tras un interesante periodo de trabajo conseguí que aquel conjunto de principios que venía defendiendo desde mis primeros años frente a un computador -cuando me empapaba de contracultura y textos prohibidos- acabase cristalizando en un monográfico de carácter académico. Y fue así como, de la mano de la Inteligencia Artificial, los Algoritmos Genéticos y los Modelos Multi-Agente, pude defender computacionalmente la <em>descentralización estructural</em> y la <em>heterogeneidad funcional</em>, acuñando el concepto de <strong>sociedad P2P</strong>:</p>
-<blockquote>
-  <p>Las sociedades P2P serían la consecuencia del incremento gradual tanto de la heterogeneidad como la descentralización de las redes de información. La clave no estaría tanto en el avance de la tecnología sino también en el cambio de enfoque: de lo centralizado a lo distribuido, de lo homogéneo a lo heterogéneo. La noción de sociedad P2P haría especial énfasis no sólo en la información, sino en las redes que permiten su difusión, su procesamiento distribuido y su apropiación por parte de los agentes sociales.</p>
-</blockquote>
-<p>Para mi, poco amigo de la disciplina y los estándares rígidos, publicar un monográfico acompañado de experimentos y resultados justificados, así como un conjunto de publicaciones científicas validadas por la comunidad, era parte del precio a pagar. Pero en realidad las exigencias de la carrera científica, junto a mi evolución paralela trabajando como <em>Ingeniero del Software</em> en el mundo empresarial, me estaban alejando de aquello que había estado haciendo desde los quince años: publicar libremente en mi propio <em>blog</em>.</p>
-<p>Mi crisis como <em>blogger</em> había empezado en realidad años antes, cuando tras regresar de un proyecto de Cooperación Internacional en Senegal empecé a tener serias dudas sobre el narcisismo y la prepotencia intelectual que se escondían detrás de mis blogs. Así que decidí dejar de defender una visión del mundo y limitarme a aprender de las visiones de otros. Esa suerte de catarsis <em>ego-cida</em>, sumada a un exceso de auto-exigencias a la hora de publicar, me llevaron a limitar mi producción literaria a artículos de investigación en revistas internacionales o capítulos de libros. Empecé a publicar únicamente en inglés, limitándome a artículos con un carácter meramente académico, y a sacrificar al <em>blogger</em> pasional para dejar paso al científico comedido.</p>
-<p>El caso es que desterré mis reflexiones personales a los cuadernos y las notas de cajón, cerré mis blogs y centré mis esfuerzos en construir un curriculum que me permitiera desarrollarme profesionalmente y canalizar mis inquietudes desde lo académico y lo productivo.</p>
-<p>Tuve la suerte de vivir muchas vidas y trabajar en distintos sectores, para distintas empresas, clientes, organizaciones y universidades. Viajé e inicié colaboraciones con profesionales de varias partes del globo, conociendo muchas perspectivas, muchos contextos y cosmovisiones, y entendiendo la naturaleza heterogénea de la postmodernidad, así como la naturaleza descentralizada de las interacciones.</p>
-<p>Los cambios de entorno, perfil y tipo de interlocutor me transformaron en un sujeto con mayor capacidad para cambiar de registro, lo que se traduce en que me hice un poco más viejo y las ideas empezaron a florecer más en el córtex que en las entrañas. Esta suma de acontecimientos hicieron que mi vida como <em>blogger</em> se esfumara hasta el día de hoy, cuando se imponen los propósitos para el nuevo año.</p>
-<p>Tiempo ha pasado desde que tuve el privilegio de compartir servidor con Enrique Meneses. Desde que conocí a Marta Úngaro a través de un artículo que publiqué sobre <em>La Noche de Los Lápices</em>. Tiempo ha pasado desde que desarrollé portales contra-informativos y participé en los espacios conversacionales de los sucesores del movimiento <em>ciberpunk</em> español.</p>
-<p>Pero lo cierto es que para mí las redes siempre fueron un instrumento de emancipación. Mi padre me enseñó a programar en <em>Basic</em> con siete u ocho años, y a partir de ahí mi curiosidad por la computación se disparó. Internet se me ofrecía como una puerta a otros mundos, a un <em>ciberespacio</em> que sólo los <em>hackers</em> conocíamos y que me transformó en un adicto a la información. Empecé la segunda década de mi vida definiéndome como <em>webmaster</em> y participando, entre <em>gifs</em> animados, <em>iframes</em> y fondos ilegibles, en aquella creación de contenidos a la que todos estábamos invitados.</p>
-<p>Las redes distribuidas ofrecían una biblioteca de <em>hipertexto</em> que se expandía sin límites físicos ni controles gubernamentales en una especie de realidad paralela. La anarquía cognitiva se desplegaba sobre sí misma al otro lado del cable telefónico, como si se tratara de una utopía pirata construida sobre silicio. Algunos sucumbimos ante el romanticismo de John Perry Barlow y su <strong>Declaración de Independencia del Ciberespacio</strong>:</p>
-<blockquote>
-  <p>Gobiernos del Mundo Industrial, vosotros, cansados gigantes de carne y acero, vengo del Ciberespacio, el nuevo hogar de la Mente. En nombre del futuro, os pido en el pasado que nos dejéis en paz. No sois bienvenidos entre nosotros. No ejercéis ninguna soberanía sobre el lugar donde nos reunimos […] El Ciberespacio está formado por transacciones, relaciones, y pensamiento en sí mismo, que se extiende como una quieta ola en la telaraña de nuestras comunicaciones. Nuestro mundo está a la vez en todas partes y en ninguna parte, pero no está donde viven los cuerpos. Estamos creando un mundo en el que todos pueden entrar, sin privilegios o prejuicios debidos a la raza, el poder económico, la fuerza militar, o el lugar de nacimiento. Estamos creando un mundo donde cualquiera, en cualquier sitio, puede expresar sus creencias, sin importar lo singulares que sean, sin miedo a ser coaccionado al silencio o el conformismo. Vuestros conceptos legales sobre propiedad, expresión, identidad, movimiento y contexto no se aplican a nosotros. Se basan en la materia. Aquí no hay materia.</p>
-</blockquote>
-<p>Y así fue como aquella versión adolescente de mi mismo abrazó la promesa del <em>ciberespacio</em> y se sumó a la defensa de aquel nuevo relato emancipador.</p>
-<p>Las redes distribuidas, aquellas que había ideado Paul Baran en 1964 y que habían constituido la topología de Internet, se convirtieron en un referente estructural para mi desarrollo ideológico y profesional. Primero llegaron los <em>fanzines</em> en texto plano, las conversaciones en <em>IRC</em>, la listas de correo y los distintos espacios conversacionales tras un terminal verdinegro.</p>
-<p>David de Ugarte y <em>La Sociedad de las Indias Electrónicas</em> me abrirían poco después las puertas de la <em>blogosfera</em>, el primer medio de comunicación distribuido. Por aquel entonces, cuando todavía iba al instituto y era un adolescente interesado en la justicia social y el software libre, tener mi propio blog se convirtió en un hecho relevante. Con el dominio <em>xmunch.com</em> -regalo de cumpleaños de mi tio- y la ayuda de la gente de <em>La Matriz</em>, me lancé a exponer mi punto de vista en aquel mar heterogéneo donde todos podíamos tener voz.</p>
-<p>Uno de los puntos fuertes de la <em>blogosfera</em> era su carácter no-centralizado -esto es, distribuido-. Algo que, al menos en lo filosófico, no difería demasiado de la infraestructura técnica sobre la que se había edificado Internet. En la red de redes prometida por Baran y sacralizada por Barlow, la <em>descentralización estructural</em> era un punto clave para garantizar su carácter resiliente, su resistencia a ataques externos o a la amenaza de un control central.</p>
-<p>En un ecosistema conversacional distribuido cualquiera puede montar un nodo libre e independiente en su propio servidor y hacerlo accesible para el resto de la red, algo que de una u otra forma se ha visto amenazado por la aparición de aplicaciones web como <em>Twitter</em>, <em>Facebook</em>, o <em>Google+</em>. Los denominados <em>social media</em> han re-centralizado la conversación en espacios controlados por grandes compañías, no sólo banalizando el discurso, sino haciéndonos renunciar a la soberanía de las redes distribuidas mientras entregamos nuestros datos, así como la propiedad de nuestras interacciones, a grandes nodos o <em>hubs</em>.</p>
-<p>No todo son desventajas, y sin duda el nuevo escenario, donde <em>los gigantes de acero</em> han invadido el ciberespacio, ha traído consigo la aparición de nuevos mercados, de grandes innovaciones tecnológicas y de nuevos fenómenos socio-políticos sin precedentes. No obstante, este proceso de re-centralización, donde asistimos a alianzas entre grandes corporaciones y agencias de vigilancia como la <em>NSA</em>, amenaza las redes distribuidas y su poder emancipador desde múltiples enfoques, algo que posiblemente exponga en mayor detalle en algún futuro artículo -más información <a href="http://hdl.handle.net/10016/22239">aquí</a>-.</p>
-<p>Este nuevo espacio surge como una vuelta, por mi parte, a exponer mis opiniones en ese medio digital en el que solía expresarme con plena libertad hasta hace unos años. Pero esta vez voy a hacerlo además desde la autonomía de una plataforma distribuida, desde una suerte de <em>nueva blogosfera</em>, una aún más descentralizada que la anterior y construida sobre un protocolo aún más revolucionario que el <em>HTTP</em>. Su nombre es <a href="http://ipfs.io/">IPFS</a> y es una de las puertas de acceso a la <em>Sociedad P2P</em>, a esa nueva <em>distributed web</em> donde el contenido se persiste en un medio no-centralizado por diseño, donde los servidores centrales no eliminan tu <em>web</em> ni tu <em>blog</em>, donde los <em>links</em> nunca apuntan a una página no existente. Un nuevo ciberespacio que evolucionará en poco tiempo y acabará resultando tan sencillo y accesible como la web actual.</p>
-<p>Existe algo romántico en retomar los espacios auto-gestionados, los pequeños blogs personales, los nodos libres. Y he aquí la razón principal de este nuevo espacio. Esto no implica que vaya a dejar de publicar en revistas de investigación, de utilizar otro tipo de plataformas o de convivir con el modelo re-centralizador dominante. Pero lo cierto es que volveré a tener mi <em>isla pirata</em>, un espacio en el que pueda liberarme de los límites formales y metodológicos del mundo académico, de los <em>hubs</em> y de la autocensura.</p>
-<p>Y lo bueno es que esta vez lo haré como un investigador independiente y heterodoxo, un sujeto que sigue investigando aspectos relacionados con la <em>descentralización estructural</em> y la <em>heterogeneidad funcional</em> de los sistemas sociales, pero ampliando el ámbito de estudio más allá de la informática, la teoría de la información, las ciencias cognitivas, los sistemas complejos o la teoría evolutiva, y abrazando también disciplinas como la antropología o la etnografía visual.</p>
-<p>Una investigación multidisciplinar que estoy canalizando como <em>Visiting Researcher</em> en la <em>University of North Carolina</em> mientras desarrollo varios proyectos propios en el <a href="http://www.sciartlab.com">SciArt Lab</a> e implemento soluciones digitales en <em>Enxendra Technologies</em>, una empresa desde la que ofrecemos servicios de voto electrónico, factura electrónica y firma electrónica en este mundo regido por la criptografía que es el horizonte digital. Un mundo donde la identidad viene definida por certificados electrónicos y donde la privacidad y la autenticidad sólo pueden garantizarse mediante mecanismos criptográficos.</p>
-<p>Este espacio será por tanto un lugar donde compartiré impresiones y reflexiones que podrán ser tanto personales como académicas o profesionales, sin restricciones de forma ni de fondo. Un ejercicio en el que combinaré artículos en español y en inglés, mientras desarrollo de forma simultanea <a href="http://xmunch.com/rhizome/">Rhizome Ethnographies</a> y <a href="http://www.sciartlab.com/?page_id=189">otros proyectos del SciArt Lab</a> .</p>
-<p>Tras un tiempo en Estados Unidos, vuelvo a la <em>blogosfera</em> con una visión distinta del mundo a la que tenía cuando publiqué mi tesis doctoral. Mi investigación predoctoral pretendía demostrar teórica y computacionalmente la validez del <em>paradigma P2P</em> y defender su gradual imposición como parte del proceso evolutivo de los sistemas de procesamiento de información. Mis proyectos actuales, sin embargo, abordan aspectos relacionados con este tronco común pero enfocándose en distintos intereses y desde enfoques muy distintos, más humanistas y más cercanos no sólo a la computación sino también a las ciencias sociales.</p>
-<p>Pero en cualquier caso, este espacio nace como un nodo libre que se servirá de nuevas infraestructuras técnicas más acordes al modelo que defiende. Así que como gesto simbólico fundacional, a modo de declaración de intenciones, esta bitácora contará con <em>un mirror en IPFS</em> que será generado periódicamente. Las referencias al <em>mirror</em> distribuido <a href="https://dgrmunch.github.io/blog/ipfs.html">serán accesibles desde aquí</a>.</p>
-<p>Pues la libertad no puede existir en ningún sistema caracterizado por la centralización y la homogeneidad.</p></p>
-                        </div>
-
-                    </div>
-                
-
-            
 
             <hr />
 
@@ -947,13 +1050,18 @@ This article was originally published in the <a href="http://www.xmunch.com/rhiz
 				
         <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
             <div class="avatar-box sidebar-module sidebar-module-inset">
-                <h4>Diego González</h4>
+                <h4>Diego González, PhD</h4>
                 <p><b>Research & Development</b></p>
-                <img src="img/avatar.jpg" class="profile-photo-edit__preview" alt="Edit photo" height="128" width="128">
+                <img src="img/avatar.jpg"  height="128" width="128">
                 <br><br>
                 <a href="about.html">About me (English)</a><br>
                 <a href="sobremi.html">Sobre mi (Español)</a>
             </div>
+
+            <div class="avatar-box sciart-lab-box sidebar-module sidebar-module-inset">
+                <a href="http://www.sciartlab.com" target="blank_"><img src="http://www.sciartlab.com/wp-content/uploads/sciarlab-inverted.png" height="228"></a>
+            </div>
+
             <div class="sidebar-module sidebar-module-inset">
               <b>Social Media / Redes sociales</b><br>
 
@@ -978,23 +1086,37 @@ This article was originally published in the <a href="http://www.xmunch.com/rhiz
                 <h4>Tags</h4>
                 <ol class="list-unstyled" style="margin-left: 0px">
                     
-                        <li><a href="tags/english.html">english</a> (3)</li>
+                        <li><a href="tags/english.html">english</a> (4)</li>
+                    
+                        <li><a href="tags/alda-tabs.html">alda-tabs</a> (2)</li>
+                    
+                        <li><a href="tags/code.html">code</a> (2)</li>
                     
                         <li><a href="tags/decentralization.html">decentralization</a> (2)</li>
                     
                         <li><a href="tags/diversity.html">diversity</a> (2)</li>
                     
+                        <li><a href="tags/guitar.html">guitar</a> (2)</li>
+                    
                         <li><a href="tags/multiculturalism.html">multiculturalism</a> (2)</li>
+                    
+                        <li><a href="tags/music.html">music</a> (2)</li>
+                    
+                        <li><a href="tags/open-source.html">open-source</a> (2)</li>
                     
                         <li><a href="tags/p2p.html">p2p</a> (2)</li>
                     
+                        <li><a href="tags/sciart.html">sciart</a> (2)</li>
+                    
+                        <li><a href="tags/software.html">software</a> (2)</li>
+                    
                         <li><a href="tags/spanish.html">spanish</a> (2)</li>
                     
-                        <li><a href="tags/alda-tabs.html">alda-tabs</a> (1)</li>
+                        <li><a href="tags/ableton.html">ableton</a> (1)</li>
                     
                         <li><a href="tags/blockchain.html">blockchain</a> (1)</li>
                     
-                        <li><a href="tags/code.html">code</a> (1)</li>
+                        <li><a href="tags/coding.html">coding</a> (1)</li>
                     
                         <li><a href="tags/commons.html">commons</a> (1)</li>
                     
@@ -1002,21 +1124,15 @@ This article was originally published in the <a href="http://www.xmunch.com/rhiz
                     
                         <li><a href="tags/ethnography.html">ethnography</a> (1)</li>
                     
-                        <li><a href="tags/guitar.html">guitar</a> (1)</li>
-                    
                         <li><a href="tags/ipfs.html">ipfs</a> (1)</li>
                     
                         <li><a href="tags/jvm.html">jvm</a> (1)</li>
                     
-                        <li><a href="tags/music.html">music</a> (1)</li>
-                    
-                        <li><a href="tags/open-source.html">open-source</a> (1)</li>
+                        <li><a href="tags/midi.html">midi</a> (1)</li>
                     
                         <li><a href="tags/postmodern.html">postmodern</a> (1)</li>
                     
-                        <li><a href="tags/sciart.html">sciart</a> (1)</li>
-                    
-                        <li><a href="tags/software.html">software</a> (1)</li>
+                        <li><a href="tags/programming.html">programming</a> (1)</li>
                     
                  </ol>
             </div>

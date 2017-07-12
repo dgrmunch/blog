@@ -6,9 +6,154 @@
     <atom:link href="http://dgrmunch.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>xmunch.com</description>
     <language>en-gb</language>
-      <pubDate>Tue, 9 May 2017 17:36:36 -0400</pubDate>
-      <lastBuildDate>Tue, 9 May 2017 17:36:36 -0400</lastBuildDate>
+      <pubDate>Tue, 11 Jul 2017 20:02:34 -0400</pubDate>
+      <lastBuildDate>Tue, 11 Jul 2017 20:02:34 -0400</lastBuildDate>
 
+      
+      <item>
+          <title>Digital creation for hackers & makers: prototyping musical tools from the SciArt Lab.</title>
+          <link>http://dgrmunch.github.io/blog/blog/2017/digital-music-creation.html</link>
+          <pubDate>Thu, 1 Jun 2017 00:00:00 -0400</pubDate>
+          <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/digital-music-creation.html</guid>
+          <description>
+              &lt;div class=&quot;admonitionblock note&quot;&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td class=&quot;icon&quot;&gt;
+&lt;div class=&quot;title&quot;&gt;Note&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&quot;content&quot;&gt;
+One of the main goals of the &lt;a href=&quot;http://sciartlab.com&quot;&gt;SciArt Lab&lt;/a&gt; is the open exploration of innovative ideas from a &lt;strong&gt;maker/hacker perspective&lt;/strong&gt;, finding innovation through prototyping rather than relying on mere theoretical approaches. In that sense, we try to combine &lt;strong&gt;disruptive technologies&lt;/strong&gt; and &lt;strong&gt;scientific knowledge&lt;/strong&gt; with unconventional developments and real implementations/prototypes of our ideas. If you want to know more about the research of the &lt;strong&gt;SciArt Lab&lt;/strong&gt; check &lt;a href=&quot;http://sciartlab.com&quot;&gt;our website&lt;/a&gt;.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class=&quot;exampleblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;What is this article about?&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;This article is an introduction to some of the projects which have been developed by the &lt;a href=&quot;http://sciartlab.com&quot;&gt;SciArt Lab&lt;/a&gt; around topics related with &lt;strong&gt;digital musical creation&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;In this post I will summarize part of my &lt;em&gt;hands-on&lt;/em&gt; experience based on the intersection of &lt;em&gt;DIY&lt;/em&gt; electronics, &lt;code&gt;MIDI&lt;/code&gt; controllers, and the development of new tools (coded in &lt;code&gt;Java&lt;/code&gt;, &lt;code&gt;Groovy&lt;/code&gt;, &lt;code&gt;Processing&lt;/code&gt;, &lt;code&gt;Javascript&lt;/code&gt;) in combination with existing software such as &lt;em&gt;Ableton Live&lt;/em&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;This is an on-going exploration, so  &lt;a href=&quot;http://twitter.com/sciartlab&quot;&gt;follow us on Twitter&lt;/a&gt; and keep updated in the near future.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- toc disabled --&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;_music_and_digital_creation&quot;&gt;Music and digital creation&lt;/h3&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;I can summarize the current projects of the &lt;em&gt;SciArt Lab&lt;/em&gt; as a set of fun experiments.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Basically, we are &lt;em&gt;hacking music&lt;/em&gt; with both &lt;strong&gt;sound synthesis&lt;/strong&gt;, &lt;code&gt;MIDI&lt;/code&gt; &lt;strong&gt;experiments&lt;/strong&gt;, &lt;strong&gt;DIY electronics&lt;/strong&gt; and &lt;strong&gt;algorithmic composition&lt;/strong&gt;, combining experimental music with brand new technologies. Discovering how coding and music can be combined by prototyping domain-specific languages, enabling self-composed songs with genetic algorithms or re-discovering &lt;code&gt;MIDI&lt;/code&gt; controllers to create audio art.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect3&quot;&gt;
+&lt;h4 id=&quot;_a_genetic_algorithms_mathematical_compositions_and_generative_music&quot;&gt;A. Genetic algorithms, mathematical compositions and generative music&lt;/h4&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;We are exploring the potential of applying &lt;em&gt;Artificial Intelligence&lt;/em&gt; techniques and software development to create programs which are able to write and play their own music.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Take a look of our first experiments, &lt;a href=&quot;https://www.youtube.com/playlist?list=PL7xg0jqeMOn8xBEn4tn5kuOjmHitTMZyZ&quot;&gt;watching our videos&lt;/a&gt; of &lt;em&gt;cellular automata&lt;/em&gt; with emergent properties for music composition.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Each &lt;em&gt;cellular automaton&lt;/em&gt; is able to compose its own music based on simple rules, evolving while it plays synthetic instruments in &lt;em&gt;Ableton Live&lt;/em&gt; or external devices through &lt;code&gt;MIDI&lt;/code&gt; events.&lt;/p&gt;
+&lt;/div&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; src=&quot;https://www.youtube.com/embed/videoseries?list=PL7xg0jqeMOn8xBEn4tn5kuOjmHitTMZyZ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect3&quot;&gt;
+&lt;h4 id=&quot;_b_domain_specific_languages&quot;&gt;B. Domain Specific Languages&lt;/h4&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;em&gt;Alda-tabs&lt;/em&gt; is the first &lt;em&gt;Domain Specific Language for Guitar Players in the Java Virtual Machine&lt;/em&gt;. This piece of software can help guitar players to “execute” their music notes in the JVM, write songs and get audio feedback with basic tab syntax.
+You can read more about this in &lt;a href=&quot;https://dgrmunch.github.io/blog/blog/2017/alda-tabs.html&quot;&gt;this article&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Take a look of the potential of &lt;em&gt;Alda-tabs&lt;/em&gt; with chords and arpeggios listening this example (code also provided):&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;literalblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;pre&gt;./alda-tabs.sh examples/01-guitartabs-example.alda&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;audioblock music-box&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;audio src=&quot;https://dgrmunch.github.io/blog/songs/examples/example1.mp3&quot; controls&gt;
+Your browser does not support the audio tag.
+&lt;/audio&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/examples/01-guitartabs-example.alda&quot; class=&quot;fa fa-file code&quot; target=&quot;_blank&quot;&gt; Read alda-tabs code&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect3&quot;&gt;
+&lt;h4 id=&quot;_c_digital_instruments_and_physical_interfaces&quot;&gt;C. Digital instruments and physical interfaces&lt;/h4&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;A couple of years ago, when I was working as Visiting Researcher at the &lt;em&gt;Critical Making Lab&lt;/em&gt; (&lt;em&gt;University of Toronto&lt;/em&gt;), I discovered how a humanistic-based approach to &lt;em&gt;DIY electronics&lt;/em&gt;, &lt;em&gt;coding&lt;/em&gt; and &lt;em&gt;making&lt;/em&gt; could change forever my conception on research.
+That experience helped me to see the importance of hands-on learning and the role that &lt;em&gt;tangible objects&lt;/em&gt; could have for theoretical or intellectual explorations.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Currently I am working on a prototype of a physical &lt;code&gt;MIDI&lt;/code&gt; interface to control digital instruments directly from a guitar fret.
+This same concept will be explored with different objects and materials (conductive or not) in the following months.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;The idea is to go beyond the keyboard as the standard digital music interface and build physical &lt;code&gt;MIDI&lt;/code&gt; controllers with wood, cardboard, fabric, etc.
+More details about this project will be published soon.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;In the meantime, I have been also testing some libraries of &lt;code&gt;Javascript&lt;/code&gt; for sound synthesis, and playing around with &lt;code&gt;p5.js&lt;/code&gt; to develop the foundations of &lt;code&gt;SoundBox&lt;/code&gt;, an experimental digital environment for synthetic music creation. Basically, the idea with this tool is to transform a human voice or an instrument (through a microphone) in a &lt;code&gt;MIDI&lt;/code&gt;
+ interface. Right now, it basically detects the &lt;em&gt;fundamental frequency&lt;/em&gt; of the microphone&amp;#8217;s sound signal, allowing the user to transform a continuous signal in a set of discrete notes. It also parses that information and reproduces the played sequence in &lt;em&gt;Sin Oscillator&lt;/em&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;It is a very straightforward prototype with troubles with some harmonics, but it has been a good experiment to learn about how these issues work. Let&amp;#8217;s see, but maybe &lt;code&gt;SoundBox&lt;/code&gt; is the starting point for something more sophisticated.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;span class=&quot;image&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/SciArtLab/soundbox/master/img/img2.png&quot; alt=&quot;img2&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect3&quot;&gt;
+&lt;h4 id=&quot;_d_music_visualization&quot;&gt;D. Music Visualization&lt;/h4&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;One of the research interests of the &lt;em&gt;SciArt Lab&lt;/em&gt; is information visualization in unusual ways. I always was fascinated about &lt;em&gt;synesthesia&lt;/em&gt; and lately I have been testing visual approaches to music. The idea with some of the prototypes I have been working in is to map &lt;code&gt;MIDI&lt;/code&gt; inputs both with physical visualizations (i.a. LEDs) and computational ones.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;In this second category, I have been testing the possibility of creating my own 2D graphics with &lt;code&gt;Processing&lt;/code&gt; and &lt;code&gt;SVG&lt;/code&gt; and animate them while controling their movements and shapes directly from external &lt;code&gt;MIDI&lt;/code&gt; inputs.
+This is one example of one program/animation that I have implemented recently:&lt;/p&gt;
+&lt;/div&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;450&quot;  src=&quot;https://www.youtube.com/embed/W3ou3hSYBB8&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;In the previous example, an animation is created dynamically in &lt;code&gt;Processing&lt;/code&gt; while the behavior of an animated cartoon responds to the inputs received from an external &lt;em&gt;DIY electronics&lt;/em&gt; device. Both the graphics and the sound are produced by the orders received through &lt;code&gt;MIDI&lt;/code&gt; inputs.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect3&quot;&gt;
+&lt;h4 id=&quot;_e_postsynaptic_symphonies&quot;&gt;E. Postsynaptic Symphonies&lt;/h4&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;I have always liked music. I started writing songs with a keyboard as a kid and continued with a guitar when I was a teenager. Nowadays, I enjoy playing several kinds of instruments. Besides the keyboard, my acoustic guitar and my wife&amp;#8217;s classical guitar, I have two harmonicas, some flutes, an ocarina, an ukulele and a guitalele.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Recently, as part of the open-ended exploration of the &lt;em&gt;SciArt Lab&lt;/em&gt;, I have been writing also some digital music. I call them &lt;em&gt;postynaptic symphonies&lt;/em&gt; because I found interesting the cognitive experience of listening that sort of unpredictable songs.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;I have published some &lt;code&gt;postynaptic symphonies&lt;/code&gt; in &lt;em&gt;SoundCloud&lt;/em&gt;:&lt;/p&gt;
+&lt;/div&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/322369717&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;div class=&quot;exampleblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;More information about the evolution of my &lt;em&gt;music-related projects&lt;/em&gt; will be coming soon :)&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+          </description>
+      </item>
       
       <item>
           <title>Alda-tabs: Domain Specific Language for Guitar Players in the Java Virtual Machine</title>

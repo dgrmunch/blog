@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>http://dgrmunch.github.io/blog/index.html</loc>
-        <lastmod>2017-05-09</lastmod>
+        <lastmod>2017-07-11</lastmod>
     </url>
     <url>
         <loc>http://dgrmunch.github.io/blog/archive.html</loc>
-        <lastmod>2017-05-09</lastmod>
+        <lastmod>2017-07-11</lastmod>
     </url>
 
     <url>
@@ -24,17 +24,24 @@
     </url>
 
     <url>
+        <loc>http://dgrmunch.github.io/blog/tags/ableton.html</loc>
+        
+
+        <lastmod>2017-06-01</lastmod>
+    </url>
+
+    <url>
         <loc>http://dgrmunch.github.io/blog/tags/code.html</loc>
         
 
-        <lastmod>2017-04-13</lastmod>
+        <lastmod>2017-06-01</lastmod>
     </url>
 
     <url>
         <loc>http://dgrmunch.github.io/blog/tags/software.html</loc>
         
 
-        <lastmod>2017-04-13</lastmod>
+        <lastmod>2017-06-01</lastmod>
     </url>
 
     <url>
@@ -48,14 +55,14 @@
         <loc>http://dgrmunch.github.io/blog/tags/open-source.html</loc>
         
 
-        <lastmod>2017-04-13</lastmod>
+        <lastmod>2017-06-01</lastmod>
     </url>
 
     <url>
         <loc>http://dgrmunch.github.io/blog/tags/sciart.html</loc>
         
 
-        <lastmod>2017-04-13</lastmod>
+        <lastmod>2017-06-01</lastmod>
     </url>
 
     <url>
@@ -83,7 +90,7 @@
         <loc>http://dgrmunch.github.io/blog/tags/guitar.html</loc>
         
 
-        <lastmod>2017-04-13</lastmod>
+        <lastmod>2017-06-01</lastmod>
     </url>
 
     <url>
@@ -97,7 +104,21 @@
         <loc>http://dgrmunch.github.io/blog/tags/alda-tabs.html</loc>
         
 
-        <lastmod>2017-04-13</lastmod>
+        <lastmod>2017-06-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/tags/coding.html</loc>
+        
+
+        <lastmod>2017-06-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/tags/midi.html</loc>
+        
+
+        <lastmod>2017-06-01</lastmod>
     </url>
 
     <url>
@@ -111,7 +132,7 @@
         <loc>http://dgrmunch.github.io/blog/tags/music.html</loc>
         
 
-        <lastmod>2017-04-13</lastmod>
+        <lastmod>2017-06-01</lastmod>
     </url>
 
     <url>
@@ -132,7 +153,7 @@
         <loc>http://dgrmunch.github.io/blog/tags/english.html</loc>
         
 
-        <lastmod>2017-04-13</lastmod>
+        <lastmod>2017-06-01</lastmod>
     </url>
 
     <url>
@@ -140,6 +161,13 @@
         
 
         <lastmod>2017-03-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/tags/programming.html</loc>
+        
+
+        <lastmod>2017-06-01</lastmod>
     </url>
 
     <url>
@@ -173,6 +201,11 @@
     <url>
         <loc>http://dgrmunch.github.io/blog/ipfs.html</loc>
         <lastmod>2017-04-06</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/blog/2017/digital-music-creation.html</loc>
+        <lastmod>2017-06-01</lastmod>
     </url>
 
     <url>

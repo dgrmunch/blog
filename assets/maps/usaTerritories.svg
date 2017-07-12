@@ -12,33 +12,35 @@
 
 		<style type="text/css">
 			.land {
-			  fill: black;
-			  fill-opacity: 0.5;
-			  stroke: lightcyan;
-			  stroke-width: 1;
-			}
+    fill: #0004064d;
+    fill-opacity: 1;
+    stroke: lightcyan;
+    stroke-width: 1;
+    stroke-dasharray: 2;
+}
 
 			.land:hover
 			{
 				fill: gray;
 			}
-			.visited
-			{
+			.visited {
+    stroke: black !important;
+    fill-opacity: 1 ;
 
-				stroke:black;
-				fill-opacity: 1;
-			}
+    fill: lightgreen !important;
+}
 
 			.visited:hover
 			{
-				fill: lightblue;
+				fill: yellow !important;
 				fill-opacity: 0.5;
 			}
 
 			#stateName{
-			  font-size: 30px;
-			  fill: black;
-			  }
+			fill: #ffff76;
+			stroke: #0000004d;
+			font-size: 100px;
+			 }
 
 			.tooltip {
 				display:none;
@@ -60,9 +62,6 @@
 		<!--{id:"divider2"},{id:"divider1"},{id:"AS"},{id:"FM"},{id:"GU"},{id:"MH"},{id:"MP"},{id:"PR"},{id:"PW"},{id:"VI"},{id:"US-AK"},{id:"US-AL"},{id:"US-AR"},{id:"US-AZ"},{id:"US-CA"},{id:"US-CO"},{id:"US-CT"},{id:"US-DC"},{id:"US-DE"},{id:"US-FL"},{id:"US-GA"},{id:"US-HI"},{id:"US-IA"},{id:"US-ID"},{id:"US-IL"},{id:"US-IN"},{id:"US-KS"},{id:"US-KY"},{id:"US-LA"},{id:"US-MA"},{id:"US-MD"},{id:"US-ME"},{id:"US-MI"},{id:"US-MN"},{id:"US-MO"},{id:"US-MS"},{id:"US-MT"},{id:"US-NC"},{id:"US-ND"},{id:"US-NE"},{id:"US-NH"},{id:"US-NJ"},{id:"US-NM"},{id:"US-NV"},{id:"US-NY"},{id:"US-OH"},{id:"US-OK"},{id:"US-OR"},{id:"US-PA"},{id:"US-RI"},{id:"US-SC"},{id:"US-SD"},{id:"US-TN"},{id:"US-TX"},{id:"US-UT"},{id:"US-VA"},{id:"US-VT"},{id:"US-WA"},{id:"US-WI"},{id:"US-WV"},{id:"US-WY"}-->
 
 	</defs>
-
-	<text id="stateName" y="50%" x="50%"> [ Visited states ]</text>
-
 	<g>
 
 		<path id="divider2" title="divider" class="land" d="M1042.59,644.28L1042.59,567.43L1121.57,439.79L1121.13,439.52L1042.08,567.28L1042.08,644.28L926.6,644.28L926.6,567.43L1005.58,439.79L1005.15,439.52L926.09,567.28L926.09,644.28L756.84,644.28L756.84,622.92L756.84,621.9L756.33,621L738.2,589.26L737.91,588.75L737.32,588.75L570.33,588.75L570.33,589.26L737.62,589.26L756.33,622.03L756.33,644.28L570.33,644.28L570.33,644.79L756.33,644.79L756.33,780.13L756.84,780.13L756.84,644.79L926.08,644.79L926.08,780.13L926.59,780.13L926.59,644.79L1042.08,644.79L1042.08,780.13L1042.59,780.13L1042.59,644.79L1169.06,644.79L1169.06,780.13L1169.57,780.13L1169.57,644.79L1368,644.79L1368,644.28z"/>
@@ -129,6 +128,8 @@
 
 	</g>
 
+	<text id="stateName" y="50%" x="50%"></text>
+
 	<script type="text/javascript">
 
 	visitedStates.forEach(setVisited);
@@ -150,7 +151,7 @@
  		};
 
 		element.onmouseleave = function(){
-   	 	document.getElementById("stateName").textContent = "[ Visited states ]";
+   	 	document.getElementById("stateName").textContent = "";
 
 		 		};
 	}

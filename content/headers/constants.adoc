@@ -2,6 +2,7 @@
 :rhizome: http://www.xmunch.com/rhizome
 :images: https://dgrmunch.github.io/blog/img
 :songs: https://dgrmunch.github.io/blog/songs
+:documents: https://dgrmunch.github.io/blog/documents
 :sciartlab: http://sciartlab.com
 :twitter: http://twitter.com/sciartlab
 :blog-path: https://dgrmunch.github.io/blog/

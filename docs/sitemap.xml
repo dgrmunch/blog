@@ -2,32 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>http://dgrmunch.github.io/blog/index.html</loc>
-        <lastmod>2017-08-08</lastmod>
+        <lastmod>2017-12-08</lastmod>
     </url>
     <url>
         <loc>http://dgrmunch.github.io/blog/archive.html</loc>
-        <lastmod>2017-08-08</lastmod>
-    </url>
-
-    <url>
-        <loc>http://dgrmunch.github.io/blog/tags/jvm.html</loc>
-        
-
-        <lastmod>2017-04-13</lastmod>
-    </url>
-
-    <url>
-        <loc>http://dgrmunch.github.io/blog/tags/spanish.html</loc>
-        
-
-        <lastmod>2017-02-12</lastmod>
-    </url>
-
-    <url>
-        <loc>http://dgrmunch.github.io/blog/tags/ableton.html</loc>
-        
-
-        <lastmod>2017-06-01</lastmod>
+        <lastmod>2017-12-08</lastmod>
     </url>
 
     <url>
@@ -52,13 +31,6 @@
     </url>
 
     <url>
-        <loc>http://dgrmunch.github.io/blog/tags/open-source.html</loc>
-        
-
-        <lastmod>2017-06-01</lastmod>
-    </url>
-
-    <url>
         <loc>http://dgrmunch.github.io/blog/tags/sciart.html</loc>
         
 
@@ -73,13 +45,6 @@
     </url>
 
     <url>
-        <loc>http://dgrmunch.github.io/blog/tags/postmodern.html</loc>
-        
-
-        <lastmod>2017-02-12</lastmod>
-    </url>
-
-    <url>
         <loc>http://dgrmunch.github.io/blog/tags/commons.html</loc>
         
 
@@ -87,21 +52,14 @@
     </url>
 
     <url>
-        <loc>http://dgrmunch.github.io/blog/tags/guitar.html</loc>
+        <loc>http://dgrmunch.github.io/blog/tags/alda-tabs.html</loc>
         
 
         <lastmod>2017-06-01</lastmod>
     </url>
 
     <url>
-        <loc>http://dgrmunch.github.io/blog/tags/p2p.html</loc>
-        
-
-        <lastmod>2017-02-03</lastmod>
-    </url>
-
-    <url>
-        <loc>http://dgrmunch.github.io/blog/tags/alda-tabs.html</loc>
+        <loc>http://dgrmunch.github.io/blog/tags/metaverse.html</loc>
         
 
         <lastmod>2017-06-01</lastmod>
@@ -143,24 +101,10 @@
     </url>
 
     <url>
-        <loc>http://dgrmunch.github.io/blog/tags/blockchain.html</loc>
-        
-
-        <lastmod>2017-02-03</lastmod>
-    </url>
-
-    <url>
         <loc>http://dgrmunch.github.io/blog/tags/english.html</loc>
         
 
         <lastmod>2017-06-01</lastmod>
-    </url>
-
-    <url>
-        <loc>http://dgrmunch.github.io/blog/tags/data-visualization.html</loc>
-        
-
-        <lastmod>2017-03-01</lastmod>
     </url>
 
     <url>
@@ -175,6 +119,111 @@
         
 
         <lastmod>2017-03-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/tags/jvm.html</loc>
+        
+
+        <lastmod>2017-04-13</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/tags/spanish.html</loc>
+        
+
+        <lastmod>2017-02-12</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/tags/ableton.html</loc>
+        
+
+        <lastmod>2017-06-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/tags/decentraland.html</loc>
+        
+
+        <lastmod>2017-06-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/tags/distributed.html</loc>
+        
+
+        <lastmod>2017-06-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/tags/open-source.html</loc>
+        
+
+        <lastmod>2017-06-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/tags/decentralized.html</loc>
+        
+
+        <lastmod>2017-06-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/tags/webvr.html</loc>
+        
+
+        <lastmod>2017-06-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/tags/postmodern.html</loc>
+        
+
+        <lastmod>2017-02-12</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/tags/guitar.html</loc>
+        
+
+        <lastmod>2017-06-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/tags/p2p.html</loc>
+        
+
+        <lastmod>2017-06-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/tags/aframe.html</loc>
+        
+
+        <lastmod>2017-06-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/tags/blockchain.html</loc>
+        
+
+        <lastmod>2017-02-03</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/tags/data-visualization.html</loc>
+        
+
+        <lastmod>2017-03-01</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/tags/vr.html</loc>
+        
+
+        <lastmod>2017-06-01</lastmod>
     </url>
 
 
@@ -201,6 +250,11 @@
     <url>
         <loc>http://dgrmunch.github.io/blog/ipfs.html</loc>
         <lastmod>2017-04-06</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/blog/2017/building-a-distributed-metaverse.html</loc>
+        <lastmod>2017-06-01</lastmod>
     </url>
 
     <url>

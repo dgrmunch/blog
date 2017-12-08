@@ -1,0 +1,716 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    
+    <title>xmunch.com  - Alda-tabs: Domain Specific Language for Guitar Players in the Java Virtual Machine</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="xmunch.com : Alda-tabs: Domain Specific Language for Guitar Players in the Java Virtual Machine">
+    <meta property="og:title" content="xmunch.com - Alda-tabs: Domain Specific Language for Guitar Players in the Java Virtual Machine" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://dgrmunch.github.io/blog" />
+    <meta property="og:description" content="xmunch.com : Alda-tabs: Domain Specific Language for Guitar Players in the Java Virtual Machine" />
+    <meta property="og:locale" content="es_ES" />
+    <meta property="og:site_name" content="xmunch.com" />
+    <link href="../../css/yeti/bootstrap.min.css" rel="stylesheet">
+    <link href="../../css/base.css" rel="stylesheet">
+    <link href="../../css/asciidoctor.css" rel="stylesheet">
+    <link href="../../css/xmunch.css?build=@10" rel="stylesheet">
+    <!-- link href="/css/bootstrap-theme.min.css" rel="stylesheet" -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href='http://alexgorbatchev.com/pub/sh/3.0.83/styles/shCore.css' rel='stylesheet' type='text/css'/>
+    <link href='http://alexgorbatchev.com/pub/sh/3.0.83/styles/shThemeDefault.css' rel='stylesheet' type='text/css'/>
+
+    <script>
+              (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                                                                        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                                                                        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                                                                        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+                                                                        ga('create', 'UA-62113801-1', 'auto');
+                                                                        ga('send', 'pageview');
+      </script>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <!--<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">-->
+    <link rel="shortcut icon" href="../../favicon.ico">
+  </head>
+  <body>
+    <div id="wrap">
+
+
+	      <!-- Fixed navbar -->
+      <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" onclick="if(document.getElementById('navbar-menu').classList.contains('collapse')) document.getElementById('navbar-menu').classList.remove('collapse'); else document.getElementById('navbar-menu').classList.add('collapse')">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <span class="navbar-brand"><img src="http://www.sciartlab.com/wp-content/uploads/sciarlab-inverted.png" alt="SciArt Lab"></span>
+          </div>
+          <div class="collapse navbar-collapse" id="navbar-menu">
+            <ul class="nav navbar-nav">
+              <li><a href="../../archive.html">Archive</a></li>
+              <li><a href="../../tags/spanish.html">Art&iacute;culos en Espa&ntilde;ol</a></li>
+              <li><a href="../../tags/english.html">Posts in English</a></li>
+              <li><a href="../../feed.xml">RSS</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+      <div class="container">
+
+
+	<div class="page-header">
+        <div class="row">
+            <div class="col-xs-12 col-md-8"><h1>Alda-tabs: Domain Specific Language for Guitar Players in the Java Virtual Machine</h1></div>
+        </div>
+	</div>
+
+    <div class="row">
+
+        <div class="col-sm-8" itemscope itemtype="http://schema.org/Blog">
+
+        <p>
+            <em>
+                <time itemprop="datePublished"
+                      datetime="2017-04-13">
+                    13 abril 2017
+                </time>
+            </em>
+        </p>
+
+        <meta itemprop="name" content="Alda-tabs: Domain Specific Language for Guitar Players in the Java Virtual Machine"/>
+
+        <div itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <meta itemprop="name" content="Yan Bonnel"/>
+        </div>
+        <meta itemprop="inLanguage" content="fr-FR"/>
+        <meta itemprop="url" content="http://dgrmunch.github.io/blog/blog/2017/alda-tabs.html"/>
+        <meta itemprop="discussionUrl" content="http://dgrmunch.github.io/blog/blog/2017/alda-tabs.html#disqus_thread"/>
+
+
+
+        <p>Tags :
+        <meta itemprop="keywords" content="english,open-source,music,code,jvm,sciart,guitar,alda-tabs,software"/>
+        <a href="../../tags/english.html">english</a>, <a href="../../tags/open-source.html">open-source</a>, <a href="../../tags/music.html">music</a>, <a href="../../tags/code.html">code</a>, <a href="../../tags/jvm.html">jvm</a>, <a href="../../tags/sciart.html">sciart</a>, <a href="../../tags/guitar.html">guitar</a>, <a href="../../tags/alda-tabs.html">alda-tabs</a>, <a href="../../tags/software.html">software</a>
+        </p>
+
+				<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://dgrmunch.github.io/blog/blog/2017/alda-tabs.html" data-text="Alda-tabs: Domain Specific Language for Guitar Players in the Java Virtual Machine" data-via="dgrmunch" data-lang="fr">[Share in Twitter]</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			
+        <div class="blogpost" itemprop="blogPost">
+        <p><div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<div class="title">Note</div>
+</td>
+<td class="content">
+This post explains how to easily compose music with <code>alda-tabs</code>, a <strong>Domain Specific Language for Guitar Players</strong> which runs in the JVM. I have developed <code>alda-tabs</code> as an <em>open source</em> project so you can download it for free in <a href="https://github.com/dgrmunch/alda-tabs">GitHub</a>.
+</td>
+</tr>
+</table>
+</div>
+<div class="sect2">
+<h3 id="_what_is_alda_tabs">What is alda-tabs?</h3>
+<div class="ulist">
+<ul>
+<li>
+<p>It is a Domain Specific Language for guitar players.</p>
+</li>
+<li>
+<p>It is a piece of software to help guitar players to
+"execute" their music notes in the <code>JVM</code>, compose songs and get audio feedback.</p>
+</li>
+<li>
+<p>It is an extensible tool for music programming mainly
+oriented to guitar players.</p>
+</li>
+<li>
+<p>It is built on the top of <code>Alda</code>, a DSL for
+music composition in the JVM, so it is compatible with both <code>Alda</code> and <code>Clojure</code>.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_why_is_so_easy_to_code_guitar_songs_with_alda_tabs">Why is so easy to code guitar songs with alda-tabs?</h3>
+<div class="ulist">
+<ul>
+<li>
+<p>It does not require programming skills.</p>
+</li>
+<li>
+<p>It does not require traditional music notation.</p>
+</li>
+<li>
+<p>It is as straightforward as writing simple guitar sketches in a
+notebook.</p>
+</li>
+<li>
+<p>You only have to copy your tabs from the paper to a text editor and
+execute <code>alda-tabs</code>.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p><span class="image white-img"><img src="https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/img/alda-tabs.png" alt="alda tabs"></span></p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_how_can_i_create_complex_digital_music_with_alda_tabs">How can I create complex digital music with alda-tabs?</h3>
+<div class="ulist">
+<ul>
+<li>
+<p>With <code>alda-tabs</code> you can execute any <em>.alda</em> file, so you can write
+your songs/programs in both <code>Clojure</code>, <code>Alda</code> and <code>alda-tabs</code> in the same
+block of text.</p>
+</li>
+<li>
+<p>It talks to the <code>JVM</code>, so any experimented programmer can do impossible
+things :-)</p>
+</li>
+<li>
+<p>It is just a layer on the top of <code>Alda</code>, so if you know music theory,
+then you can write complex songs using music notation.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_how_is_the_alda_tabs_syntax">How is the alda-tabs syntax?</h3>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<div class="title">Note</div>
+</td>
+<td class="content">
+Remember that with <strong>alda-tabs</strong> you can always use the standard
+Alda syntax and Clojure code. You can learn more about both languages
+later to explore the whole potential of <em>alda-tabs</em>. But don&#8217;t worry,
+you don&#8217;t need to know more yet. Just follow this tutorial and enjoy :)
+</td>
+</tr>
+</table>
+</div>
+<div class="paragraph">
+<p>What I am gonna show you here is the easy and super simple <em>alda-tabs</em>
+syntax:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>The <strong>tab notation</strong></p>
+</li>
+<li>
+<p>The <strong>chord notation</strong></p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>In 10 minutes you will be able to write songs in a text editor and
+listen the result in your speakers.</p>
+</div>
+<div class="sect3">
+<h4 id="_tab_notation">Tab notation</h4>
+<div class="paragraph">
+<p>Imagine that you want to play all the strings of the guitar, one after
+another:</p>
+</div>
+<div class="paragraph">
+<p><span class="image white-img"><img src="https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/img/score1.png" alt="score1"></span></p>
+</div>
+<div class="paragraph">
+<p>This example is a regular <em>guitar tab</em> in which all the strings are played sequentially with one hand and in which there are not fingers of the other hand pressing the fret.</p>
+</div>
+<div class="paragraph">
+<p><strong>So the fret number would be <code>0</code> in the six positions of the sequence.</strong></p>
+</div>
+<div class="exampleblock">
+<div class="content">
+<div class="paragraph">
+<p><strong>How would we write this in <code>Alda</code> syntax?</strong></p>
+</div>
+<div class="paragraph">
+<p><em>Don&#8217;t worry, I will explain how to do it in <code>alda-tabs</code> syntax bellow (see <a href="#how-to-do-it-in-alda-tabs">How to do it in alda-tabs?</a>) but it is important to read this before to compare <code>alda-tabs</code> with</em> <code>Alda</code>.</p>
+</div>
+<div class="paragraph">
+<p>In <code>Alda</code> syntax we would need to know the note equivalents of each position. And in addition:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>We would write the octave and the note, one after another:</p>
+</li>
+</ul>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>guitar: o4 e o3 b o3 g o3 d o2 a o2 e</pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Another way would be to write the initial octave increasing/decreasing it
+when needed:</p>
+</li>
+</ul>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>guitar: o4 e/&gt;b/g/d/&lt;&lt;a/e</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="how-to-do-it-in-alda-tabs">How to do it in alda-tabs?</h4>
+<div class="paragraph">
+<p>Remember that <em>alda-tabs</em> is based in the simple concept of a tab.
+Basically, the notes of a guitar can be defined by numeric combinations,
+a number to identify the string (from the first at the bottom to the
+sixth at the top) and a fret.</p>
+</div>
+<div class="paragraph">
+<p>To write a note in <em>alda-tabs</em> you only have to write <code>ta</code> followed by
+the <code>string number</code> and the <code>fret number</code>.</p>
+</div>
+<div class="paragraph">
+<p>With <code>alda-tabs</code> we can write the same sequence that we have previously
+expressed in <code>Alda</code>. But this time we don&#8217;t need to know which note we are
+playing, we only need to write the <em>tab</em>, the position of our finger
+considering the <em>string</em> and the <em>fret</em>:</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre> guitar: ta10 ta20 ta30 ta40 ta50 ta60</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>In this example, we are asking the JMV to play a guitar with the open strings 1, 2, 3, 4, 5 and 6, one after another. That is, <code>ta10</code> equals <strong>string 1</strong> and <strong>fret 0</strong> and so on.</p>
+</div>
+<div class="paragraph">
+<p>Take a look now of the fretboard:</p>
+</div>
+<div class="paragraph">
+<p><span class="image white-img"><img src="https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/img/notes-fret.png" alt="notes fret"></span></p>
+</div>
+<div class="paragraph">
+<p>If you want to play the first note <strong>C</strong>, according to the graphic displayed above, you don&#8217;t need to know the octave, you just will pick the <strong>string 2</strong> in the <strong>fret 1</strong>: <code>ta</code> + <code>2</code> + <code>1</code>.</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>guitar: ta21</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>You can also modify the duration of a note adding a character at the
+end. For example:</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>guitar: ta21 ta21W ta21Q ta21D ta21H</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>What does it mean? If you don&#8217;t specify a duration, this will be <strong>whole
+beat</strong> (<code>W</code>). You can also play the note during half beat (<code>H</code>), double (<code>D</code>)
+and quarter (<code>Q</code>). Those note durations will be proportional to the tempo
+of the score. For example, the following two sentences are not the same:</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>(tempo 100)
+guitar: ta21 ta21W ta21Q ta21D ta21H</pre>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>(tempo 300)
+guitar: ta21 ta21W ta21Q ta21D ta21H</pre>
+</div>
+</div>
+<div class="paragraph">
+<p><em>Play with these combinations to see the difference</em>. For more complex
+timing, check the <em>advanced tips</em> bellow.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="chord-notation">Chord notation</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Imagine that rather than a sequence of notes you want to play a chord. A
+basic example would be playing all the open strings at the same time:</p>
+</div>
+<div class="paragraph">
+<p><span class="image white-img"><img src="https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/img/score2.png" alt="score2"></span></p>
+</div>
+<div class="paragraph">
+<p>You can do this in three ways:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>In <code>Alda</code> syntax, using the character <code>/</code> to play the notes at the same
+time:</p>
+</li>
+</ul>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>guitar: o4 e/&gt;b/g/d/&lt;&lt;a/e</pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>In <code>alta-tabs</code> syntax, using the <em>tab notation</em> with different voices:</p>
+</li>
+</ul>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>guitar: V1: ta10 V2: ta20 V3: ta30 V4: ta40 V5: ta50 V6: ta60</pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>In <code>alta-tabs</code> syntax, but using the <strong>chord notation</strong>:</p>
+</li>
+</ul>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>guitar: (c 0 0 0 0 0 0 W)</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>As you can see, the chord notation is just a <code>Clojure</code> function <code>c</code> with
+seven parameters, the fret of each one of the six strings and the
+duration of the chord.</p>
+</div>
+<div class="paragraph">
+<p>For example, the D chord would be</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>(c 2 3 2 0 x x W)</pre>
+</div>
+</div>
+<div class="paragraph">
+<p><span class="image white-img"><img src="https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/img/re.png" alt="re"></span></p>
+</div>
+<div class="paragraph">
+<p>You can also use the <em>chord notation</em> to play single notes. For example,
+the two following sequences are exactly the same:</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre># alta-tab syntax
+
+ta10 ta20 ta30 ta40 ta50 ta60
+
+# alda-tab chord syntax
+
+(c 0 x x x x x W)
+(c x 0 x x x x W)
+(c x x 0 x x x W)
+(c x x x 0 x x W)
+(c x x x x 0 x W)
+(c x x x x x 0 W)</pre>
+</div>
+</div>
+<div class="sect2">
+<h3 id="advanced-tips">Advanced tips</h3>
+<div class="paragraph">
+<p>You can play tabs with specific durations, in seconds or milliseconds by
+using the function <code>t</code>. In this case you should write the number of
+the string, followed by a dot and the fret. Add the end, you should
+express in String format ("") the duration you want.</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>guitar: (t 1.0 "2s") (t 2.0 "10ms") (t 2.2 "100ms")</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>You can do the same with your chords:</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>guitar: (c 0 x 1 2 2 x "5s")</pre>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="how-can-i-install-alta-tabs">How can I install alta-tabs?</h3>
+<div class="ulist">
+<ul>
+<li>
+<p>Follow the <a href="https://github.com/alda-lang/alda">steps to install Alda</a>.</p>
+</li>
+<li>
+<p>Clone <a href="https://github.com/dgrmunch/alda-tabs">this repo</a> and open the folder <code>alda-tabs</code> in your terminal.</p>
+</li>
+<li>
+<p>Run the Alda server with <code>alda up</code>.</p>
+</li>
+<li>
+<p>Create a simple text file, write your song using the alda-tabs
+syntax and save it.</p>
+</li>
+<li>
+<p>Execute <code>./alda-tabs.sh</code> followed by the path of the file you want
+to play.</p>
+</li>
+<li>
+<p>Listen the result.</p>
+</li>
+<li>
+<p>If you want to stop a song you can stop the alda server with
+<code>alda down</code>.</p>
+</li>
+</ul>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<div class="title">Note</div>
+</td>
+<td class="content">
+You can also play some scores (provided in the <code>/examples</code>
+folder) and modify their content to explore different sounds.
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_examples">Examples</h2>
+<div class="sectionbody">
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<div class="title">Note</div>
+</td>
+<td class="content">
+In this document you can both read the code and listen the output of its execution in <code>alda-tabs</code>. However, the provided audio file is <strong>non-stereo</strong>. The original output of <code>alda-tabs</code>, however, includes <code>panning</code>. So explore the real result executing the code/song in your own instance of <code>alda-tabs</code>.
+</td>
+</tr>
+</table>
+</div>
+<div class="sect2">
+<h3 id="_example_1_chords_and_arpeggios">Example 1: Chords and arpeggios</h3>
+<div class="paragraph">
+<p>You can start exploring the potential of <em>alda-tabs</em> with chords and arpeggios
+with the <strong>example #01</strong>:</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>./alda-tabs.sh examples/01-guitartabs-example.alda</pre>
+</div>
+</div>
+<div class="audioblock music-box">
+<div class="content">
+<audio src="https://dgrmunch.github.io/blog/songs/examples/example1.mp3" controls>
+Your browser does not support the audio tag.
+</audio>
+</div>
+</div>
+<div class="paragraph">
+<p><a href="https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/examples/01-guitartabs-example.alda" class="fa fa-file code" target="_blank"> Read alda-tabs code</a></p>
+</div>
+<hr>
+</div>
+<div class="sect2">
+<h3 id="_example_2_the_sound_of_pi">Example 2: The sound of Pi</h3>
+<div class="paragraph">
+<p>Try to compose <em>mathematical songs</em> extending <em>Alda</em> and <em>alda-tabs</em>
+with <em>Clojure</em>. See the <strong>example #02</strong>:</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>./alda-tabs.sh examples/02-pi.alda</pre>
+</div>
+</div>
+<div class="audioblock music-box">
+<div class="content">
+<audio src="https://dgrmunch.github.io/blog/songs/examples/example2.mp3" controls>
+Your browser does not support the audio tag.
+</audio>
+</div>
+</div>
+<div class="paragraph">
+<p><a href="https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/examples/02-pi.alda" class="fa fa-file code" target="_blank"> Read alda-tabs code</a></p>
+</div>
+<hr>
+</div>
+<div class="sect2">
+<h3 id="_example_3_complex_songs">Example 3: Complex songs</h3>
+<div class="paragraph">
+<p>You can also see how beautiful songs with multiple instruments can be
+written with Alda with the <strong>example #03</strong>:</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>./alda-tabs.sh examples/03-hope-for-future-ext.alda</pre>
+</div>
+</div>
+<div class="audioblock music-box">
+<div class="content">
+<audio src="https://dgrmunch.github.io/blog/songs/examples/example3.mp3" controls>
+Your browser does not support the audio tag.
+</audio>
+</div>
+</div>
+<div class="paragraph">
+<p><a href="https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/examples/03-hope-for-future-ext.alda" class="fa fa-file code" target="_blank"> Read alda-tabs code</a></p>
+</div>
+</div>
+</div>
+</div></p>
+        </div>
+
+    </div>
+
+    		
+        <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+            <div class="avatar-box sidebar-module sidebar-module-inset">
+                <h4>Diego González, PhD</h4>
+                <p><b>Research & Development</b></p>
+                <img src="../../img/avatar.jpg"  height="128" width="128">
+                <br><br>
+                <a href="../../about.html">About me (English)</a><br>
+                <a href="../../sobremi.html">Sobre mi (Español)</a>
+            </div>
+
+            <div class="avatar-box sciart-lab-box sidebar-module sidebar-module-inset">
+                <a href="http://www.sciartlab.com" target="blank_"><img src="http://www.sciartlab.com/wp-content/uploads/sciarlab-inverted.png" height="228"></a>
+            </div>
+
+            <div class="sidebar-module sidebar-module-inset">
+              <b>Social Media / Redes sociales</b><br>
+
+                <ul>
+                    <li><a href="https://twitter.com/dgrmunch">Twitter</a></li>
+										<li><a href="https://www.linkedin.com/in/xmunch/en">Linkedin</a></li>
+										<li><a href="https://github.com/dgrmunch">Github</a></li>
+										<li><a href="https://www.instagram.com/xmunch">Instagram</a></li>
+										<li><a href="https://www.flickr.com/photos/xmunch">Flickr</a></li>
+                </ul>
+            </div>
+
+            <div class="sidebar-module sidebar-module-inset">
+							<b>Other sites / Otros sitios</b><br>
+              <ul>
+                  <li><a href="http://www.sciartlab.com">SciArt Lab</a></li>
+							    <li><a href="http://xmunch.com/blog">Rhizome Ethnographies</a></li>
+              </ul>
+					  </div>
+
+            <div class="sidebar-module">
+                <h4>Tags</h4>
+                <ol class="list-unstyled" style="margin-left: 0px">
+                    
+                        <li><a href="tags/english.html">english</a> (5)</li>
+                    
+                        <li><a href="tags/code.html">code</a> (3)</li>
+                    
+                        <li><a href="tags/open-source.html">open-source</a> (3)</li>
+                    
+                        <li><a href="tags/p2p.html">p2p</a> (3)</li>
+                    
+                        <li><a href="tags/sciart.html">sciart</a> (3)</li>
+                    
+                        <li><a href="tags/alda-tabs.html">alda-tabs</a> (2)</li>
+                    
+                        <li><a href="tags/coding.html">coding</a> (2)</li>
+                    
+                        <li><a href="tags/decentralization.html">decentralization</a> (2)</li>
+                    
+                        <li><a href="tags/diversity.html">diversity</a> (2)</li>
+                    
+                        <li><a href="tags/guitar.html">guitar</a> (2)</li>
+                    
+                        <li><a href="tags/multiculturalism.html">multiculturalism</a> (2)</li>
+                    
+                        <li><a href="tags/music.html">music</a> (2)</li>
+                    
+                        <li><a href="tags/programming.html">programming</a> (2)</li>
+                    
+                        <li><a href="tags/software.html">software</a> (2)</li>
+                    
+                        <li><a href="tags/spanish.html">spanish</a> (2)</li>
+                    
+                        <li><a href="tags/ableton.html">ableton</a> (1)</li>
+                    
+                        <li><a href="tags/aframe.html">aframe</a> (1)</li>
+                    
+                        <li><a href="tags/blockchain.html">blockchain</a> (1)</li>
+                    
+                        <li><a href="tags/commons.html">commons</a> (1)</li>
+                    
+                        <li><a href="tags/data-visualization.html">data-visualization</a> (1)</li>
+                    
+                        <li><a href="tags/decentraland.html">decentraland</a> (1)</li>
+                    
+                        <li><a href="tags/decentralized.html">decentralized</a> (1)</li>
+                    
+                        <li><a href="tags/distributed.html">distributed</a> (1)</li>
+                    
+                        <li><a href="tags/ethnography.html">ethnography</a> (1)</li>
+                    
+                        <li><a href="tags/ipfs.html">ipfs</a> (1)</li>
+                    
+                        <li><a href="tags/jvm.html">jvm</a> (1)</li>
+                    
+                        <li><a href="tags/metaverse.html">metaverse</a> (1)</li>
+                    
+                        <li><a href="tags/midi.html">midi</a> (1)</li>
+                    
+                        <li><a href="tags/postmodern.html">postmodern</a> (1)</li>
+                    
+                        <li><a href="tags/vr.html">vr</a> (1)</li>
+                    
+                        <li><a href="tags/webvr.html">webvr</a> (1)</li>
+                    
+                 </ol>
+            </div>
+        </div>
+
+
+		</div>
+		<div id="push"></div>
+    </div>
+
+    <div id="footer">
+      <div class="container">
+        <p class="text-muted credit">&copy; Diego Gonzalez 2017 | <a href="http://xmunch.com">xmunch.com</a> | Baked with <a href="http://jbake.org">JBake v2.5.1</a></p>
+      </div>
+    </div>
+
+  </body>
+</html>
+

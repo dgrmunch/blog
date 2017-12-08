@@ -17,8 +17,6 @@ include::../../headers/constants.adoc[]
 
 toc::[]
 
-:blog-path: http://localhost:8820
-
 [Tip]
 ====
 

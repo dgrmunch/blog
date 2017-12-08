@@ -30,7 +30,7 @@ _Extracted from https://en.wikipedia.org/wiki/Metaverse[Wikipedia]_
 
 ====
 
-=== Jumping to a Virtual Reality
+=== Towards a Virtual Reality
 
 During the last year we have been exploring how the {sciartlab}[SciArt Lab] could contribute to the emergence of the distributed metaverse. We had the chance of testing new virtual reality open-source technologies and develop several `WebVR` components with a triple goal:
 

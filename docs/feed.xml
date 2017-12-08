@@ -6,8 +6,8 @@
     <atom:link href="http://dgrmunch.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>xmunch.com</description>
     <language>en-gb</language>
-      <pubDate>Fri, 8 Dec 2017 17:05:19 -0500</pubDate>
-      <lastBuildDate>Fri, 8 Dec 2017 17:05:19 -0500</lastBuildDate>
+      <pubDate>Fri, 8 Dec 2017 17:14:59 -0500</pubDate>
+      <lastBuildDate>Fri, 8 Dec 2017 17:14:59 -0500</lastBuildDate>
 
       
       <item>
@@ -31,7 +31,7 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;sect2&quot;&gt;
-&lt;h3 id=&quot;_jumping_to_a_virtual_reality&quot;&gt;Jumping to a Virtual Reality&lt;/h3&gt;
+&lt;h3 id=&quot;_towards_a_virtual_reality&quot;&gt;Towards a Virtual Reality&lt;/h3&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;During the last year we have been exploring how the &lt;a href=&quot;http://sciartlab.com&quot;&gt;SciArt Lab&lt;/a&gt; could contribute to the emergence of the distributed metaverse. We had the chance of testing new virtual reality open-source technologies and develop several &lt;code&gt;WebVR&lt;/code&gt; components with a triple goal:&lt;/p&gt;
 &lt;/div&gt;

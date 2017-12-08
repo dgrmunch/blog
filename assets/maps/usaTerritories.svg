@@ -7,7 +7,7 @@
 			var visitedStates = ["US-NC", "US-TX", "US-CO", "US-LA", "US-SC", "US-NY", "US-IL",
 								 "US-TN", "US-VA", "US-WV", "US-MA", "US-DC", "US-CT", "US-PA", "US-DE",
 								 "US-MD", "US-NJ", "US-GA", "US-FL", "US-NM", "PR", "US-OH", "US-AZ",
-								 "US-MI", "US-RI", "US-OR", "US-WA"];
+								 "US-MI", "US-RI", "US-OR", "US-WA", "US-WI", "US-MN", "US-MS", "US-AL"];
 		</script>
 
 		<style type="text/css">

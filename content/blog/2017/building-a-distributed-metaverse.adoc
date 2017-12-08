@@ -1,5 +1,5 @@
 title=Building a Lab in a Distributed Metaverse.
-date=2017-06-01
+date=2017-12-08
 type=post
 tags=programming, metaverse, webvr, vr, code, coding, sciart, aframe, english, open-source, distributed, p2p, decentraland, decentralized
 status=published

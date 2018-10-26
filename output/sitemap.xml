@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>http://dgrmunch.github.io/blog/index.html</loc>
-        <lastmod>2017-12-08</lastmod>
+        <lastmod>2018-10-26</lastmod>
     </url>
     <url>
         <loc>http://dgrmunch.github.io/blog/archive.html</loc>
-        <lastmod>2017-12-08</lastmod>
+        <lastmod>2018-10-26</lastmod>
     </url>
 
     <url>
         <loc>http://dgrmunch.github.io/blog/tags/code.html</loc>
         
 
-        <lastmod>2017-06-01</lastmod>
+        <lastmod>2017-12-08</lastmod>
     </url>
 
     <url>
@@ -34,7 +34,7 @@
         <loc>http://dgrmunch.github.io/blog/tags/sciart.html</loc>
         
 
-        <lastmod>2017-06-01</lastmod>
+        <lastmod>2018-08-10</lastmod>
     </url>
 
     <url>
@@ -62,14 +62,14 @@
         <loc>http://dgrmunch.github.io/blog/tags/metaverse.html</loc>
         
 
-        <lastmod>2017-06-01</lastmod>
+        <lastmod>2017-12-08</lastmod>
     </url>
 
     <url>
         <loc>http://dgrmunch.github.io/blog/tags/coding.html</loc>
         
 
-        <lastmod>2017-06-01</lastmod>
+        <lastmod>2017-12-08</lastmod>
     </url>
 
     <url>
@@ -101,17 +101,31 @@
     </url>
 
     <url>
+        <loc>http://dgrmunch.github.io/blog/tags/identity.html</loc>
+        
+
+        <lastmod>2018-08-10</lastmod>
+    </url>
+
+    <url>
         <loc>http://dgrmunch.github.io/blog/tags/english.html</loc>
         
 
-        <lastmod>2017-06-01</lastmod>
+        <lastmod>2018-08-10</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/tags/visual.html</loc>
+        
+
+        <lastmod>2018-08-10</lastmod>
     </url>
 
     <url>
         <loc>http://dgrmunch.github.io/blog/tags/programming.html</loc>
         
 
-        <lastmod>2017-06-01</lastmod>
+        <lastmod>2017-12-08</lastmod>
     </url>
 
     <url>
@@ -143,38 +157,45 @@
     </url>
 
     <url>
+        <loc>http://dgrmunch.github.io/blog/tags/art.html</loc>
+        
+
+        <lastmod>2018-08-10</lastmod>
+    </url>
+
+    <url>
         <loc>http://dgrmunch.github.io/blog/tags/decentraland.html</loc>
         
 
-        <lastmod>2017-06-01</lastmod>
+        <lastmod>2017-12-08</lastmod>
     </url>
 
     <url>
         <loc>http://dgrmunch.github.io/blog/tags/distributed.html</loc>
         
 
-        <lastmod>2017-06-01</lastmod>
+        <lastmod>2017-12-08</lastmod>
     </url>
 
     <url>
         <loc>http://dgrmunch.github.io/blog/tags/open-source.html</loc>
         
 
-        <lastmod>2017-06-01</lastmod>
+        <lastmod>2017-12-08</lastmod>
     </url>
 
     <url>
         <loc>http://dgrmunch.github.io/blog/tags/decentralized.html</loc>
         
 
-        <lastmod>2017-06-01</lastmod>
+        <lastmod>2017-12-08</lastmod>
     </url>
 
     <url>
         <loc>http://dgrmunch.github.io/blog/tags/webvr.html</loc>
         
 
-        <lastmod>2017-06-01</lastmod>
+        <lastmod>2017-12-08</lastmod>
     </url>
 
     <url>
@@ -195,14 +216,14 @@
         <loc>http://dgrmunch.github.io/blog/tags/p2p.html</loc>
         
 
-        <lastmod>2017-06-01</lastmod>
+        <lastmod>2017-12-08</lastmod>
     </url>
 
     <url>
         <loc>http://dgrmunch.github.io/blog/tags/aframe.html</loc>
         
 
-        <lastmod>2017-06-01</lastmod>
+        <lastmod>2017-12-08</lastmod>
     </url>
 
     <url>
@@ -220,10 +241,24 @@
     </url>
 
     <url>
+        <loc>http://dgrmunch.github.io/blog/tags/self.html</loc>
+        
+
+        <lastmod>2018-08-10</lastmod>
+    </url>
+
+    <url>
         <loc>http://dgrmunch.github.io/blog/tags/vr.html</loc>
         
 
-        <lastmod>2017-06-01</lastmod>
+        <lastmod>2017-12-08</lastmod>
+    </url>
+
+    <url>
+        <loc>http://dgrmunch.github.io/blog/tags/photography.html</loc>
+        
+
+        <lastmod>2018-08-10</lastmod>
     </url>
 
 
@@ -253,8 +288,13 @@
     </url>
 
     <url>
+        <loc>http://dgrmunch.github.io/blog/blog/2018/autopoiesis.html</loc>
+        <lastmod>2018-08-10</lastmod>
+    </url>
+
+    <url>
         <loc>http://dgrmunch.github.io/blog/blog/2017/building-a-distributed-metaverse.html</loc>
-        <lastmod>2017-06-01</lastmod>
+        <lastmod>2017-12-08</lastmod>
     </url>
 
     <url>

@@ -6,14 +6,14 @@
     <atom:link href="http://dgrmunch.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>xmunch.com</description>
     <language>en-gb</language>
-      <pubDate>Fri, 8 Dec 2017 17:14:59 -0500</pubDate>
-      <lastBuildDate>Fri, 8 Dec 2017 17:14:59 -0500</lastBuildDate>
+      <pubDate>Fri, 10 Aug 2018 15:47:50 +0200</pubDate>
+      <lastBuildDate>Fri, 10 Aug 2018 15:47:50 +0200</lastBuildDate>
 
       
       <item>
           <title>Building a Lab in a Distributed Metaverse.</title>
           <link>http://dgrmunch.github.io/blog/blog/2017/building-a-distributed-metaverse.html</link>
-          <pubDate>Fri, 8 Dec 2017 00:00:00 -0500</pubDate>
+          <pubDate>Fri, 8 Dec 2017 00:00:00 +0100</pubDate>
           <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/building-a-distributed-metaverse.html</guid>
           <description>
               &lt;!-- toc disabled --&gt;
@@ -153,7 +153,7 @@ More information about the evolution of the project will be published soon.&lt;/
       <item>
           <title>Digital creation for hackers & makers: prototyping musical tools from the SciArt Lab.</title>
           <link>http://dgrmunch.github.io/blog/blog/2017/digital-music-creation.html</link>
-          <pubDate>Thu, 1 Jun 2017 00:00:00 -0400</pubDate>
+          <pubDate>Thu, 1 Jun 2017 00:00:00 +0200</pubDate>
           <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/digital-music-creation.html</guid>
           <description>
               &lt;div class=&quot;admonitionblock note&quot;&gt;
@@ -298,7 +298,7 @@ This is one example of one program/animation that I have implemented recently:&l
       <item>
           <title>Alda-tabs: Domain Specific Language for Guitar Players in the Java Virtual Machine</title>
           <link>http://dgrmunch.github.io/blog/blog/2017/alda-tabs.html</link>
-          <pubDate>Thu, 13 Apr 2017 00:00:00 -0400</pubDate>
+          <pubDate>Thu, 13 Apr 2017 00:00:00 +0200</pubDate>
           <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/alda-tabs.html</guid>
           <description>
               &lt;div class=&quot;admonitionblock note&quot;&gt;
@@ -784,9 +784,57 @@ Your browser does not support the audio tag.
       </item>
       
       <item>
+          <title>Autopoiesis: A photographic project</title>
+          <link>http://dgrmunch.github.io/blog/blog/2018/autopoiesis.html</link>
+          <pubDate>Thu, 13 Apr 2017 00:00:00 +0200</pubDate>
+          <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2018/autopoiesis.html</guid>
+          <description>
+              &lt;div class=&quot;admonitionblock note&quot;&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td class=&quot;icon&quot;&gt;
+&lt;div class=&quot;title&quot;&gt;Note&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&quot;content&quot;&gt;
+This post explains how to easily compose music with &lt;code&gt;alda-tabs&lt;/code&gt;, a &lt;strong&gt;Domain Specific Language for Guitar Players&lt;/strong&gt; which runs in the JVM. I have developed &lt;code&gt;alda-tabs&lt;/code&gt; as an &lt;em&gt;open source&lt;/em&gt; project so you can download it for free in {alda-tabs-repo-url}[GitHub].
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;_what_is_alda_tabs&quot;&gt;What is alda-tabs?&lt;/h3&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;It is a Domain Specific Language for guitar players.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It is a piece of software to help guitar players to
+&quot;execute&quot; their music notes in the &lt;code&gt;JVM&lt;/code&gt;, compose songs and get audio feedback.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It is an extensible tool for music programming mainly
+oriented to guitar players.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It is built on the top of &lt;code&gt;Alda&lt;/code&gt;, a DSL for
+music composition in the JVM, so it is compatible with both &lt;code&gt;Alda&lt;/code&gt; and &lt;code&gt;Clojure&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect2&quot;&gt;
+&lt;h3 id=&quot;_why_is_so_easy_to_code_guitar_songs_with_alda_tabs&quot;&gt;Why is so easy to code guitar songs with alda-tabs?&lt;/h3&gt;
+&lt;a href=&quot;https://instawidget.net/v/user/xmunch&quot; id=&quot;link-2e59ec71ca7abea9f379c0317e38b53f8f59498cc1027aa321b598e44238475c&quot;&gt;@xmunch&lt;/a&gt;
+&lt;script src=&quot;https://instawidget.net/js/instawidget.js?u=2e59ec71ca7abea9f379c0317e38b53f8f59498cc1027aa321b598e44238475c&amp;width=600px&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+          </description>
+      </item>
+      
+      <item>
           <title>A new research: Introduction to Rhizome Ethnographies</title>
           <link>http://dgrmunch.github.io/blog/blog/2017/rhizome.html</link>
-          <pubDate>Wed, 1 Mar 2017 00:00:00 -0500</pubDate>
+          <pubDate>Wed, 1 Mar 2017 00:00:00 +0100</pubDate>
           <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/rhizome.html</guid>
           <description>
               &lt;div class=&quot;admonitionblock note&quot;&gt;
@@ -895,7 +943,7 @@ This article was originally published in the &lt;a href=&quot;http://www.xmunch.
       <item>
           <title>Abrazando la condición postmoderna</title>
           <link>http://dgrmunch.github.io/blog/blog/2017/la-llamada.html</link>
-          <pubDate>Sun, 12 Feb 2017 00:00:00 -0500</pubDate>
+          <pubDate>Sun, 12 Feb 2017 00:00:00 +0100</pubDate>
           <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/la-llamada.html</guid>
           <description>
               &lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5796/21703173230_b89fc10ea9_b.jpg&quot; /&gt;&lt;/p&gt;
@@ -958,7 +1006,7 @@ This article was originally published in the &lt;a href=&quot;http://www.xmunch.
       <item>
           <title>Blockchain Technologies and the P2P Paradigm</title>
           <link>http://dgrmunch.github.io/blog/blog/2017/blockchain.html</link>
-          <pubDate>Fri, 3 Feb 2017 00:00:00 -0500</pubDate>
+          <pubDate>Fri, 3 Feb 2017 00:00:00 +0100</pubDate>
           <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/blockchain.html</guid>
           <description>
               &lt;p&gt;&lt;img src=&quot;https://dgrmunch.github.io/blog/img/blockchain.jpg&quot; /&gt;&lt;/p&gt;
@@ -997,7 +1045,7 @@ This article was originally published in the &lt;a href=&quot;http://www.xmunch.
       <item>
           <title>Descentralizando la blogosfera</title>
           <link>http://dgrmunch.github.io/blog/blog/2017/descentralizando.html</link>
-          <pubDate>Sun, 1 Jan 2017 00:00:00 -0500</pubDate>
+          <pubDate>Sun, 1 Jan 2017 00:00:00 +0100</pubDate>
           <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/descentralizando.html</guid>
           <description>
               &lt;p&gt;&lt;img src=&quot;https://dgrmunch.github.io/blog/img/network.jpg&quot; title=&quot;Red distribuida y heterogénea&quot; /&gt;&lt;/p&gt;

@@ -1,5 +1,5 @@
 title= Autopoiesis: A photographic project
-date=2018-08-10
+date=2018-10-27
 type=post
 tags=english, art, sciart, self, identity, photography, visual
 status=published

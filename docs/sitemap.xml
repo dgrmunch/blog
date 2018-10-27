@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>http://dgrmunch.github.io/blog/index.html</loc>
-        <lastmod>2018-08-10</lastmod>
+        <lastmod>2018-10-27</lastmod>
     </url>
     <url>
         <loc>http://dgrmunch.github.io/blog/archive.html</loc>
-        <lastmod>2018-08-10</lastmod>
+        <lastmod>2018-10-27</lastmod>
     </url>
 
     <url>
@@ -34,7 +34,7 @@
         <loc>http://dgrmunch.github.io/blog/tags/sciart.html</loc>
         
 
-        <lastmod>2017-12-08</lastmod>
+        <lastmod>2018-10-27</lastmod>
     </url>
 
     <url>
@@ -104,21 +104,21 @@
         <loc>http://dgrmunch.github.io/blog/tags/identity.html</loc>
         
 
-        <lastmod>2017-04-13</lastmod>
+        <lastmod>2018-10-27</lastmod>
     </url>
 
     <url>
         <loc>http://dgrmunch.github.io/blog/tags/english.html</loc>
         
 
-        <lastmod>2017-12-08</lastmod>
+        <lastmod>2018-10-27</lastmod>
     </url>
 
     <url>
         <loc>http://dgrmunch.github.io/blog/tags/visual.html</loc>
         
 
-        <lastmod>2017-04-13</lastmod>
+        <lastmod>2018-10-27</lastmod>
     </url>
 
     <url>
@@ -160,7 +160,7 @@
         <loc>http://dgrmunch.github.io/blog/tags/art.html</loc>
         
 
-        <lastmod>2017-04-13</lastmod>
+        <lastmod>2018-10-27</lastmod>
     </url>
 
     <url>
@@ -244,7 +244,7 @@
         <loc>http://dgrmunch.github.io/blog/tags/self.html</loc>
         
 
-        <lastmod>2017-04-13</lastmod>
+        <lastmod>2018-10-27</lastmod>
     </url>
 
     <url>
@@ -258,7 +258,7 @@
         <loc>http://dgrmunch.github.io/blog/tags/photography.html</loc>
         
 
-        <lastmod>2017-04-13</lastmod>
+        <lastmod>2018-10-27</lastmod>
     </url>
 
 
@@ -288,6 +288,11 @@
     </url>
 
     <url>
+        <loc>http://dgrmunch.github.io/blog/blog/2018/autopoiesis.html</loc>
+        <lastmod>2018-10-27</lastmod>
+    </url>
+
+    <url>
         <loc>http://dgrmunch.github.io/blog/blog/2017/building-a-distributed-metaverse.html</loc>
         <lastmod>2017-12-08</lastmod>
     </url>
@@ -299,11 +304,6 @@
 
     <url>
         <loc>http://dgrmunch.github.io/blog/blog/2017/alda-tabs.html</loc>
-        <lastmod>2017-04-13</lastmod>
-    </url>
-
-    <url>
-        <loc>http://dgrmunch.github.io/blog/blog/2018/autopoiesis.html</loc>
         <lastmod>2017-04-13</lastmod>
     </url>
 

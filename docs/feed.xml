@@ -6,8 +6,8 @@
     <atom:link href="http://dgrmunch.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>xmunch.com</description>
     <language>en-gb</language>
-      <pubDate>Sat, 27 Oct 2018 11:09:13 +0200</pubDate>
-      <lastBuildDate>Sat, 27 Oct 2018 11:09:13 +0200</lastBuildDate>
+      <pubDate>Sun, 28 Oct 2018 09:52:51 +0100</pubDate>
+      <lastBuildDate>Sun, 28 Oct 2018 09:52:51 +0100</lastBuildDate>
 
       
       <item>
@@ -16,20 +16,7 @@
           <pubDate>Sat, 27 Oct 2018 00:00:00 +0200</pubDate>
           <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2018/autopoiesis.html</guid>
           <description>
-              &lt;div class=&quot;admonitionblock note&quot;&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td class=&quot;icon&quot;&gt;
-&lt;div class=&quot;title&quot;&gt;Note&lt;/div&gt;
-&lt;/td&gt;
-&lt;td class=&quot;content&quot;&gt;
-Some thumbnails of this project are posted in my &lt;em&gt;Instagram&lt;/em&gt; account (&lt;code&gt;xmunch&lt;/code&gt;) with the hashtag &lt;code&gt;#autopoiesissciartlab&lt;/code&gt;.
-You can &lt;a href=&quot;https://www.instagram.com/xmunch/&quot;&gt;subscribe to my feed&lt;/a&gt; or &lt;a href=&quot;https://www.instagram.com/explore/tags/autopoiesissciartlab/&quot;&gt;to the hashtag&lt;/a&gt; itself to be updated. For prints or a photo exhibit you can contact me directly to &lt;a href=&quot;mailto:xmunch@xmunch.com&quot;&gt;xmunch@xmunch.com&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
+              &lt;div class=&quot;sect1&quot;&gt;
 &lt;h2 id=&quot;_what_is_autopoiesis&quot;&gt;What is &apos;Autopoiesis&apos;?&lt;/h2&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
@@ -142,7 +129,7 @@ You can &lt;a href=&quot;https://www.instagram.com/xmunch/&quot;&gt;subscribe to
 &lt;p&gt;&lt;em&gt;UofT&lt;/em&gt; was a game-changer. I had meetings with philosophers, artists, historians, sociologists, designers,… even a cartoonist and a film maker. Those human-based P2P dynamics really opened my mind to the actual meaning of the word “knowledge&quot; (so much more than my computational simulations).&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;I learned the basis of 3D printing and physical computing. I learned about _situated learning. I could see how artists and academics with a background in humanities explored new materials, electronic devices and micro-controllers with extraordinary skills. I tested sensors and actuators and got a sense of what it is possible to make, discussing with everyone about potential projects, critical issues and cultural engagements.&lt;/p&gt;
+&lt;p&gt;I learned the basis of 3D printing and physical computing. I learned about &lt;em&gt;situated learning&lt;/em&gt;. I could see how artists and academics with a background in humanities explored new materials, electronic devices and micro-controllers with extraordinary skills. I tested sensors and actuators and got a sense of what it is possible to make, discussing with everyone about potential projects, critical issues and cultural engagements.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;In a sense, the Critical Making Lab destroyed part of my mental constraints. It provided new intellectual and hands-on tools, new human experiences and an open and critical mindset. It also gave me a clue about what information means and about the implications of technology in critical reflection and social transformation.&lt;/p&gt;
@@ -215,19 +202,43 @@ You can &lt;a href=&quot;https://www.instagram.com/xmunch/&quot;&gt;subscribe to
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;The word &quot;identity&quot; started to replace the word &quot;society&quot; in my research priorities. Understand my own first-person experience looked more challenging and difficult than explore others&apos; behavior or identity formation. Even the environment looked more interesting if understood from a pure phenomenological perspective.&lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect2&quot;&gt;
-&lt;h3 id=&quot;_conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+&lt;div class=&quot;exampleblock&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;This explanation can be useful to understand the theoretical foundations of the project (and most of my current work for the SciArt Lab).&lt;/p&gt;
+&lt;p&gt;This explanation can be useful to understand the theoretical foundations of the project and how it is affected by my personal/academic/professional path and its current stage.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Currently, I work as &lt;strong&gt;Blockchain Expert&lt;/strong&gt; for &lt;strong&gt;Enxendra Technologies&lt;/strong&gt;, where I will continue my &lt;em&gt;R&amp;amp;D in P2P Systems&lt;/em&gt;. A the same time I am focused in the experiments of the SciArt Lab. And additionally, as a side project, in the quest for personal identity through photography :)&lt;/p&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Currently, I work as &lt;strong&gt;Blockchain Expert&lt;/strong&gt; for &lt;strong&gt;Enxendra Technologies&lt;/strong&gt;, where I lead &lt;em&gt;Research and Development&lt;/em&gt; tasks regarding Distributed Technologies.  I am responsible of the evolution of our technological stack in terms of decentralization and blockchain-based innovation, towards a model in which traditional third-party solutions can be replaced by P2P technologies. Basically, pushing enterprises towards the &lt;em&gt;complex adaptive systems&lt;/em&gt; paradigm, towards a model based on freedom and self-organization rather than centralization.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A the same time I am focused in the experiments of the SciArt Lab, exploring from a multidisciplinary perspective different aspects of human potential, embracing both science, technology and humanities. Trying to participate in the collective production of knowledge and tools for a P2P society in which distributed networks and virtual reality will provide a new playground for our species, a new playground for creative experiences: the distributed metaverse.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Additionally, as an endless side project, I pursue the quest for personal identity through different tools, specially photography. Trying to understand the node in order to transform the network.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;So complex. So simple. Autopoiesis.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;admonitionblock note&quot;&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td class=&quot;icon&quot;&gt;
+&lt;div class=&quot;title&quot;&gt;Note&lt;/div&gt;
+&lt;/td&gt;
+&lt;td class=&quot;content&quot;&gt;
+Some thumbnails of this project are posted in my &lt;em&gt;Instagram&lt;/em&gt; account (&lt;code&gt;xmunch&lt;/code&gt;) with the hashtag &lt;code&gt;#autopoiesissciartlab&lt;/code&gt;.
+You can &lt;a href=&quot;https://www.instagram.com/xmunch/&quot;&gt;subscribe to my feed&lt;/a&gt; or &lt;a href=&quot;https://www.instagram.com/explore/tags/autopoiesissciartlab/&quot;&gt;to the hashtag&lt;/a&gt; itself to be updated. For prints or a photo exhibit you can contact me directly to &lt;a href=&quot;mailto:xmunch@xmunch.com&quot;&gt;xmunch@xmunch.com&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;

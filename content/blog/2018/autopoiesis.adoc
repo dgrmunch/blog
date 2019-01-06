@@ -1,5 +1,5 @@
 title= Autopoiesis: A photographic project
-date=2018-10-27
+date=2018-08-10
 type=post
 tags=english, art, sciart, self, identity, photography, visual
 status=published
@@ -32,8 +32,8 @@ Ideas such as _Complex Adaptive Systems_, _self-organization_ and _emergence_ in
 <div class="col-sm-12">
 
 <!-- InstaWidget -->
-<a href="https://instawidget.net/v/user/xmunch" id="link-9b38b4864a62397ae4d45afddd33c4f6f3f2d1fbbb11c541b4d50426e531fcfe">@xmunch</a>
-<script src="https://instawidget.net/js/instawidget.js?u=9b38b4864a62397ae4d45afddd33c4f6f3f2d1fbbb11c541b4d50426e531fcfe&width=600px"></script>
+<a href="https://www.instagram.com/explore/tags/autopoiesissciartlab/" id="link-939b402143763f5b7ae2e5ba5d1b83c39c4a6b3a5c0a2bdec1498633413a4efa">@xmunch</a>
+<script src="https://instawidget.net/js/instawidget.js?u=939b402143763f5b7ae2e5ba5d1b83c39c4a6b3a5c0a2bdec1498633413a4efa&width=600px"></script>
 
 </div></div>
 ++++
@@ -75,7 +75,7 @@ The building blocks of life, individuals and societies were just **self-organize
 
 Some years later, I got a **PhD in Information Science** after doing some computational modeling of complex adaptive systems and writing several articles, book chapters and a dissertation about _peer-to-peer_ systems.
 
-Some of the theoretical and formal justifications which are the basis of 'Autopoiesis' can therefore be found in my doctoral dissertation, full of _artificial life_ theory, P2P networks, bacteria-based algorithms and sociological models. My dissertation was a formal and theoretical defense of P2P dynamics and was controversial at the time, some years before *blockchain technologies*, protocols like _Dat_ or _IPFS_ and the new ideas about the *distributed web* started to become more mainstream.
+Some of the theoretical and formal justifications which are the basis of 'Autopoiesis' can therefore be found in my doctoral dissertation, full of _artificial life_ theory, P2P networks, bacteria-based algorithms, cognitive science & learning theories, and (of course) sociological models. My dissertation was a formal and theoretical defense of P2P dynamics and was controversial at the time, some years before *Blockchain technologies*, protocols like _Dat_ or _IPFS_ and the new ideas about the *distributed web* started to become more mainstream.
 
 ==== Finding a multidisciplinary path at the University of Toronto
 
@@ -91,9 +91,9 @@ I was already a guy who rejected the compartmentalization of knowledge and embra
 
 However, the experience at _Semaphore Research Cluster_ of the _University of Toronto_ implied a completely different mindset, a chance to “experience” without methodological constraints. The result was kind of an anarchical _grounded theory_ approach that allowed me to observe and participate as a member of the team.
 
-_UofT_ was a game-changer. I had meetings with philosophers, artists, historians, sociologists, designers,… even a cartoonist and a film maker. Those human-based P2P dynamics really opened my mind to the actual meaning of the word “knowledge" (so much more than my computational simulations).
+_UofT_ was a game-changer. I had meetings with philosophers, artists, historians, sociologists, designers,… even a cartoonist and a film maker. And were those human-based P2P dynamics, more than my computational simulations, what really opened my mind to the actual meaning of the word “knowledge". 
 
-I learned the basis of 3D printing and physical computing. I learned about _situated learning_. I could see how artists and academics with a background in humanities explored new materials, electronic devices and micro-controllers with extraordinary skills. I tested sensors and actuators and got a sense of what it is possible to make, discussing with everyone about potential projects, critical issues and cultural engagements.
+I learned the basis of 3D printing and physical computing. I learned about _situated learning_ and could see how artists and academics with a background in humanities explored new materials, electronic devices and micro-controllers with extraordinary skills. I tested sensors and actuators and got a sense of what it is possible to make, discussing with everyone about potential projects, critical issues and cultural engagements.
 
 In a sense, the Critical Making Lab destroyed part of my mental constraints. It provided new intellectual and hands-on tools, new human experiences and an open and critical mindset. It also gave me a clue about what information means and about the implications of technology in critical reflection and social transformation.
 
@@ -117,7 +117,7 @@ Multiculturalism was a fascinating topic, as appealing as biodiversity, as appea
 
 'Rhizome Ethnographies' was a two years experiment which ended with a documentary about the US and a multimedia website. But it was also an starting point to a new life of self-conducted research under the framework of the SciArt Lab.
 
-> Considering this new stage as a chosen path for knowledge crawling, I would consider it both research, game and art. Besides that, naturally, I would also consider this project a way of self-exploration. [...] I realized that I want to know more about the human being as a social construct. And I want to know it from my own subjective point of view, the point of view of another social construct.
+> Considering this new stage as a chosen path for knowledge crawling, I would consider it both research, game and art. Besides that, naturally, I would also consider this project a way of self-exploration. [...] I realized that I wanted to know more about the human being as a social construct. And I wanted to know it from my own subjective point of view, the point of view of another social construct.
 
 
 The first part of my documentary 'Looking for Identity' was released in 2017. It can be http://www.sciartlab.com/movie[watched for free here].
@@ -126,7 +126,7 @@ The theoretical and visual outcomes of the Rhizome Ethnographies project:  http:
 
 ===== Discovering phenomenological research
 
-During the first years of the SciArt Lab, I developed other projects in which there were not clear boundaries between art, science and technology. I published proofs-of-concept, software experiments and aesthetic projects without worrying too much about theoretical frameworks or academic constraints.
+During the first years of the SciArt Lab, I developed other projects in which there were not clear boundaries between art, science and technology. I just implemented proofs-of-concept, software experiments and aesthetic projects without worrying too much about theoretical frameworks or academic constraints.
 
 I implemented cellular automata with emergent properties for digital music composition, generative visual art tools, open-source virtual reality components,... Slowly, first-person experience became more important than objectivity. Music and visual arts became a tool for my own self-exploration.
 
@@ -134,16 +134,23 @@ After couple of years living in the US, the quest for social agents' identity in
 
 Coming back to Spain and having to face a reverse culture shock made it even more clear. 'Who I am?' became the most complex and fascinating question.
 
-The word "identity" started to replace the word "society" in my research priorities. Understand my own first-person experience looked more challenging and difficult than explore others' behavior or identity formation. Even the environment looked more interesting if understood from a pure phenomenological perspective. 
+The word "identity" started to replace the word "society" in my research priorities. Understanding my own first-person experience looked more challenging and difficult than exploring others' behavior or identity formation. Even the environment looked more interesting if understood from a pure phenomenological perspective. 
 
 [Tip]
 ====
 
 This explanation can be useful to understand the theoretical foundations of the project and how it is affected by my personal/academic/professional path and its current stage.
 
-* Currently, I work as **Blockchain Expert** for *Enxendra Technologies*, where I lead _Research and Development_ tasks regarding Distributed Technologies.  I am responsible of the evolution of our technological stack in terms of decentralization and blockchain-based innovation, towards a model in which traditional third-party solutions can be replaced by P2P technologies. Basically, pushing enterprises towards the _complex adaptive systems_ paradigm, towards a model based on freedom and self-organization rather than centralization.
-* A the same time I am focused in the experiments of the SciArt Lab, exploring from a multidisciplinary perspective different aspects of human potential, embracing both science, technology and humanities. Trying to participate in the collective production of knowledge and tools for a P2P society in which distributed networks and virtual reality will provide a new playground for our species, a new playground for creative experiences: the distributed metaverse.
-* Additionally, as an endless side project, I pursue the quest for personal identity through different tools, specially photography. Trying to understand the node in order to transform the network.  
+* Currently, I work as **Blockchain Expert** for *Enxendra Technologies*, where I lead _Research and Development_ tasks regarding Distributed Technologies.
+I am responsible of the evolution of our technological stack in terms of decentralization and blockchain-based innovation, towards a model in which traditional third-party solutions can be replaced by P2P technologies. Basically, pushing enterprises towards the _complex adaptive systems_ paradigm, towards a m
+odel based on freedom and self-organization rather than centralization.
+
+* At the same time I am focused in the experiments of the SciArt Lab, exploring from a multidisciplinary perspective different aspects of human potential, e
+mbracing both science, technology and humanities. Trying to participate in the collective production of knowledge and tools for a P2P society in which distr
+ibuted networks and virtual reality will provide a new playground for our species, a new playground for creative experiences: the distributed metaverse.
+
+* Additionally, as an endless side project, I pursue the quest for personal identity through different tools, specially photography. Trying to understand t
+he node in order to transform the network.
 
 So complex. So simple. Autopoiesis.
 
@@ -152,4 +159,3 @@ So complex. So simple. Autopoiesis.
 
 NOTE: Some thumbnails of this project are posted in my _Instagram_ account (`xmunch`) with the hashtag `#autopoiesissciartlab`.
 You can https://www.instagram.com/xmunch/[subscribe to my feed] or https://www.instagram.com/explore/tags/autopoiesissciartlab/[to the hashtag] itself to be updated. For prints or a photo exhibit you can contact me directly to xmunch@xmunch.com
-

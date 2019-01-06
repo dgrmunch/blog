@@ -6,14 +6,14 @@
     <atom:link href="http://dgrmunch.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>xmunch.com</description>
     <language>en-gb</language>
-      <pubDate>Sun, 28 Oct 2018 09:52:51 +0100</pubDate>
-      <lastBuildDate>Sun, 28 Oct 2018 09:52:51 +0100</lastBuildDate>
+      <pubDate>Sun, 6 Jan 2019 12:52:19 +0100</pubDate>
+      <lastBuildDate>Sun, 6 Jan 2019 12:52:19 +0100</lastBuildDate>
 
       
       <item>
           <title>Autopoiesis: A photographic project</title>
           <link>http://dgrmunch.github.io/blog/blog/2018/autopoiesis.html</link>
-          <pubDate>Sat, 27 Oct 2018 00:00:00 +0200</pubDate>
+          <pubDate>Fri, 10 Aug 2018 00:00:00 +0200</pubDate>
           <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2018/autopoiesis.html</guid>
           <description>
               &lt;div class=&quot;sect1&quot;&gt;
@@ -43,8 +43,8 @@
 &lt;div class=&quot;col-sm-12&quot;&gt;
 
 &lt;!-- InstaWidget --&gt;
-&lt;a href=&quot;https://instawidget.net/v/user/xmunch&quot; id=&quot;link-9b38b4864a62397ae4d45afddd33c4f6f3f2d1fbbb11c541b4d50426e531fcfe&quot;&gt;@xmunch&lt;/a&gt;
-&lt;script src=&quot;https://instawidget.net/js/instawidget.js?u=9b38b4864a62397ae4d45afddd33c4f6f3f2d1fbbb11c541b4d50426e531fcfe&amp;width=600px&quot;&gt;&lt;/script&gt;
+&lt;a href=&quot;https://www.instagram.com/explore/tags/autopoiesissciartlab/&quot; id=&quot;link-939b402143763f5b7ae2e5ba5d1b83c39c4a6b3a5c0a2bdec1498633413a4efa&quot;&gt;@xmunch&lt;/a&gt;
+&lt;script src=&quot;https://instawidget.net/js/instawidget.js?u=939b402143763f5b7ae2e5ba5d1b83c39c4a6b3a5c0a2bdec1498633413a4efa&amp;width=600px&quot;&gt;&lt;/script&gt;
 
 &lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -102,7 +102,7 @@
 &lt;p&gt;Some years later, I got a &lt;strong&gt;PhD in Information Science&lt;/strong&gt; after doing some computational modeling of complex adaptive systems and writing several articles, book chapters and a dissertation about &lt;em&gt;peer-to-peer&lt;/em&gt; systems.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Some of the theoretical and formal justifications which are the basis of &apos;Autopoiesis&apos; can therefore be found in my doctoral dissertation, full of &lt;em&gt;artificial life&lt;/em&gt; theory, P2P networks, bacteria-based algorithms and sociological models. My dissertation was a formal and theoretical defense of P2P dynamics and was controversial at the time, some years before &lt;strong&gt;blockchain technologies&lt;/strong&gt;, protocols like &lt;em&gt;Dat&lt;/em&gt; or &lt;em&gt;IPFS&lt;/em&gt; and the new ideas about the &lt;strong&gt;distributed web&lt;/strong&gt; started to become more mainstream.&lt;/p&gt;
+&lt;p&gt;Some of the theoretical and formal justifications which are the basis of &apos;Autopoiesis&apos; can therefore be found in my doctoral dissertation, full of &lt;em&gt;artificial life&lt;/em&gt; theory, P2P networks, bacteria-based algorithms, cognitive science &amp;amp; learning theories, and (of course) sociological models. My dissertation was a formal and theoretical defense of P2P dynamics and was controversial at the time, some years before &lt;strong&gt;Blockchain technologies&lt;/strong&gt;, protocols like &lt;em&gt;Dat&lt;/em&gt; or &lt;em&gt;IPFS&lt;/em&gt; and the new ideas about the &lt;strong&gt;distributed web&lt;/strong&gt; started to become more mainstream.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;sect3&quot;&gt;
@@ -126,10 +126,10 @@
 &lt;p&gt;However, the experience at &lt;em&gt;Semaphore Research Cluster&lt;/em&gt; of the &lt;em&gt;University of Toronto&lt;/em&gt; implied a completely different mindset, a chance to “experience” without methodological constraints. The result was kind of an anarchical &lt;em&gt;grounded theory&lt;/em&gt; approach that allowed me to observe and participate as a member of the team.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;em&gt;UofT&lt;/em&gt; was a game-changer. I had meetings with philosophers, artists, historians, sociologists, designers,… even a cartoonist and a film maker. Those human-based P2P dynamics really opened my mind to the actual meaning of the word “knowledge&quot; (so much more than my computational simulations).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;UofT&lt;/em&gt; was a game-changer. I had meetings with philosophers, artists, historians, sociologists, designers,… even a cartoonist and a film maker. And were those human-based P2P dynamics, more than my computational simulations, what really opened my mind to the actual meaning of the word “knowledge&quot;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;I learned the basis of 3D printing and physical computing. I learned about &lt;em&gt;situated learning&lt;/em&gt;. I could see how artists and academics with a background in humanities explored new materials, electronic devices and micro-controllers with extraordinary skills. I tested sensors and actuators and got a sense of what it is possible to make, discussing with everyone about potential projects, critical issues and cultural engagements.&lt;/p&gt;
+&lt;p&gt;I learned the basis of 3D printing and physical computing. I learned about &lt;em&gt;situated learning&lt;/em&gt; and could see how artists and academics with a background in humanities explored new materials, electronic devices and micro-controllers with extraordinary skills. I tested sensors and actuators and got a sense of what it is possible to make, discussing with everyone about potential projects, critical issues and cultural engagements.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;In a sense, the Critical Making Lab destroyed part of my mental constraints. It provided new intellectual and hands-on tools, new human experiences and an open and critical mindset. It also gave me a clue about what information means and about the implications of technology in critical reflection and social transformation.&lt;/p&gt;
@@ -174,7 +174,7 @@
 &lt;div class=&quot;quoteblock&quot;&gt;
 &lt;blockquote&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Considering this new stage as a chosen path for knowledge crawling, I would consider it both research, game and art. Besides that, naturally, I would also consider this project a way of self-exploration. [&amp;#8230;&amp;#8203;] I realized that I want to know more about the human being as a social construct. And I want to know it from my own subjective point of view, the point of view of another social construct.&lt;/p&gt;
+&lt;p&gt;Considering this new stage as a chosen path for knowledge crawling, I would consider it both research, game and art. Besides that, naturally, I would also consider this project a way of self-exploration. [&amp;#8230;&amp;#8203;] I realized that I wanted to know more about the human being as a social construct. And I wanted to know it from my own subjective point of view, the point of view of another social construct.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;
@@ -188,7 +188,7 @@
 &lt;div class=&quot;sect4&quot;&gt;
 &lt;h5 id=&quot;_discovering_phenomenological_research&quot;&gt;Discovering phenomenological research&lt;/h5&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;During the first years of the SciArt Lab, I developed other projects in which there were not clear boundaries between art, science and technology. I published proofs-of-concept, software experiments and aesthetic projects without worrying too much about theoretical frameworks or academic constraints.&lt;/p&gt;
+&lt;p&gt;During the first years of the SciArt Lab, I developed other projects in which there were not clear boundaries between art, science and technology. I just implemented proofs-of-concept, software experiments and aesthetic projects without worrying too much about theoretical frameworks or academic constraints.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;I implemented cellular automata with emergent properties for digital music composition, generative visual art tools, open-source virtual reality components,&amp;#8230;&amp;#8203; Slowly, first-person experience became more important than objectivity. Music and visual arts became a tool for my own self-exploration.&lt;/p&gt;
@@ -200,7 +200,7 @@
 &lt;p&gt;Coming back to Spain and having to face a reverse culture shock made it even more clear. &apos;Who I am?&apos; became the most complex and fascinating question.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;The word &quot;identity&quot; started to replace the word &quot;society&quot; in my research priorities. Understand my own first-person experience looked more challenging and difficult than explore others&apos; behavior or identity formation. Even the environment looked more interesting if understood from a pure phenomenological perspective.&lt;/p&gt;
+&lt;p&gt;The word &quot;identity&quot; started to replace the word &quot;society&quot; in my research priorities. Understanding my own first-person experience looked more challenging and difficult than exploring others&apos; behavior or identity formation. Even the environment looked more interesting if understood from a pure phenomenological perspective.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;exampleblock&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
@@ -210,13 +210,18 @@
 &lt;div class=&quot;ulist&quot;&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Currently, I work as &lt;strong&gt;Blockchain Expert&lt;/strong&gt; for &lt;strong&gt;Enxendra Technologies&lt;/strong&gt;, where I lead &lt;em&gt;Research and Development&lt;/em&gt; tasks regarding Distributed Technologies.  I am responsible of the evolution of our technological stack in terms of decentralization and blockchain-based innovation, towards a model in which traditional third-party solutions can be replaced by P2P technologies. Basically, pushing enterprises towards the &lt;em&gt;complex adaptive systems&lt;/em&gt; paradigm, towards a model based on freedom and self-organization rather than centralization.&lt;/p&gt;
+&lt;p&gt;Currently, I work as &lt;strong&gt;Blockchain Expert&lt;/strong&gt; for &lt;strong&gt;Enxendra Technologies&lt;/strong&gt;, where I lead &lt;em&gt;Research and Development&lt;/em&gt; tasks regarding Distributed Technologies.
+I am responsible of the evolution of our technological stack in terms of decentralization and blockchain-based innovation, towards a model in which traditional third-party solutions can be replaced by P2P technologies. Basically, pushing enterprises towards the &lt;em&gt;complex adaptive systems&lt;/em&gt; paradigm, towards a m
+odel based on freedom and self-organization rather than centralization.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;A the same time I am focused in the experiments of the SciArt Lab, exploring from a multidisciplinary perspective different aspects of human potential, embracing both science, technology and humanities. Trying to participate in the collective production of knowledge and tools for a P2P society in which distributed networks and virtual reality will provide a new playground for our species, a new playground for creative experiences: the distributed metaverse.&lt;/p&gt;
+&lt;p&gt;At the same time I am focused in the experiments of the SciArt Lab, exploring from a multidisciplinary perspective different aspects of human potential, e
+mbracing both science, technology and humanities. Trying to participate in the collective production of knowledge and tools for a P2P society in which distr
+ibuted networks and virtual reality will provide a new playground for our species, a new playground for creative experiences: the distributed metaverse.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Additionally, as an endless side project, I pursue the quest for personal identity through different tools, specially photography. Trying to understand the node in order to transform the network.&lt;/p&gt;
+&lt;p&gt;Additionally, as an endless side project, I pursue the quest for personal identity through different tools, specially photography. Trying to understand t
+he node in order to transform the network.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
@@ -464,7 +469,7 @@ Your browser does not support the audio tag.
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/examples/01-guitartabs-example.alda&quot; class=&quot;fa fa-file code&quot; target=&quot;_blank&quot;&gt; Read alda-tabs code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/examples/01-guitartabs-example.alda&quot; class=&quot;fa fa-file code&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt; Read alda-tabs code&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;hr&gt;
 &lt;/div&gt;
@@ -965,7 +970,7 @@ Your browser does not support the audio tag.
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/examples/01-guitartabs-example.alda&quot; class=&quot;fa fa-file code&quot; target=&quot;_blank&quot;&gt; Read alda-tabs code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/examples/01-guitartabs-example.alda&quot; class=&quot;fa fa-file code&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt; Read alda-tabs code&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;hr&gt;
 &lt;/div&gt;
@@ -988,7 +993,7 @@ Your browser does not support the audio tag.
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/examples/02-pi.alda&quot; class=&quot;fa fa-file code&quot; target=&quot;_blank&quot;&gt; Read alda-tabs code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/examples/02-pi.alda&quot; class=&quot;fa fa-file code&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt; Read alda-tabs code&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;hr&gt;
 &lt;/div&gt;
@@ -1011,7 +1016,7 @@ Your browser does not support the audio tag.
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/examples/03-hope-for-future-ext.alda&quot; class=&quot;fa fa-file code&quot; target=&quot;_blank&quot;&gt; Read alda-tabs code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/dgrmunch/alda-tabs/master/examples/03-hope-for-future-ext.alda&quot; class=&quot;fa fa-file code&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt; Read alda-tabs code&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1100,28 +1105,28 @@ This article was originally published in the &lt;a href=&quot;http://www.xmunch.
 &lt;h2 id=&quot;_references&quot;&gt;REFERENCES&lt;/h2&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a id=&quot;1&quot;&gt;&lt;/a&gt;[1] J. R. Hernandez-Carrion and D. González-Rodriguez, “Modelling Complex Dynamics and Distributed Generation of Knowledge with Bacterial-Based Algorithms,” Scientific Publications / University of Economics in Katowice, vol. Economics and Business Communication Challenges : International Week, pp. 138–148, 2014.&lt;/p&gt;
+&lt;p&gt;[[[1]]] J. R. Hernandez-Carrion and D. González-Rodriguez, “Modelling Complex Dynamics and Distributed Generation of Knowledge with Bacterial-Based Algorithms,” Scientific Publications / University of Economics in Katowice, vol. Economics and Business Communication Challenges : International Week, pp. 138–148, 2014.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a id=&quot;2&quot;&gt;&lt;/a&gt;[2] Gonzalez-Rodriguez, Diego and Hernandez-Carrion, Jose Rodolfo, “Decentralization and heterogeneity in complex adaptive systems,” Kybernetes, vol. 44, no. 6/7, pp. 1082–1093, Jun. 2015.&lt;/p&gt;
+&lt;p&gt;[[[2]]] Gonzalez-Rodriguez, Diego and Hernandez-Carrion, Jose Rodolfo, “Decentralization and heterogeneity in complex adaptive systems,” Kybernetes, vol. 44, no. 6/7, pp. 1082–1093, Jun. 2015.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a id=&quot;3&quot;&gt;&lt;/a&gt;[3] D. González Rodríguez, “Modelización de Sistemas de Computación Distribuida con Bacterias Sintéticas mediante Autómatas Celulares,” 2014.&lt;/p&gt;
+&lt;p&gt;[[[3]]] D. González Rodríguez, “Modelización de Sistemas de Computación Distribuida con Bacterias Sintéticas mediante Autómatas Celulares,” 2014.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a id=&quot;4&quot;&gt;&lt;/a&gt;[4] D. Gonzalez-Rodriguez and J. R. Hernandez-Carrion, “Fundamentos teóricos básicos para la defensa de un paradigma P2P cooperativo desde la perspectiva de la producción de conocimiento,” Revista Iberoamericana de Autogestión y Acción Comunal (RIDAA), vol. 0, no. 66, pp. pp. 55–66, 2015.&lt;/p&gt;
+&lt;p&gt;[[[4]]] D. Gonzalez-Rodriguez and J. R. Hernandez-Carrion, “Fundamentos teóricos básicos para la defensa de un paradigma P2P cooperativo desde la perspectiva de la producción de conocimiento,” Revista Iberoamericana de Autogestión y Acción Comunal (RIDAA), vol. 0, no. 66, pp. pp. 55–66, 2015.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a id=&quot;5&quot;&gt;&lt;/a&gt;[5] D. Gonzalez-Rodriguez and J. R. Hernandez-Carrion, “A Bacterial-Based Algorithm to Simulate Complex Adaptive Systems,” in From Animals to Animats 13, A. P. del Pobil, E. Chinellato, E. Martinez-Martin, J. Hallam, E. Cervera, and A. Morales, Eds. Springer International Publishing, 2014, pp. 250–259.&lt;/p&gt;
+&lt;p&gt;[[[5]]] D. Gonzalez-Rodriguez and J. R. Hernandez-Carrion, “A Bacterial-Based Algorithm to Simulate Complex Adaptive Systems,” in From Animals to Animats 13, A. P. del Pobil, E. Chinellato, E. Martinez-Martin, J. Hallam, E. Cervera, and A. Morales, Eds. Springer International Publishing, 2014, pp. 250–259.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a id=&quot;6&quot;&gt;&lt;/a&gt;[6] D. Gonzalez-Rodriguez and V. Kostakis, “Information literacy and peer-to-peer infrastructures: An autopoietic perspective,” Telematics and Informatics, vol. 32, no. 4, pp. 586–593, Nov. 2015.&lt;/p&gt;
+&lt;p&gt;[[[6]]] D. Gonzalez-Rodriguez and V. Kostakis, “Information literacy and peer-to-peer infrastructures: An autopoietic perspective,” Telematics and Informatics, vol. 32, no. 4, pp. 586–593, Nov. 2015.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a id=&quot;7&quot;&gt;&lt;/a&gt;[7] Gonzalez-Rodriguez, Diego and Shapiro, Ishan, “Scalable cognition through collaborative sense-making: drafting the Open Value Network model,” presented at the Workshop on Synthetic Cognitive Development and Integrated-Distributed Agency (IDA). The Eighth Conference on Artificial General Intelligence, Berlin, 2015.&lt;/p&gt;
+&lt;p&gt;[[[7]]] Gonzalez-Rodriguez, Diego and Shapiro, Ishan, “Scalable cognition through collaborative sense-making: drafting the Open Value Network model,” presented at the Workshop on Synthetic Cognitive Development and Integrated-Distributed Agency (IDA). The Eighth Conference on Artificial General Intelligence, Berlin, 2015.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a id=&quot;8&quot;&gt;&lt;/a&gt;[8] B. B. Kawulich, “Participant Observation as a Data Collection Method,” Forum Qualitative Sozialforschung / Forum: Qualitative Social Research, vol. 6, no. 2, May 2005.&lt;/p&gt;
+&lt;p&gt;[[[8]]] B. B. Kawulich, “Participant Observation as a Data Collection Method,” Forum Qualitative Sozialforschung / Forum: Qualitative Social Research, vol. 6, no. 2, May 2005.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -1134,24 +1139,24 @@ This article was originally published in the &lt;a href=&quot;http://www.xmunch.
           <pubDate>Sun, 12 Feb 2017 00:00:00 +0100</pubDate>
           <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/la-llamada.html</guid>
           <description>
-              &lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5796/21703173230_b89fc10ea9_b.jpg&quot; /&gt;&lt;/p&gt;
+              &lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5796/21703173230_b89fc10ea9_b.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;h1&gt;Examen de conciencia: del filo-marxismo a la filosofía postmoderna&lt;/h1&gt;
 &lt;p&gt;Recuerdo aquellos años de instituto en los que me alimentaba a base de canciones protesta. Enamorado de aquel discurso &lt;em&gt;filo-marxista&lt;/em&gt; para adolescentes, me empapé de literatura y música combativa durante años, repitiendo hasta la saciedad aquellos eslóganes que (creía yo) me avalaban como intelectual y joven socialmente comprometido.&lt;/p&gt;
 &lt;p&gt;Abrazado a una amalgama de ideas casi contradictorias, con base de &lt;em&gt;ska&lt;/em&gt; y &lt;em&gt;punk&lt;/em&gt;, fudamenté mi discurso ideológico en el desprecio al imperialismo norteamericano y una denuncia constante de las desigualdades sociales edificadas sobre el capitalismo.&lt;/p&gt;
-&lt;p&gt;Con el tiempo me daría cuenta que muchos de aquellos supuestos axiomas eran parte de un meta-relato alimentado por viejos poderes, pero que de algún modo habían quedado congelados en la España post-franquista, un nostálgico &lt;em&gt;backup&lt;/em&gt; de proyectos que prometían &lt;em&gt;hacer justicia&lt;/em&gt; y retomar los experimentos ideológicos que habían sido frustrados por el fascismo en los años treinta.&lt;/p&gt;
+&lt;p&gt;Con el tiempo me daría cuenta que muchos de aquellos supuestos axiomas eran parte de un meta-relato alimentado por viejos poderes, pero que de algún modo habían quedado congelados en la España post-franquista, un  nostálgico &lt;em&gt;backup&lt;/em&gt; de proyectos que prometían &lt;em&gt;hacer justicia&lt;/em&gt; y retomar los experimentos ideológicos que habían sido frustrados por el fascismo en los años treinta.&lt;/p&gt;
 &lt;p&gt;Aquella especie de &lt;em&gt;nunca lo conseguimos por la llegada del franquismo&lt;/em&gt; hizo que muchos jóvenes aún nos creyéramos viejos discursos que en otras partes del mundo habían quedado sepultados con el fin de la Guerra Fría.&lt;/p&gt;
 &lt;p&gt;Gran parte del paquete de principios ideológicos de todo adolescente &lt;em&gt;progre&lt;/em&gt; era, por supuesto, un &lt;em&gt;anti-americanismo&lt;/em&gt; visceral que rozaba el fundamentalismo. Una especie de dicotomía moral en la que los &lt;em&gt;yankees&lt;/em&gt; eran los malos y las naciones que los eurocentristas denominaban &lt;em&gt;la periferia&lt;/em&gt;, &lt;em&gt;el tercer mundo&lt;/em&gt; o &lt;em&gt;países en vías de desarrollo&lt;/em&gt; eran las víctimas de un sistema desigual fundamentado en relaciones de fuerza militar y poder económico.&lt;/p&gt;
 &lt;p&gt;Lo cierto es que seguí leyendo y explorando, buscando mi propio camino e intentando contextualizar las causas y las consecuencias de aquellos discursos.&lt;/p&gt;
 &lt;p&gt;Al tiempo quedé fascinando por ese paradigma que llamábamos &lt;em&gt;postmodernidad&lt;/em&gt; y que nos ofrecía la muerte de todos los grandes relatos; no sólo de las grandes religiones, que en teoría habían sido derribadas por la &lt;em&gt;Razón Ilustrada&lt;/em&gt; siglos atrás, sino también de las grandes ideologías que habían atemorizado al planeta durante el siglo XX, incluyendo el comunismo.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://farm1.staticflickr.com/744/21701067579_61bc9a83d9_b.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm1.staticflickr.com/744/21701067579_61bc9a83d9_b.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Así que la &lt;em&gt;postmodernidad&lt;/em&gt; me empujó a vivir relativizando las verdades, y a reubicar mis panfletos e idearios en el cajón de la pseudociencia y los textos sagrados. Pero lo cierto es que de aquellos años cargados de idelogía y fascinación quedó un poso positivo, un poso de simpatía hacia los que llevaban la contraria a los grandes poderes y luchaban por lo que creían justo. Algo que lejos de ser una defensa filosófica de la sublevación &lt;em&gt;a lo Foucault&lt;/em&gt; derivaría más bien en una capacidad de empatizar con las causas ajenas aún sin sentirlas del todo como propias. En respetar más al otro e intentar entender su perspectiva y sus razones para luchar por una u otra causa.&lt;/p&gt;
-&lt;p&gt;De aquel entonces quedaron además ciertos valores de esos que van más allá de las doctrinas, aunque en esencia no dejen de ser principios adquiridos por un simple primate en un entorno social. Valores como la búsqueda de la felicidad y la convicción de que la &lt;strong&gt;fraternidad de los seres humanos&lt;/strong&gt;, o al menos la convivencia en paz entre los distintos, puede llegar a ser posible. Unos principios &lt;em&gt;kind of naive&lt;/em&gt; pero que podrían resumirse en la defensa de &lt;strong&gt;la libertad y la igualdad de los individuos dentro de comunidades heterogéneas&lt;/strong&gt;, algo que no creo posible sin mecanismos que permitan una &lt;strong&gt;descentralización de las relaciones de poder&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;De aquel entonces quedaron además ciertos valores de esos que van más allá de las doctrinas, aunque en esencia no dejen de ser principios adquiridos por un simple primate en un entorno social.  Valores como la búsqueda de la felicidad y la convicción de que la &lt;strong&gt;fraternidad de los seres humanos&lt;/strong&gt;, o al menos la convivencia en paz entre los distintos, puede llegar a ser posible. Unos principios &lt;em&gt;kind of naive&lt;/em&gt; pero que podrían resumirse en la defensa de &lt;strong&gt;la libertad y la igualdad de los individuos dentro de comunidades heterogéneas&lt;/strong&gt;, algo que no creo posible sin mecanismos que permitan una &lt;strong&gt;descentralización de las relaciones de poder&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Al final, como comentaba, estos valores no son otra cosa que un pedazo &lt;em&gt;software&lt;/em&gt; cultural que dinámicamente ha ido adaptándose a nuevos contextos y que a día de hoy no termina de despegarse de mis redes neuronales. Pero en cualquier caso, en esencia, estas ideas definen mi visión actual del mundo tras tres décadas de interacciones con otros agentes sociales.&lt;/p&gt;
 &lt;p&gt;A mi juicio, dentro de este marco &lt;em&gt;postmoderno&lt;/em&gt; en el que la &lt;em&gt;heterogeneidad&lt;/em&gt; representa un elemento clave, la deconstrucción de los grandes relatos implica eliminar de estos el apellido universalista. En otras palabras, implica asumir que no existen idearios o proyectos que puedan ser impuestos y tengan &lt;em&gt;validez universal&lt;/em&gt; sino que las estrategias de supervivencia son &lt;em&gt;dependientes de contexto&lt;/em&gt;, y que por tanto son los individuos y las comunidades las que deben desarrollar &lt;em&gt;los futuros posibles&lt;/em&gt; en los que quieran desarrollarse.&lt;/p&gt;
 &lt;p&gt;De ahí a importancia de la &lt;em&gt;heterogeneidad funcional&lt;/em&gt;, de la &lt;em&gt;diversidad estratégica&lt;/em&gt;, de la convicción de que cada individuo cuenta con un relato propio y que las sociedades requieren de esa variablidad de estrategias de supervicencia, de aproximaciones a la resolución de problemas, de cajas de herramientas, de sensibilidades, de puntos de vista, para poder ser resilientes y dinámicas.&lt;/p&gt;
 &lt;p&gt;En ese sentido, el individuo postmoderno debería ser capaz de cambiar de contexto y adaptarse a los distintos relatos, aunque estos a veces tengan una naturaleza antagónica. Así que curiosamente, desde hace tiempo, he empezado a ver en la &lt;em&gt;incoherencia&lt;/em&gt; y el relativismo absoluto una especie de virtud.&lt;/p&gt;
 &lt;p&gt;De acuerdo con esto, podría decir que me considero un individuo que profesa la fe del no-relato, un nodo libre que disfruta cambiando de red, cambiando de sociedad, cambiando de contexto. Y en la misma línea, puedo decir que en los últimos años he participado en causas de distinta naturaleza ideológica, atendiendo a necesidades distintas con contextos distintos.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://farm1.staticflickr.com/633/21758125100_3ee2acbdff_b.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm1.staticflickr.com/633/21758125100_3ee2acbdff_b.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;En España me he posicionado abiertamente a favor de la defensa del laicismo y la libertad de conciencia, mientras que en otros contextos como en Senegal he visto en primera persona cómo, a persar de que &lt;em&gt;el pensamiento mágico&lt;/em&gt; es el lastre del mundo pre-moderno, la religión es casi el único &lt;em&gt;pegamento posible&lt;/em&gt; para ofrecer una comunidad social e identitaria y sustituir a un &lt;em&gt;Estado del Bienestar&lt;/em&gt; ausente. Y es que Europa y África tienen necesidades distintas, y dentro de cada continente las tiene cada nación, cada comunidad étnica, linguística o religiosa, cada pueblo o cada aldea.&lt;/p&gt;
 &lt;p&gt;Los discursos tienen su público y su sentido, tienen su contexto. Al final constituyen estrategias de supervivencia, genomas distribuidos dentro del &lt;em&gt;biofilm&lt;/em&gt; de cada sociedad.&lt;/p&gt;
 &lt;p&gt;Y por ello &lt;em&gt;no son ni universales ni permanentes&lt;/em&gt;, sino que son de usar y tirar. Y muchas veces hay que usarlos antes de poder superarlos.&lt;/p&gt;
@@ -1159,14 +1164,14 @@ This article was originally published in the &lt;a href=&quot;http://www.xmunch.
 &lt;p&gt;En 2009 colaboré con el &lt;em&gt;Instituto Politécnico Tomás Katari&lt;/em&gt; en Bolivia, trabajando directamente con comunidades indígenas en el altiplano andino, así como con niños trabajadores dentro de lo que se conoce como la &lt;em&gt;población campesina originaria&lt;/em&gt; (mayoritariamente población &lt;em&gt;quechua&lt;/em&gt;). Un contexto donde el &lt;em&gt;indigenismo&lt;/em&gt; y eso que ahora se llama &lt;em&gt;populismo bolivariano&lt;/em&gt; tenían una razón de ser. Y es que allí re-descubrí que aquellos eslóganes que en el viejo continente se nos vendían como obsoletos, mutados con un acento indígena, todavía tenían sentido para muchos seres humanos.&lt;/p&gt;
 &lt;p&gt;En Bolivia comprendí que no había Verdad ni Historia. Sino verdades e historias, contextos y bancos de soluciones posibles. Y aprendí a escuchar a los hombres que habitaban otros mundos tan distintos al mio, seres humanos iguales a mi en dignidad y derechos, pero con sesgos y filtros culturales radicalmente distintos a los míos, lo que hacía posible una cosmovisión distinta, un universo cognitivo que nunca podría experimentar si no era a través de la escucha. Cuando nos reuníamos con los líderes de las comunidades indígenas o los campesinos de Ocurí, cuando compartíamos la &lt;em&gt;papa&lt;/em&gt;, la &lt;em&gt;quinoa&lt;/em&gt; y las ceremonias de adoración a la &lt;em&gt;Pachamama&lt;/em&gt; en lo alto de Los Andes. Cuando observábamos como mujeres que no hablaban ni una sola palabra de español aprendían sus derechos constitucionales en &lt;em&gt;quechua&lt;/em&gt;, cuando masticábamos coca disfrutando de su música, su danza y hospitalidad. Allí comprendimos que un espacio ideológico y un discurso incomprensible para nuestra mentalidad europea era posible, y que la defensa de aquel &lt;em&gt;socialismo plurinacional&lt;/em&gt; parecía la mejor solución de consenso para uno de los países más pobres de América Latina, con una desigualdad terrible y una crisis identitaria difícil de resolver con los mecanismos habituales.&lt;/p&gt;
 &lt;p&gt;Escucharles me fascinó. Sentí la llamada de la etnografía.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5761/21286401684_801277f5fd_b.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5761/21286401684_801277f5fd_b.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Una fascinación similar y un ejercicio por la capacidad de escucha experimenté también en África, a donde llegamos portando un supuesto &lt;em&gt;modelo de desarrollo&lt;/em&gt; y de donde volvimos avergonzados de la prepotencia intelectual de los países del &lt;em&gt;primer mundo&lt;/em&gt; y del falso proteccionismo de ciertas políticas de cooperación internacional. Allí comprendí que había formas de vivir que no precisaban de propiedad privada, ni siquiera de residencia fija, ni de Estado, y donde reinaba la ley no escrita de lo comunitario y el respeto a la diferencia.&lt;/p&gt;
 &lt;p&gt;Cada cultura, cada individuo, cada pueblo, es una fuente de luz y conocimiento. Cada relato es una consecuencia de su contexto histórico, un componente evolutivo que podríamos llamar &lt;em&gt;meta-biológico&lt;/em&gt; (esto es, social) que puede funcionar o fallar, pero que como un gen recesivo forma parte del gran banco de datos y experiencias de nuestra especie en su riqueza y heterogeneidad.&lt;/p&gt;
 &lt;p&gt;En parte, esto hace que una de mis principales pasiones sea viajar. Viajar de un modo que me permita establecer conversaciones con la gente común y conectar con esos otros &lt;em&gt;universos cognitivos&lt;/em&gt; que hacen que me sienta parte de una red más grande e interesante que lo que constituye mi propio nodo egoico.&lt;/p&gt;
 &lt;h1&gt;Perspectivas, contextos e identidades&lt;/h1&gt;
 &lt;p&gt;Se puede decir que intentando viajar mucho he viajado más bien poco si consideramos el tamaño del globo. Pero tengo la ilusión constante de tener una vida por delante en la que pueda perderme en tantos puntos geográficos de este geoide azul como sea posible.&lt;/p&gt;
 &lt;p&gt;En la actualidad, mi proyecto etnográfico está más bien acotado a Estados Unidos, donde desde hace ya un tiempo estoy canalizando mis inquietudes investigadoras en desarrollar algunos de &lt;em&gt;esos valores que quedaron de poso tras mi adolescencia&lt;/em&gt;. No sólo ya hace tiempo que superé ese &lt;em&gt;anti-americanismo&lt;/em&gt; adolescente (aunque por supuesto siga sin comulgar con las políticas de los dirigentes estadounidenses), sino que he podido descubrir que precisamente Estados Unidos es uno de los países más fascinantes en materia de multiculturalidad, una especie de mosaico de micro-sociedades que ha ido integrando en su territorio gran parte de las comunidades del planeta.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1474/26648656935_7aff0cff63_b.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1474/26648656935_7aff0cff63_b.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Así que estoy intentando romper otro relato, y superar ese discurso que se ha convertido en tendencia. Un discurso en el que se tiende a identificar a los pueblos con sus dirigentes, y en el que se oculta la diversidad ideológica e identitaria de los individuos que habitan un territorio bajo una especie de prejuicio homogeneizante.&lt;/p&gt;
 &lt;p&gt;Desde aquí estoy desarrollando varios proyectos. Durante 2016 estuve centrando esfuerzos en desarrollar &lt;a href=&quot;http://www.xmunch.com/rhizome&quot;&gt;un estudio rizomático sobre la heterogeneidad identitaria de la sociedad estadonunidense&lt;/a&gt;. En este trabajo se combinan aspectos computacionales con labores de etnografía visual. Y aquí entran tanto herramientas de visualización de datos como métodos habituales de investigación cualitativa.&lt;/p&gt;
 &lt;p&gt;Pero fundamentalmente he estado disfrutando del proceso. Limitándome a observar y escuchar lo que la red (los distintos individuos de esta sociedad heterogénea) puede aportar al nodo (el observador).&lt;/p&gt;
@@ -1188,6 +1193,7 @@ This article was originally published in the &lt;a href=&quot;http://www.xmunch.
 &lt;p&gt;Hemos vivido un cambio de ciclo, otro de esos momentos que se recogerán como &lt;em&gt;Historia&lt;/em&gt; y que sin duda afectarán a muchas de las &lt;em&gt;historias&lt;/em&gt; que dan sentido al mundo.&lt;/p&gt;
 &lt;p&gt;Hay quien dice que se acercan días oscuros. Pero de nuevo toca escuchar, escuchar la llamada de la etnografía. Despojarse de relatos y estar abierto a los distintos puntos de vista.&lt;/p&gt;
 &lt;p&gt;Asumir la no-verdad del individuo postmoderno y disfrutar aprendiendo del &lt;em&gt;distinto&lt;/em&gt;, esto es, del &lt;em&gt;igual&lt;/em&gt;.&lt;/p&gt;
+
           </description>
       </item>
       
@@ -1197,7 +1203,7 @@ This article was originally published in the &lt;a href=&quot;http://www.xmunch.
           <pubDate>Fri, 3 Feb 2017 00:00:00 +0100</pubDate>
           <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/blockchain.html</guid>
           <description>
-              &lt;p&gt;&lt;img src=&quot;https://dgrmunch.github.io/blog/img/blockchain.jpg&quot; /&gt;&lt;/p&gt;
+              &lt;p&gt;&lt;img src=&quot;https://dgrmunch.github.io/blog/img/blockchain.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;h2&gt;Blockchain, Commons and P2P&lt;/h2&gt;
 &lt;p&gt;Michel Bauwens defines the term &lt;strong&gt;P2P&lt;/strong&gt; as the &lt;em&gt;relational dynamic of distributed networks&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Distributed networks&lt;/em&gt; are different from &lt;em&gt;centralized networks&lt;/em&gt;, those with a centralized topology on one node. They are also different from the &lt;em&gt;decentralized or federated networks&lt;/em&gt;, those with several central nodes connected to each other. In other words, distributed networks would be those whose nodes could be connected without intermediates, exchanging information freely without central control.&lt;/p&gt;
@@ -1227,6 +1233,7 @@ This article was originally published in the &lt;a href=&quot;http://www.xmunch.
 &lt;p&gt;Since it was founded, Bitmind efforts were mostly in applied research &amp;amp; open source development around the context of &lt;em&gt;Open Value Networks&lt;/em&gt; and &lt;em&gt;Distributed Collaborative Organizations&lt;/em&gt;, exploring how new models for self-organization could enforce the value production capacities within the P2P paradigm.&lt;/p&gt;
 &lt;p&gt;Bitmind was one of the first entrepreneurial initiatives oriented to unify CBPP governance and economic models with blockchain-based technologies, helping to initiate the conversation about new self-organizing infrastructures in value production communities.&lt;/p&gt;
 &lt;p&gt;In July 2016, Bitmind funds were transferred to the &lt;em&gt;P2P Foundation&lt;/em&gt;.&lt;/p&gt;
+
           </description>
       </item>
       
@@ -1236,24 +1243,24 @@ This article was originally published in the &lt;a href=&quot;http://www.xmunch.
           <pubDate>Sun, 1 Jan 2017 00:00:00 +0100</pubDate>
           <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/descentralizando.html</guid>
           <description>
-              &lt;p&gt;&lt;img src=&quot;https://dgrmunch.github.io/blog/img/network.jpg&quot; title=&quot;Red distribuida y heterogénea&quot; /&gt;&lt;/p&gt;
+              &lt;p&gt;&lt;img src=&quot;https://dgrmunch.github.io/blog/img/network.jpg&quot; alt=&quot;&quot; title=&quot;Red distribuida y heterogénea&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Ha pasado poco más de un año desde defendí mi tesis doctoral: &lt;strong&gt;La descentralización estructural y la heterogeneidad funcional en la producción colectiva de conocimiento: una justificación teórica y computacional del paradigma P2P&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Recibir el título de doctor tras exponer ante un tribunal los principios de un conjunto de fenómenos denominados &lt;em&gt;peer-to-peer (P2P)&lt;/em&gt;, representó para mí la culminación académica de un proyecto casi ideológico que se venía gestando desde mi adolescencia.&lt;/p&gt;
 &lt;p&gt;Aquel ritual laico cargado de academicismo y pompa, de solemnidad y de alegría, fue el punto y final a una investigación casi rizomática. Y aunque afronté la ceremonia final con zapatillas y vaqueros, por eso de llevar la contraria, doctorarme supuso para mi un importante logro personal. Había conseguido superar ese reto intelectual que me había prometido a mi mismo años atrás pero, al margen de aspectos meramente personales, recibir el visto bueno de un tribunal académico de prestigio implicaba algo más importante. Aquel hecho se traducía de forma directa en la validación por parte del sistema de uno de esos marcos teóricos que encuentran más simpatías en el &lt;em&gt;underground hacker&lt;/em&gt; que en las aulas, más vinculados a la contracultura y los experimentos &lt;em&gt;cripto-anarquistas&lt;/em&gt; que a las estructuras rígidas que suele imponer la academia.&lt;/p&gt;
 &lt;p&gt;Podría definir mi tesis doctoral, por tanto, como un oxímoron. Pero lo cierto es que tras un interesante periodo de trabajo conseguí que aquel conjunto de principios que venía defendiendo desde mis primeros años frente a un computador -cuando me empapaba de contracultura y textos prohibidos- acabase cristalizando en un monográfico de carácter académico. Y fue así como, de la mano de la Inteligencia Artificial, los Algoritmos Genéticos y los Modelos Multi-Agente, pude defender computacionalmente la &lt;em&gt;descentralización estructural&lt;/em&gt; y la &lt;em&gt;heterogeneidad funcional&lt;/em&gt;, acuñando el concepto de &lt;strong&gt;sociedad P2P&lt;/strong&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;Las sociedades P2P serían la consecuencia del incremento gradual tanto de la heterogeneidad como la descentralización de las redes de información. La clave no estaría tanto en el avance de la tecnología sino también en el cambio de enfoque: de lo centralizado a lo distribuido, de lo homogéneo a lo heterogéneo. La noción de sociedad P2P haría especial énfasis no sólo en la información, sino en las redes que permiten su difusión, su procesamiento distribuido y su apropiación por parte de los agentes sociales.&lt;/p&gt;
+&lt;p&gt;Las sociedades P2P serían la consecuencia del incremento gradual tanto de la heterogeneidad como la descentralización de las redes de información. La clave no estaría tanto en el avance de la tecnología sino también en el cambio de enfoque: de lo centralizado a lo distribuido, de lo homogéneo a lo heterogéneo. La noción de sociedad P2P haría especial énfasis no sólo en la información, sino en las redes que permiten su difusión, su procesamiento distribuido y su apropiación por parte de los agentes sociales.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Para mi, poco amigo de la disciplina y los estándares rígidos, publicar un monográfico acompañado de experimentos y resultados justificados, así como un conjunto de publicaciones científicas validadas por la comunidad, era parte del precio a pagar. Pero en realidad las exigencias de la carrera científica, junto a mi evolución paralela trabajando como &lt;em&gt;Ingeniero del Software&lt;/em&gt; en el mundo empresarial, me estaban alejando de aquello que había estado haciendo desde los quince años: publicar libremente en mi propio &lt;em&gt;blog&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Mi crisis como &lt;em&gt;blogger&lt;/em&gt; había empezado en realidad años antes, cuando tras regresar de un proyecto de Cooperación Internacional en Senegal empecé a tener serias dudas sobre el narcisismo y la prepotencia intelectual que se escondían detrás de mis blogs. Así que decidí dejar de defender una visión del mundo y limitarme a aprender de las visiones de otros. Esa suerte de catarsis &lt;em&gt;ego-cida&lt;/em&gt;, sumada a un exceso de auto-exigencias a la hora de publicar, me llevaron a limitar mi producción literaria a artículos de investigación en revistas internacionales o capítulos de libros. Empecé a publicar únicamente en inglés, limitándome a artículos con un carácter meramente académico, y a sacrificar al &lt;em&gt;blogger&lt;/em&gt; pasional para dejar paso al científico comedido.&lt;/p&gt;
 &lt;p&gt;El caso es que desterré mis reflexiones personales a los cuadernos y las notas de cajón, cerré mis blogs y centré mis esfuerzos en construir un curriculum que me permitiera desarrollarme profesionalmente y canalizar mis inquietudes desde lo académico y lo productivo.&lt;/p&gt;
 &lt;p&gt;Tuve la suerte de vivir muchas vidas y trabajar en distintos sectores, para distintas empresas, clientes, organizaciones y universidades. Viajé e inicié colaboraciones con profesionales de varias partes del globo, conociendo muchas perspectivas, muchos contextos y cosmovisiones, y entendiendo la naturaleza heterogénea de la postmodernidad, así como la naturaleza descentralizada de las interacciones.&lt;/p&gt;
-&lt;p&gt;Los cambios de entorno, perfil y tipo de interlocutor me transformaron en un sujeto con mayor capacidad para cambiar de registro, lo que se traduce en que me hice un poco más viejo y las ideas empezaron a florecer más en el córtex que en las entrañas. Esta suma de acontecimientos hicieron que mi vida como &lt;em&gt;blogger&lt;/em&gt; se esfumara hasta el día de hoy, cuando se imponen los propósitos para el nuevo año.&lt;/p&gt;
+&lt;p&gt;Los cambios de entorno, perfil y tipo de interlocutor me transformaron en un sujeto con mayor capacidad para cambiar de registro, lo que se traduce  en que me hice un poco más viejo y las ideas  empezaron a florecer más en el córtex que en las entrañas. Esta suma de acontecimientos hicieron que mi vida como &lt;em&gt;blogger&lt;/em&gt; se esfumara hasta el día de hoy, cuando se imponen los propósitos para el nuevo año.&lt;/p&gt;
 &lt;p&gt;Tiempo ha pasado desde que tuve el privilegio de compartir servidor con Enrique Meneses. Desde que conocí a Marta Úngaro a través de un artículo que publiqué sobre &lt;em&gt;La Noche de Los Lápices&lt;/em&gt;. Tiempo ha pasado desde que desarrollé portales contra-informativos y participé en los espacios conversacionales de los sucesores del movimiento &lt;em&gt;ciberpunk&lt;/em&gt; español.&lt;/p&gt;
 &lt;p&gt;Pero lo cierto es que para mí las redes siempre fueron un instrumento de emancipación. Mi padre me enseñó a programar en &lt;em&gt;Basic&lt;/em&gt; con siete u ocho años, y a partir de ahí mi curiosidad por la computación se disparó. Internet se me ofrecía como una puerta a otros mundos, a un &lt;em&gt;ciberespacio&lt;/em&gt; que sólo los &lt;em&gt;hackers&lt;/em&gt; conocíamos y que me transformó en un adicto a la información. Empecé la segunda década de mi vida definiéndome como &lt;em&gt;webmaster&lt;/em&gt; y participando, entre &lt;em&gt;gifs&lt;/em&gt; animados, &lt;em&gt;iframes&lt;/em&gt; y fondos ilegibles, en aquella creación de contenidos a la que todos estábamos invitados.&lt;/p&gt;
 &lt;p&gt;Las redes distribuidas ofrecían una biblioteca de &lt;em&gt;hipertexto&lt;/em&gt; que se expandía sin límites físicos ni controles gubernamentales en una especie de realidad paralela. La anarquía cognitiva se desplegaba sobre sí misma al otro lado del cable telefónico, como si se tratara de una utopía pirata construida sobre silicio. Algunos sucumbimos ante el romanticismo de John Perry Barlow y su &lt;strong&gt;Declaración de Independencia del Ciberespacio&lt;/strong&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;Gobiernos del Mundo Industrial, vosotros, cansados gigantes de carne y acero, vengo del Ciberespacio, el nuevo hogar de la Mente. En nombre del futuro, os pido en el pasado que nos dejéis en paz. No sois bienvenidos entre nosotros. No ejercéis ninguna soberanía sobre el lugar donde nos reunimos […] El Ciberespacio está formado por transacciones, relaciones, y pensamiento en sí mismo, que se extiende como una quieta ola en la telaraña de nuestras comunicaciones. Nuestro mundo está a la vez en todas partes y en ninguna parte, pero no está donde viven los cuerpos. Estamos creando un mundo en el que todos pueden entrar, sin privilegios o prejuicios debidos a la raza, el poder económico, la fuerza militar, o el lugar de nacimiento. Estamos creando un mundo donde cualquiera, en cualquier sitio, puede expresar sus creencias, sin importar lo singulares que sean, sin miedo a ser coaccionado al silencio o el conformismo. Vuestros conceptos legales sobre propiedad, expresión, identidad, movimiento y contexto no se aplican a nosotros. Se basan en la materia. Aquí no hay materia.&lt;/p&gt;
+&lt;p&gt;Gobiernos del Mundo Industrial, vosotros, cansados gigantes de carne y acero, vengo del Ciberespacio, el nuevo hogar de la Mente. En nombre del futuro, os pido en el pasado que nos dejéis en paz. No sois bienvenidos entre nosotros. No ejercéis ninguna soberanía sobre el lugar donde nos reunimos […] El Ciberespacio está formado por transacciones, relaciones, y pensamiento en sí mismo, que se extiende como una quieta ola en la telaraña de nuestras comunicaciones. Nuestro mundo está a la vez en todas partes y en ninguna parte, pero no está donde viven los cuerpos. Estamos creando un mundo en el que todos pueden entrar, sin privilegios o prejuicios debidos a la raza, el poder económico, la fuerza militar, o el lugar de nacimiento. Estamos creando un mundo donde cualquiera, en cualquier sitio, puede expresar sus creencias, sin importar lo singulares que sean, sin miedo a ser coaccionado al silencio o el conformismo. Vuestros conceptos legales sobre propiedad, expresión, identidad, movimiento y contexto no se aplican a nosotros. Se basan en la materia. Aquí no hay materia.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Y así fue como aquella versión adolescente de mi mismo abrazó la promesa del &lt;em&gt;ciberespacio&lt;/em&gt; y se sumó a la defensa de aquel nuevo relato emancipador.&lt;/p&gt;
 &lt;p&gt;Las redes distribuidas, aquellas que había ideado Paul Baran en 1964 y que habían constituido la topología de Internet, se convirtieron en un referente estructural para mi desarrollo ideológico y profesional. Primero llegaron los &lt;em&gt;fanzines&lt;/em&gt; en texto plano, las conversaciones en &lt;em&gt;IRC&lt;/em&gt;, la listas de correo y los distintos espacios conversacionales tras un terminal verdinegro.&lt;/p&gt;
@@ -1267,8 +1274,9 @@ This article was originally published in the &lt;a href=&quot;http://www.xmunch.
 &lt;p&gt;Una investigación multidisciplinar que estoy canalizando como &lt;em&gt;Visiting Researcher&lt;/em&gt; en la &lt;em&gt;University of North Carolina&lt;/em&gt; mientras desarrollo varios proyectos propios en el &lt;a href=&quot;http://www.sciartlab.com&quot;&gt;SciArt Lab&lt;/a&gt; e implemento soluciones digitales en &lt;em&gt;Enxendra Technologies&lt;/em&gt;, una empresa desde la que ofrecemos servicios de voto electrónico, factura electrónica y firma electrónica en este mundo regido por la criptografía que es el horizonte digital. Un mundo donde la identidad viene definida por certificados electrónicos y donde la privacidad y la autenticidad sólo pueden garantizarse mediante mecanismos criptográficos.&lt;/p&gt;
 &lt;p&gt;Este espacio será por tanto un lugar donde compartiré impresiones y reflexiones que podrán ser tanto personales como académicas o profesionales, sin restricciones de forma ni de fondo. Un ejercicio en el que combinaré artículos en español y en inglés, mientras desarrollo de forma simultanea &lt;a href=&quot;http://xmunch.com/rhizome/&quot;&gt;Rhizome Ethnographies&lt;/a&gt; y &lt;a href=&quot;http://www.sciartlab.com/?page_id=189&quot;&gt;otros proyectos del SciArt Lab&lt;/a&gt; .&lt;/p&gt;
 &lt;p&gt;Tras un tiempo en Estados Unidos, vuelvo a la &lt;em&gt;blogosfera&lt;/em&gt; con una visión distinta del mundo a la que tenía cuando publiqué mi tesis doctoral. Mi investigación predoctoral pretendía demostrar teórica y computacionalmente la validez del &lt;em&gt;paradigma P2P&lt;/em&gt; y defender su gradual imposición como parte del proceso evolutivo de los sistemas de procesamiento de información. Mis proyectos actuales, sin embargo, abordan aspectos relacionados con este tronco común pero enfocándose en distintos intereses y desde enfoques muy distintos, más humanistas y más cercanos no sólo a la computación sino también a las ciencias sociales.&lt;/p&gt;
-&lt;p&gt;Pero en cualquier caso, este espacio nace como un nodo libre que se servirá de nuevas infraestructuras técnicas más acordes al modelo que defiende. Así que como gesto simbólico fundacional, a modo de declaración de intenciones, esta bitácora contará con &lt;em&gt;un mirror en IPFS&lt;/em&gt; que será generado periódicamente. Las referencias al &lt;em&gt;mirror&lt;/em&gt; distribuido &lt;a href=&quot;https://dgrmunch.github.io/blog/ipfs.html&quot;&gt;serán accesibles desde aquí&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Pero en cualquier caso, este espacio nace como un nodo libre que se servirá de nuevas infraestructuras técnicas más acordes al modelo que defiende.  Así que como gesto simbólico fundacional, a modo de declaración de intenciones, esta bitácora contará con &lt;em&gt;un mirror en IPFS&lt;/em&gt; que será generado periódicamente. Las referencias al &lt;em&gt;mirror&lt;/em&gt; distribuido &lt;a href=&quot;https://dgrmunch.github.io/blog/ipfs.html&quot;&gt;serán accesibles desde aquí&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Pues la libertad no puede existir en ningún sistema caracterizado por la centralización y la homogeneidad.&lt;/p&gt;
+
           </description>
       </item>
       

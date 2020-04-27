@@ -1,4 +1,4 @@
-# Static content blog for xmunch.com
+# Static content blog for blog.xmunch.com
 
 After some years using PHP/Mysql based solutions for my blogs (basically Wordpress) I decided to move to a model of static files.
 

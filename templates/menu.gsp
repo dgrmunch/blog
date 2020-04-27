@@ -8,7 +8,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <span class="navbar-brand"><img src="http://www.sciartlab.com/wp-content/uploads/sciarlab-inverted.png" alt="SciArt Lab"></span>
+            <span class="navbar-brand"><img src="http://filedn.com/lzKR35HlP1yHLFtV0oLTAku/landings/sciartlab.com/index_files/sciarlab-inverted.png" alt="SciArt Lab"></span>
           </div>
           <div class="collapse navbar-collapse" id="navbar-menu">
             <ul class="nav navbar-nav">

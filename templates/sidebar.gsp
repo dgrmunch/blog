@@ -5,12 +5,11 @@
                 <p><b>Research & Development</b></p>
                 <img src="${content.rootpath}img/avatar.jpg"  height="128" width="128">
                 <br><br>
-                <a href="${content.rootpath}about.html">About me (English)</a><br>
-                <a href="${content.rootpath}sobremi.html">Sobre mi (Español)</a>
+                <a href="https://filedn.com/lzKR35HlP1yHLFtV0oLTAku/wiki/#!about.md">About me</a><br>
             </div>
 
             <div class="avatar-box sciart-lab-box sidebar-module sidebar-module-inset">
-                <a href="http://www.sciartlab.com" target="blank_"><img src="http://www.sciartlab.com/wp-content/uploads/sciarlab-inverted.png" height="228"></a>
+                <a href="http://www.sciartlab.com" target="blank_"><img src="http://filedn.com/lzKR35HlP1yHLFtV0oLTAku/landings/sciartlab.com/index_files/sciarlab-inverted.png" height="228"></a>
             </div>
 
             <div class="sidebar-module sidebar-module-inset">

@@ -2,260 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>xmunch.com</title>
-    <link>http://dgrmunch.github.io/blog</link>
-    <atom:link href="http://dgrmunch.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://filedn.com/lzKR35HlP1yHLFtV0oLTAku/blog</link>
+    <atom:link href="http://filedn.com/lzKR35HlP1yHLFtV0oLTAku/blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>xmunch.com</description>
     <language>en-gb</language>
-      <pubDate>Sun, 6 Jan 2019 12:49:30 +0100</pubDate>
-      <lastBuildDate>Sun, 6 Jan 2019 12:49:30 +0100</lastBuildDate>
+      <pubDate>Fri, 7 Feb 2020 13:33:06 +0100</pubDate>
+      <lastBuildDate>Fri, 7 Feb 2020 13:33:06 +0100</lastBuildDate>
 
-      
-      <item>
-          <title>Autopoiesis: A photographic project</title>
-          <link>http://dgrmunch.github.io/blog/blog/2018/autopoiesis.html</link>
-          <pubDate>Fri, 10 Aug 2018 00:00:00 +0200</pubDate>
-          <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2018/autopoiesis.html</guid>
-          <description>
-              &lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;_what_is_autopoiesis&quot;&gt;What is &apos;Autopoiesis&apos;?&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;I am working on a visual project called &apos;Autopoiesis&apos; for the &lt;strong&gt;SciArt Lab&lt;/strong&gt;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;It brings together the quest for personal identity (it is a &lt;em&gt;self-reflection&lt;/em&gt;) while exploring visual concepts I have previously studied during my former research.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Ideas such as &lt;em&gt;Complex Adaptive Systems&lt;/em&gt;, &lt;em&gt;self-organization&lt;/em&gt; and &lt;em&gt;emergence&lt;/em&gt; in biological and social systems are explored through the camera lenses in combination with a deep examination of my own phenomenological experience.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;_some_pictures_of_the_project&quot;&gt;Some pictures of the project&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;style&gt;
-.col-sm-12 iframe {
-    width: 100% !important;
-}
-
-&lt;/style&gt;
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-sm-12&quot;&gt;
-
-&lt;!-- InstaWidget --&gt;
-&lt;a href=&quot;https://www.instagram.com/explore/tags/autopoiesissciartlab/&quot; id=&quot;link-939b402143763f5b7ae2e5ba5d1b83c39c4a6b3a5c0a2bdec1498633413a4efa&quot;&gt;@xmunch&lt;/a&gt;
-&lt;script src=&quot;https://instawidget.net/js/instawidget.js?u=939b402143763f5b7ae2e5ba5d1b83c39c4a6b3a5c0a2bdec1498633413a4efa&amp;width=600px&quot;&gt;&lt;/script&gt;
-
-&lt;/div&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;_theoretical_context&quot;&gt;Theoretical Context&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&apos;Autopoiesis&apos; is just a new answer to an old set of questions. Rather than being a fully brand-new experiment, it follows the theoretical steps of my former research from an art-centered approach.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;As a multidisciplinary researcher, defining the boundaries of my exploration is not quite easy. I have explored both the nature of the self and the field of complex adaptive systems from mathematical, computational and sociological perspectives. I have also played with anthropology, ethnography and phenomenology trying to find clues about how identity formation takes place in social agents.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&apos;Autopoiesis&apos; is just a new stage of a philosophical inquiry which started long time ago.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect2&quot;&gt;
-&lt;h3 id=&quot;_personal_path&quot;&gt;Personal path&lt;/h3&gt;
-&lt;div class=&quot;sect3&quot;&gt;
-&lt;h4 id=&quot;_artificial_intelligence_systems_biology_and_philosophy_of_mind&quot;&gt;Artificial Intelligence, Systems Biology and Philosophy of Mind&lt;/h4&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Some years ago, after finishing a bachelor in &lt;em&gt;Computer Systems Engineering&lt;/em&gt;, I moved to Madrid to study a &lt;em&gt;Master in Artificial Intelligence&lt;/em&gt;. I started to learn about how bots, neurons or ant swarms could develop &lt;strong&gt;emergent properties&lt;/strong&gt;. During a a couple of years I was coding basic-AI software, such as agent-based models and cellular automata. Coding software in which something we called &lt;em&gt;intelligence&lt;/em&gt; could be observed.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;I also discovered the field of &lt;strong&gt;Philosophy of Mind&lt;/strong&gt; and how concepts like &lt;em&gt;cognition&lt;/em&gt;, &lt;em&gt;consciousness&lt;/em&gt;, &lt;em&gt;self&lt;/em&gt;, &lt;em&gt;complexity&lt;/em&gt; and &lt;em&gt;self-organization&lt;/em&gt; could be studied from a scientific and analytical perspective.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Fascinated by this new field, I realized that there was an available position in college to study &lt;em&gt;artificial consciousness&lt;/em&gt;. Unfortunately, the main researcher never replied my emails. So I finally started to work as a researcher in a &lt;strong&gt;synthetic biology project&lt;/strong&gt; within the context of an unconventional computing lab.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Eventually, I found myself working in an research group, exploring communication mechanisms between bacteria. Our goal was to build a &lt;em&gt;biological computer&lt;/em&gt; in which bacteria were &quot;reprogrammed genetically&quot; in order to perform human-defined tasks like an electronic computer would do. My work basically consisted in the implementation of a simulator in which we could test how those bacteria would behave and predict the evolution of the system.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;After some time working in the lab I would left the &lt;em&gt;systems biology&lt;/em&gt; field to work as software engineer for different companies, universities and organizations. However, that experience changed my perception about reality forever. The complexity of communicaton mechanisms and the nature of interdependence in living organisms would stick in my mind for the rest of my life.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Computer Science and Biology were not that different: both explored information processing systems. During the next years, complex networks became the most fascinating of the methapores to understand how the world works.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect3&quot;&gt;
-&lt;h4 id=&quot;_from_bacteria_to_humans_the_discovery_of_complex_adaptive_systems&quot;&gt;From Bacteria to Humans: the discovery of Complex Adaptive Systems&lt;/h4&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Developing my career as software engineer and doing some side research was a priority at the time. But I was a young guy, ready to change the world. Worried about inequality and social justice, I pursued another degree in &lt;em&gt;Cooperation for Development&lt;/em&gt;, something not related at all with my former academic education.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Some time after traveling to Bolivia as a volunteer and visiting some NGOs&apos; projects in Senegal, I started to see how social systems could be conceptualized under the same umbrella than biological and computational systems: &lt;strong&gt;complex adaptive systems&lt;/strong&gt;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;In my mind everything started to make sense. As information-processing beings, cells, individuals and societies could be understood as the foundation of several layers of interdependent elements, of emergent properties, of complexity.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;The building blocks of life, individuals and societies were just &lt;strong&gt;self-organized units with an autopoietic character&lt;/strong&gt;, a combination of functional diversity and decentralized communication infrastructures. &lt;strong&gt;Physical units exchanging flows of ions, chemicals, bits, words or photons&lt;/strong&gt;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Some years later, I got a &lt;strong&gt;PhD in Information Science&lt;/strong&gt; after doing some computational modeling of complex adaptive systems and writing several articles, book chapters and a dissertation about &lt;em&gt;peer-to-peer&lt;/em&gt; systems.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Some of the theoretical and formal justifications which are the basis of &apos;Autopoiesis&apos; can therefore be found in my doctoral dissertation, full of &lt;em&gt;artificial life&lt;/em&gt; theory, P2P networks, bacteria-based algorithms, cognitive science &amp;amp; learning theories, and (of course) sociological models. My dissertation was a formal and theoretical defense of P2P dynamics and was controversial at the time, some years before &lt;strong&gt;Blockchain technologies&lt;/strong&gt;, protocols like &lt;em&gt;Dat&lt;/em&gt; or &lt;em&gt;IPFS&lt;/em&gt; and the new ideas about the &lt;strong&gt;distributed web&lt;/strong&gt; started to become more mainstream.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect3&quot;&gt;
-&lt;h4 id=&quot;_finding_a_multidisciplinary_path_at_the_university_of_toronto&quot;&gt;Finding a multidisciplinary path at the University of Toronto&lt;/h4&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;I had the chance of staying as Visiting Researcher at the &lt;em&gt;Critical Making Lab&lt;/em&gt; of the &lt;em&gt;University of Toronto&lt;/em&gt; (&lt;em&gt;UofT&lt;/em&gt;) during the fall of 2014. I arrived without a clear project in mind, looking for an immersive experience in order to open my research to new perspectives while finishing my PhD.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;At the time, I was studying how &lt;em&gt;peer-to-peer&lt;/em&gt; (P2P) dynamics could be a source of collective production of knowledge. So I thought that a short period as a participant in such a specific environment, full of Canadian critical thinkers and makers, would help me to understand the &lt;em&gt;Critical Making&lt;/em&gt; approach and its possible implications for a &lt;em&gt;P2P society&lt;/em&gt;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Coming from the field of Computer Science, an specifically from Artificial Intelligence, my research practices and methodological frameworks were mostly quantitative. A large part of my time before going to Toronto I was focused on designing models and algorithms, coding them and analyzing resulting data. In that sense, my study of social phenomena was partially reduced to the analysis of mathematical models and their computational implementations, that is, the simulation of artificial minds and artificial societies.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;The focus of my dissertation was far away from actual societies, as a result of considerable simplifications to fit in the criterion of &lt;em&gt;scientific falsifiability&lt;/em&gt;. Popper&amp;#8217;s legacy sometimes implies a reductionist perspective; and when the object of study is the social dimension of the human being, the researcher has to dramatically reduce the number of variables.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;I was already a guy who rejected the compartmentalization of knowledge and embraced a multidisciplinary project of life. In fact, while working as consultant and developer I studied a wide variety of topics, from Learning Theories to Philosophy of Mind, Cognitive Science or Evolutionary Biology. I had meetings with cognitive psychologists, economists, biologists and physicists. And I learned a lot but, as said, my approach was always quantitative.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;However, the experience at &lt;em&gt;Semaphore Research Cluster&lt;/em&gt; of the &lt;em&gt;University of Toronto&lt;/em&gt; implied a completely different mindset, a chance to “experience” without methodological constraints. The result was kind of an anarchical &lt;em&gt;grounded theory&lt;/em&gt; approach that allowed me to observe and participate as a member of the team.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;em&gt;UofT&lt;/em&gt; was a game-changer. I had meetings with philosophers, artists, historians, sociologists, designers,… even a cartoonist and a film maker. And were those human-based P2P dynamics, more than my computational simulations, what really opened my mind to the actual meaning of the word “knowledge&quot;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;I learned the basis of 3D printing and physical computing. I learned about &lt;em&gt;situated learning&lt;/em&gt; and could see how artists and academics with a background in humanities explored new materials, electronic devices and micro-controllers with extraordinary skills. I tested sensors and actuators and got a sense of what it is possible to make, discussing with everyone about potential projects, critical issues and cultural engagements.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;In a sense, the Critical Making Lab destroyed part of my mental constraints. It provided new intellectual and hands-on tools, new human experiences and an open and critical mindset. It also gave me a clue about what information means and about the implications of technology in critical reflection and social transformation.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;My research and my projects never again could fit in one specific field. No technology without humanities. No science without arts.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect3&quot;&gt;
-&lt;h4 id=&quot;_postdoctoral_research&quot;&gt;Postdoctoral research&lt;/h4&gt;
-&lt;div class=&quot;sect4&quot;&gt;
-&lt;h5 id=&quot;_discovering_visual_ethnography&quot;&gt;Discovering visual ethnography&lt;/h5&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;After my PhD, I moved to the United States and started to develop the &lt;a href=&quot;http://sciartlab.com&quot;&gt;SciArt Lab&lt;/a&gt; while in residence at the &lt;em&gt;LIS Department&lt;/em&gt; of the &lt;em&gt;University of North Carolina at Greensboro&lt;/em&gt;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Without the constraints of a doctoral program, I decided to go deeper in some of my old questions. It was time to move forward, beyond software, neurons and genes. Explore another layer of complex adaptive systems and social interactions. Jump to the real world.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;On the top of genetics and cognition, human beings have an extra layer of information processing: culture. And the US was full of social agents with very different social contexts and cultural backgrounds. It was a multicultural society.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Multiculturalism was a fascinating topic, as appealing as biodiversity, as appealing as the distributed and heterogeneous P2P networks of my PhD. A new field of research. The project &lt;a href=&quot;http://xmunch.com/blog/&quot;&gt;&apos;Rhizome Ethnographies&apos;&lt;/a&gt; was born:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;quoteblock&quot;&gt;
-&lt;blockquote&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;After several years exploring, from a computational perspective, the evolution of social complexity in heterogeneous and decentralized agent-based models, I have decided to start a new stage of research. With this side project, I would like to study the evolution of identity/identities in real social agents. Specifically exploring heterogeneous societies through the observation of their ethnic, linguistic and cultural contexts, and using visual ethnography to learn about transnational identities and multiculturalism.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div class=&quot;quoteblock&quot;&gt;
-&lt;blockquote&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;So let’s say that I am moving from the fields of Computer Science and Information Science to a new multidisciplinary approach closer to the domains of Sociology and Cultural Anthropology. From software simulations of artificial agents to multicultural communities of actual people.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&apos;Rhizome Ethnographies&apos; was a two years experiment which ended with a documentary about the US and a multimedia website. But it was also an starting point to a new life of self-conducted research under the framework of the SciArt Lab.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;quoteblock&quot;&gt;
-&lt;blockquote&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Considering this new stage as a chosen path for knowledge crawling, I would consider it both research, game and art. Besides that, naturally, I would also consider this project a way of self-exploration. [&amp;#8230;&amp;#8203;] I realized that I wanted to know more about the human being as a social construct. And I wanted to know it from my own subjective point of view, the point of view of another social construct.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/blockquote&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;The first part of my documentary &apos;Looking for Identity&apos; was released in 2017. It can be &lt;a href=&quot;http://www.sciartlab.com/movie&quot;&gt;watched for free here&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;The theoretical and visual outcomes of the Rhizome Ethnographies project:  &lt;a href=&quot;http://xmunch.com/blog/&quot;&gt;can also be found here&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect4&quot;&gt;
-&lt;h5 id=&quot;_discovering_phenomenological_research&quot;&gt;Discovering phenomenological research&lt;/h5&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;During the first years of the SciArt Lab, I developed other projects in which there were not clear boundaries between art, science and technology. I just implemented proofs-of-concept, software experiments and aesthetic projects without worrying too much about theoretical frameworks or academic constraints.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;I implemented cellular automata with emergent properties for digital music composition, generative visual art tools, open-source virtual reality components,&amp;#8230;&amp;#8203; Slowly, first-person experience became more important than objectivity. Music and visual arts became a tool for my own self-exploration.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;After couple of years living in the US, the quest for social agents&apos; identity in a multicultural society, and my own immersion in a different environment, implied a lot of cognitive experiences, cultural challenges  and the gradual deconstruction of my own &apos;persona&apos;.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Coming back to Spain and having to face a reverse culture shock made it even more clear. &apos;Who I am?&apos; became the most complex and fascinating question.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;The word &quot;identity&quot; started to replace the word &quot;society&quot; in my research priorities. Understanding my own first-person experience looked more challenging and difficult than exploring others&apos; behavior or identity formation. Even the environment looked more interesting if understood from a pure phenomenological perspective.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;exampleblock&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;This explanation can be useful to understand the theoretical foundations of the project and how it is affected by my personal/academic/professional path and its current stage.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;ulist&quot;&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Currently, I work as &lt;strong&gt;Blockchain Expert&lt;/strong&gt; for &lt;strong&gt;Enxendra Technologies&lt;/strong&gt;, where I lead &lt;em&gt;Research and Development&lt;/em&gt; tasks regarding Distributed Technologies.
-I am responsible of the evolution of our technological stack in terms of decentralization and blockchain-based innovation, towards a model in which traditional third-party solutions can be replaced by P2P technologies. Basically, pushing enterprises towards the &lt;em&gt;complex adaptive systems&lt;/em&gt; paradigm, towards a m
-odel based on freedom and self-organization rather than centralization.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;At the same time I am focused in the experiments of the SciArt Lab, exploring from a multidisciplinary perspective different aspects of human potential, e
-mbracing both science, technology and humanities. Trying to participate in the collective production of knowledge and tools for a P2P society in which distr
-ibuted networks and virtual reality will provide a new playground for our species, a new playground for creative experiences: the distributed metaverse.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Additionally, as an endless side project, I pursue the quest for personal identity through different tools, specially photography. Trying to understand t
-he node in order to transform the network.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;So complex. So simple. Autopoiesis.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;admonitionblock note&quot;&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td class=&quot;icon&quot;&gt;
-&lt;div class=&quot;title&quot;&gt;Note&lt;/div&gt;
-&lt;/td&gt;
-&lt;td class=&quot;content&quot;&gt;
-Some thumbnails of this project are posted in my &lt;em&gt;Instagram&lt;/em&gt; account (&lt;code&gt;xmunch&lt;/code&gt;) with the hashtag &lt;code&gt;#autopoiesissciartlab&lt;/code&gt;.
-You can &lt;a href=&quot;https://www.instagram.com/xmunch/&quot;&gt;subscribe to my feed&lt;/a&gt; or &lt;a href=&quot;https://www.instagram.com/explore/tags/autopoiesissciartlab/&quot;&gt;to the hashtag&lt;/a&gt; itself to be updated. For prints or a photo exhibit you can contact me directly to &lt;a href=&quot;mailto:xmunch@xmunch.com&quot;&gt;xmunch@xmunch.com&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-          </description>
-      </item>
       
       <item>
           <title>Building a Lab in a Distributed Metaverse.</title>
-          <link>http://dgrmunch.github.io/blog/blog/2017/building-a-distributed-metaverse.html</link>
+          <link>http://filedn.com/lzKR35HlP1yHLFtV0oLTAku/blog/blog/2017/building-a-distributed-metaverse.html</link>
           <pubDate>Fri, 8 Dec 2017 00:00:00 +0100</pubDate>
-          <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/building-a-distributed-metaverse.html</guid>
+          <guid isPermaLink="false">http://filedn.com/lzKR35HlP1yHLFtV0oLTAku/blog/blog/2017/building-a-distributed-metaverse.html</guid>
           <description>
               &lt;!-- toc disabled --&gt;
 &lt;div class=&quot;exampleblock&quot;&gt;
@@ -393,9 +152,9 @@ More information about the evolution of the project will be published soon.&lt;/
       
       <item>
           <title>Digital creation for hackers & makers: prototyping musical tools from the SciArt Lab.</title>
-          <link>http://dgrmunch.github.io/blog/blog/2017/digital-music-creation.html</link>
+          <link>http://filedn.com/lzKR35HlP1yHLFtV0oLTAku/blog/blog/2017/digital-music-creation.html</link>
           <pubDate>Thu, 1 Jun 2017 00:00:00 +0200</pubDate>
-          <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/digital-music-creation.html</guid>
+          <guid isPermaLink="false">http://filedn.com/lzKR35HlP1yHLFtV0oLTAku/blog/blog/2017/digital-music-creation.html</guid>
           <description>
               &lt;div class=&quot;admonitionblock note&quot;&gt;
 &lt;table&gt;
@@ -538,9 +297,9 @@ This is one example of one program/animation that I have implemented recently:&l
       
       <item>
           <title>Alda-tabs: Domain Specific Language for Guitar Players in the Java Virtual Machine</title>
-          <link>http://dgrmunch.github.io/blog/blog/2017/alda-tabs.html</link>
+          <link>http://filedn.com/lzKR35HlP1yHLFtV0oLTAku/blog/blog/2017/alda-tabs.html</link>
           <pubDate>Thu, 13 Apr 2017 00:00:00 +0200</pubDate>
-          <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/alda-tabs.html</guid>
+          <guid isPermaLink="false">http://filedn.com/lzKR35HlP1yHLFtV0oLTAku/blog/blog/2017/alda-tabs.html</guid>
           <description>
               &lt;div class=&quot;admonitionblock note&quot;&gt;
 &lt;table&gt;
@@ -1026,9 +785,9 @@ Your browser does not support the audio tag.
       
       <item>
           <title>A new research: Introduction to Rhizome Ethnographies</title>
-          <link>http://dgrmunch.github.io/blog/blog/2017/rhizome.html</link>
+          <link>http://filedn.com/lzKR35HlP1yHLFtV0oLTAku/blog/blog/2017/rhizome.html</link>
           <pubDate>Wed, 1 Mar 2017 00:00:00 +0100</pubDate>
-          <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/rhizome.html</guid>
+          <guid isPermaLink="false">http://filedn.com/lzKR35HlP1yHLFtV0oLTAku/blog/blog/2017/rhizome.html</guid>
           <description>
               &lt;div class=&quot;admonitionblock note&quot;&gt;
 &lt;table&gt;
@@ -1135,9 +894,9 @@ This article was originally published in the &lt;a href=&quot;http://www.xmunch.
       
       <item>
           <title>Abrazando la condición postmoderna</title>
-          <link>http://dgrmunch.github.io/blog/blog/2017/la-llamada.html</link>
+          <link>http://filedn.com/lzKR35HlP1yHLFtV0oLTAku/blog/blog/2017/la-llamada.html</link>
           <pubDate>Sun, 12 Feb 2017 00:00:00 +0100</pubDate>
-          <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/la-llamada.html</guid>
+          <guid isPermaLink="false">http://filedn.com/lzKR35HlP1yHLFtV0oLTAku/blog/blog/2017/la-llamada.html</guid>
           <description>
               &lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5796/21703173230_b89fc10ea9_b.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;h1&gt;Examen de conciencia: del filo-marxismo a la filosofía postmoderna&lt;/h1&gt;
@@ -1199,9 +958,9 @@ This article was originally published in the &lt;a href=&quot;http://www.xmunch.
       
       <item>
           <title>Blockchain Technologies and the P2P Paradigm</title>
-          <link>http://dgrmunch.github.io/blog/blog/2017/blockchain.html</link>
+          <link>http://filedn.com/lzKR35HlP1yHLFtV0oLTAku/blog/blog/2017/blockchain.html</link>
           <pubDate>Fri, 3 Feb 2017 00:00:00 +0100</pubDate>
-          <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/blockchain.html</guid>
+          <guid isPermaLink="false">http://filedn.com/lzKR35HlP1yHLFtV0oLTAku/blog/blog/2017/blockchain.html</guid>
           <description>
               &lt;p&gt;&lt;img src=&quot;https://dgrmunch.github.io/blog/img/blockchain.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;h2&gt;Blockchain, Commons and P2P&lt;/h2&gt;
@@ -1239,9 +998,9 @@ This article was originally published in the &lt;a href=&quot;http://www.xmunch.
       
       <item>
           <title>Descentralizando la blogosfera</title>
-          <link>http://dgrmunch.github.io/blog/blog/2017/descentralizando.html</link>
+          <link>http://filedn.com/lzKR35HlP1yHLFtV0oLTAku/blog/blog/2017/descentralizando.html</link>
           <pubDate>Sun, 1 Jan 2017 00:00:00 +0100</pubDate>
-          <guid isPermaLink="false">http://dgrmunch.github.io/blog/blog/2017/descentralizando.html</guid>
+          <guid isPermaLink="false">http://filedn.com/lzKR35HlP1yHLFtV0oLTAku/blog/blog/2017/descentralizando.html</guid>
           <description>
               &lt;p&gt;&lt;img src=&quot;https://dgrmunch.github.io/blog/img/network.jpg&quot; alt=&quot;&quot; title=&quot;Red distribuida y heterogénea&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Ha pasado poco más de un año desde defendí mi tesis doctoral: &lt;strong&gt;La descentralización estructural y la heterogeneidad funcional en la producción colectiva de conocimiento: una justificación teórica y computacional del paradigma P2P&lt;/strong&gt;.&lt;/p&gt;

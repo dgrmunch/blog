@@ -1,0 +1,116 @@
+title=Building a Lab in a Distributed Metaverse.
+date=2017-12-08
+type=post
+tags=programming, metaverse, webvr, vr, code, coding, sciart, aframe, english, open-source, distributed, p2p, decentraland, decentralized
+status=published
+~~~~~~
+
+include::../../headers/constants.adoc[]
+:alda-tabs-repo: https://raw.githubusercontent.com/dgrmunch/alda-tabs/master
+:github-url: https://github.com/dgrmunch
+:sciart-github-url: https://github.com/sciartlab
+:alda-tabs: https://dgrmunch.github.io/blog/blog/2017/alda-tabs.html
+:cellularAutomataVideoChannel: https://www.youtube.com/playlist?list=PL7xg0jqeMOn8xBEn4tn5kuOjmHitTMZyZ
+
+:toc:
+:toc-placement!:
+
+toc::[]
+
+[Tip]
+====
+
+The Metaverse is a collective virtual shared space, created by the convergence of virtually enhanced physical reality and physically persistent virtual space, including the sum of all virtual worlds, augmented reality, and the internet. The word metaverse is a portmanteau of the prefix "meta" (meaning "beyond") and "universe" and is typically used to describe the concept of a future iteration of the internet, made up of persistent, shared, 3D virtual spaces linked into a perceived virtual universe.
+
+The term was coined in Neal Stephenson's 1992 science fiction novel Snow Crash, where humans, as avatars, interact with each other and software agents, in a three-dimensional space that uses the metaphor of the real world. Stephenson used the term to describe a virtual reality-based successor to the Internet
+
+[...]
+
+_Extracted from https://en.wikipedia.org/wiki/Metaverse[Wikipedia]_
+
+====
+
+=== Towards a Virtual Reality
+
+During the last year we have been exploring how the {sciartlab}[SciArt Lab] could contribute to the emergence of the distributed metaverse. We had the chance of testing new virtual reality open-source technologies and develop several `WebVR` components with a triple goal:
+
+* **Create our own immersive experiments in virtual reality** for phenomenological and artistic explorations.
+* **Contribute to the upcoming 3D Web**, sharing content and open-source components with the idea of a future distributed metaverse in mind (built on the top of `a-frame` + `ipfs`).
+* **Build the facilities of the SciArt Lab in a virtual space**, in order to have a place always accessible, independently of our location in the physical world.
+
+Some of those experiments have been already released in social media. However, it may be useful to summarize at least some of our last achievements in a blog post.
+
+The potential of `WebVR` is amazing. It leads to new opportunities for developers and content creators, fixing the problem of interoperability between three-dimensional environments by bringing the community together around web standards (compatible with any virtual reality hardware and accessible from any web browser).
+
+Regarding the role of "decentralization" in the co-production of a metaverse, we should mention that **the decentralized web is becoming achievable in the short term**. If we take into account the evolution of protocols and technologies for distributed consensus or data storage, we can not deny that the dream of a _distributed_ (https://dgrmunch.github.io/blog/blog/2017/blockchain.html[completely decentralized]) virtual reality is easier than ever before.
+
+The use of new _peer-to-peer_ (P2P) protocols such as `IPFS`, in conjunction with the `Ethereum` network or other blockchain-based systems, would make the creation of alternative societies, distributed and transnational, a plausible possibility. As I have been defending in the last decade, P2P technologies are empowering tools which may reshape our societies, and the keystone to implement a cyberspace able to guarantee open innovation and knowledge production.
+If we combine the potential of _peer-to-peer_ with the immersive experience that virtual reality can provide, we may obtain a mindblowing outcome: a world-wide **distibuted metaverse**.
+
+=== SciArt Lab Metaverse Components
+
+The following video displays part of the capabilities of our initial experiments in terms of immersive graphics and interaction with gaze controlled events and teleporting.
+
+++++
+<iframe width="100%" height="315" id="video0-vr" src="https://www.youtube.com/embed/AGB7ZwePYLM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+++++
+
+Additionally, we have been exploring new possibilities for music creation in a 3D virtual world, along with other projects related with music and technology.
+
+NOTE: To read about other music-related projects (not related with VR) you can check the articles https://dgrmunch.github.io/blog/blog/2017/digital-music-creation.html[Digital creation for hackers and makers: prototyping musical tools from the SciArt Lab] and https://dgrmunch.github.io/blog/blog/2017/alda-tabs.html[Alda-tabs: Domain Specific Language for Guitar Players in the Java Virtual Machine].
+
+So far, our experiments combining music + VR are straightforward `a-frame` components which may evolve within the context of more specific projects.
+
+The following tweets are some examples of the prototypes we have been developing lately. The code will be updated in Github  (in {github-url}[my repo] or {sciart-github-url}[the one of the SciArt Lab]).
+
+++++
+<div class="row">
+<div class="col-sm-6">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Controlling sound samples in the browser with <a href="https://twitter.com/aframevr?ref_src=twsrc%5Etfw">@aframevr</a>, <a href="https://twitter.com/hashtag/diy?src=hash&amp;ref_src=twsrc%5Etfw">#diy</a> electronics and the <a href="https://twitter.com/hashtag/webAudioAPI?src=hash&amp;ref_src=twsrc%5Etfw">#webAudioAPI</a><br>Soon: musical instruments in virtual reality! <a href="https://t.co/K66Yda4Pov">pic.twitter.com/K66Yda4Pov</a></p>&mdash; Diego González (@dgrmunch) <a href="https://twitter.com/dgrmunch/status/929883277204193280?ref_src=twsrc%5Etfw">November 13, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Finishing gaze-controlled flying scene for the <a href="https://twitter.com/sciartlab?ref_src=twsrc%5Etfw">@sciartlab</a> <a href="https://twitter.com/hashtag/metaverse?src=hash&amp;ref_src=twsrc%5Etfw">#metaverse</a> <br>Possible thanks to the <a href="https://twitter.com/aframevr?ref_src=twsrc%5Etfw">@aframevr</a> community.<a href="https://twitter.com/hashtag/googlecardboard?src=hash&amp;ref_src=twsrc%5Etfw">#googlecardboard</a> <a href="https://twitter.com/hashtag/WebVR?src=hash&amp;ref_src=twsrc%5Etfw">#WebVR</a> <a href="https://t.co/ZJxPh8KkUt">pic.twitter.com/ZJxPh8KkUt</a></p>&mdash; Diego González (@dgrmunch) <a href="https://twitter.com/dgrmunch/status/924723165330276352?ref_src=twsrc%5Etfw">October 29, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+<div class="col-sm-6">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Testing our a-oscillator primitive:<br>bring <a href="https://twitter.com/hashtag/music?src=hash&amp;ref_src=twsrc%5Etfw">#music</a> to <a href="https://twitter.com/hashtag/virtualReality?src=hash&amp;ref_src=twsrc%5Etfw">#virtualReality</a> with the SciArt Lab Metaverse components &amp; <a href="https://twitter.com/aframevr?ref_src=twsrc%5Etfw">@aframevr</a><a href="https://twitter.com/hashtag/synth?src=hash&amp;ref_src=twsrc%5Etfw">#synth</a> <a href="https://twitter.com/hashtag/webaudioapi?src=hash&amp;ref_src=twsrc%5Etfw">#webaudioapi</a> <a href="https://t.co/tYUkcVWMTy">pic.twitter.com/tYUkcVWMTy</a></p>&mdash; SciArt Lab (@sciartlab) <a href="https://twitter.com/sciartlab/status/929885400809771009?ref_src=twsrc%5Etfw">November 13, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></div>
+++++
+
+
+=== From the SciArt Lab Metaverse components to Decentraland
+
+After some of the _SciArt Lab Metaverse components_ were published in {github-url}[Github] and {twitter}[Twitter], we were mentioned a couple of times in the https://aframe.io/[Week of A-Frame] series (supported by https://www.mozilla.org[Mozilla]).
+
+Some weeks later, **we were contacted by the team of http://decentraland.com[Decentraland] offering support for our project**. That was a really exciting new, a really good chance for the near future of the SciArt Lab.
+
+http://www.decentraland.com[Decentraland] is one of the most promising projects of the new blockchain-based startup ecosystem. They **raised $24 million** during their _ICO_. https://www.forbes.com/sites/omribarzilay/2017/11/30/how-blockchain-is-breathing-new-life-into-virtual-real-estate/#49b9529f511e[Forbes wrote an article about them] recently, remarking how new economies may emerge very soon in virtual worlds.
+
+Decentraland combines the possibilities of open standards, `WebVR` and decentralized technologies within a conceptual and economic framework: shared ownership of the platform.
+
+Here there is an introduction from their website:
+
+[Tip]
+====
+
+**Decentraland is a virtual reality platform powered by the Ethereum blockchain. Users can create, experience, and monetize content and applications.**
+
+Decentraland is the first virtual platform owned by its users.
+Grab a VR headset or use your web browser and become completely immersed in a 3D, interactive world.
+There are plenty of opportunities to explore or even create your own piece of the universe. Here, you can purchase land through the Ethereum blockchain, creating an immutable record of ownership. No one can limit what you build.
+
+With full control over your land, you can create unique experiences unlike anything in existence. Your imagination is the limit: go to a casino, watch live music, attend a workshop, shop with friends, start a business, test drive a car, visit an underwater resort, and much, much more—all within a 360-degree, virtual world.
+
+====
+
+And this is a promotional video of the project:
+
+++++
+<iframe width="100%" height="315" id="video1-vr" src="https://www.youtube.com/embed/-HmXrOTEmxg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+++++
+
+After talking with them, we agreed to collaborate and build during 2018 the _SciArt Lab Metaverse Branch_ as a district in Decentraland. They will provide the resources that we need to make this happen, so this opens a new period for the lab, in which patronage and partnerships will make our projects more sustainable.
+
+We have recently initiated a partnership with http://maggarquitectura.com[Magg Architecture] for the construction of our facility in the metaverse.
+More information about the evolution of the project will be published soon.
+
+image:{blog-path}/img/sciartlabHeadquarters.jpg[]
